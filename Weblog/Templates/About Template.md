@@ -203,12 +203,6 @@ aside {
 <hr>
 <article>
 	{body}
-	<aside class="post-info">
-		<i class="fa-solid fa-clock"></i> {date}
-{tags}
-	</aside>
-	<!-- <aside class="post-tags">
-	</aside> -->
 </article>
 <hr>
 <box>
