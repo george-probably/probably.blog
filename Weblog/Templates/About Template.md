@@ -168,7 +168,7 @@ hr {
 }
 
 article{
-    padding: 5px 25px 10px 25px;
+    padding: 5px 25px 5px 25px;
     padding-top: 5px;
     border-radius: 30px;
     background: var(--articleBG);
