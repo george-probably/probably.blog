@@ -1,7 +1,7 @@
 Date: 1970-01-01 01:00
 Type: Page
 Title: About
-Template: Page Template
+Template: About Template
 ---
 
 # About Me:
