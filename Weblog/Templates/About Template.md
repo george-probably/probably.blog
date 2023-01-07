@@ -26,6 +26,17 @@ Type: Template
 	--articleBorder: #1c62a8 ;
 }
 
+@media (prefers-color-scheme: dark) {
+    :root {
+    --foreground: #eee;
+	--background: linear-gradient(90deg, #288cf0 0%, #5e94c3 50% ,#e3dbce 100%);
+    --link: #eee;
+    --unimportant: #ebebeb;
+    --articleBG: #1c62a8;
+    --articleBorder: #68aef4  ;
+    }
+}
+
 * {
 	box-sizing: border-box;
 }
