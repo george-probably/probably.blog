@@ -1,0 +1,72 @@
+// Weblog Configuration
+
+# About your weblog
+
+Weblog Title: George, Probably Blogs
+Weblog Description: Sometimes I think things.
+Author: George, Probably
+Canonical domain: chachanidze.com
+Landing Page: home
+
+# General config stuff
+
+Separator:  - 
+Navigation: [Home](/), about, archive, <a href="https://youtube.com/@Snappy-Tech" target="_blank">YouTube</a>
+Tag path: /tag/
+
+# Time stuff
+
+; You can use a timezone value from the "TZ database name" column on this 
+; web page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+Timezone: GB
+Date format: F j, Y H:i
+
+# Recent posts {recent-posts}
+
+Recent posts count: 5
+Recent posts format: <<[
+<ul>
+[post:begin]<li><a href="$location">$title</a></li>[post:end]
+</ul>]>>
+
+
+# Post list {post-list}
+
+Post list format: <<[
+<ol reversed>
+[post:begin]<li><a href="$location">$title</a></li>[post:end]
+</ol>]>>
+
+
+# Search
+
+Search status: enabled
+Search results success message: There [is|are] $count [result|results] for your search:
+Search results failure message: There were no results found for your search.
+Search results format: <<[
+<h2>Results for “$search”</h2>
+<p>$search_results_message</p>
+[post:begin]<h3><a href="$location">$title</a></h3>
+<p>$date</p>
+<p>$snippet</p>[post:end]
+]>>
+
+
+# Posts
+
+// Post path format: /Y/m/
+
+Default post: <<[---
+Date: $date
+Status: Draft
+---
+# Title
+
+Templates:
+![alt](link)
+<div class="caption"><p>caption</p></div>
+
+<p><div class="video-container"><iframe class="video" width="100%" height="100%" frameborder="0" src="https://www.youtube.com/embed/yA4Ikb7I6QM" allowfullscreen></iframe></p></div>
+<div class="caption"><p>caption</p></div>
+]>>
