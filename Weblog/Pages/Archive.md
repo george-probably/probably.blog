@@ -1,7 +1,6 @@
-Date: 1970-01-01 01:00
 Type: Page
-Title: Archive
 Template: Archive Template
+Title: Archive
 ---
 
 # Archive of all posts ({post-count}):

@@ -1,7 +1,6 @@
-Date: 1970-01-01 01:00
 Type: Page
-Title: Home
 Template: Page Template
+Title: Home
 ---
 
 # Welcome!

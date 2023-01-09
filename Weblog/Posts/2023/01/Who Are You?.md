@@ -3,8 +3,8 @@ Date: 2023-01-13 12:00
 Status: Draft
 ---
 
-
 # Who Are You?
+
 > Note: What you are about to read is a refined version of a talk I gave back in 2018. If you'd rather just watch the video, [click here](https://www.youtube.com/watch?v=MuVouskqKwo) or see the embed at the bottom of this page.
 
 What makes you who you are? Is it your actions? Those change day to day or even moment by moment. Your reaction to something may have been entirely different had it happened 10 minutes ago, when you had just woken up, or after a tough day at work.
