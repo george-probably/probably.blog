@@ -1,5 +1,5 @@
 // Weblog Configuration
-// tets
+// test
 
 # About your weblog
 
