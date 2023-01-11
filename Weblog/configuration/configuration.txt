@@ -1,5 +1,4 @@
 // Weblog Configuration
-// test
 
 # About your weblog
 
