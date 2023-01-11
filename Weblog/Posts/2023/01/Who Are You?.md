@@ -14,9 +14,13 @@ OK, so maybe it's the stuff that physically makes up your body. Well, it can't b
 
 ---
 
-Ever since secondary school, I've suffered from imposter syndrome. If you don't know who that is, I have a persistent fear of being exposed as a fraud; someone who secretly knows nothing and is simply deceiving all of those around me. I'm aware of why it happens: the Dunning-Kruger Effect. It explains that after a certain point, the more you know, the less you think you know. It feels like you're being dragged under a rough tide where although you're learning as fast as you can, you know there is much more to learn than you had previously realised. You get swept away by the feeling that you'll never be able to learn all that there is to know.
+Ever since secondary school, I've suffered from imposter syndrome. If you don't know who that is, I have a persistent fear of being exposed as a fraud; someone who secretly knows nothing and is simply deceiving all of those around me. I'm aware of why it happens: the Dunning-Kruger Effect.
+
+It explains that after a certain point, the more you know, the less you think you know. It feels like you're being dragged under a rough tide where although you're learning as fast as you can, you know there is much more to learn than you had previously realised. You get swept away by the feeling that you'll never be able to learn all that there is to know.
 
 However, just like how knowing that you're colourblind doesn't magically allow you to see colour - knowing what causes your distress does not make that distress go away. My imposter syndrome  affects me on a near-daily basis. I'm am terrible at completing projects because of the fear that people will see the work I do, and think of it as inadequate. I am constantly scared that someone will look at me one day and realise that all of my success has been due to sheer luck. The words I say aren't masterfully crafted, just the ramblings of a madman.
+
+My response to hearing someone saying good things about my work isn't to be proud of what I've done, it's to be devestated because I feel like it's not worthy of the praise and when the person notices that I'll feel all the worse knowing that they used to hold me in high regard.
 
 My [most viewed video](https://youtu.be/czfgKW4Zah8) on YouTube isn't popular because it's a fantastic piece of content. It's popular because the budget supermarket chain ALDI decided that for some reason it would be a good idea to sell gaming PCs, I picked one up to take apart and look inside, and it just so happened to go viral. The reality is: that video is probably one of the worst videos on my channel. I filmed it after a long day at work, and I'm just rambling at the camera.
 
