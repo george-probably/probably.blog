@@ -1,3 +1,4 @@
+---
 Type: Page
 Template: Archive Template
 Title: Archive

@@ -1,3 +1,4 @@
+---
 Type: Page
 Template: Page Template
 Title: Home
