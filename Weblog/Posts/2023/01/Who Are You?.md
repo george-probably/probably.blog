@@ -10,7 +10,7 @@ What makes you who you are? Is it your actions? Those change day to day or even 
 
 Is it your memories? That must be terrifying for someone with dementia. And what about what you had for breakfast last week? If you can't remember it, does that mean someone else decided what to have? Does that mean someone else ate it?
 
-OK, so maybe it's the stuff that physically makes up your body. Well, it can't be that. Your body recycles every single cell after about a year. Sure, that excludes neurons and cardiomyocyte cells, but a large majority of you will be unrecognisable on a cellular level.
+Okay, so maybe it's the stuff that physically makes up your body? Well, it can't be that! Your body recycles every single cell after about a year. Sure, that excludes neurons and cardiomyocyte cells, but a large majority of you will be unrecognisable on a cellular level.
 
 ---
 
