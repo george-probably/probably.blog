@@ -11,3 +11,4 @@ This is a repo for the [chachanidze.com](https://chachanidze.com) Weblog. Please
 | .../Pages         | Any page that isn't a blog post belongs in here, they tend to also require their own template.                                    |
 | .../Posts         | This folder contains the Markdown files for each blog post, they are sub-divided into `Year/Month`.                               |
 | .../Templates     | Though the main template is housed in `/Configuration`, the secondary templates for non-post pages are hosted within this folder. |
+| .github/Workflows | This contains the main.yml file needed to kick off the task of updated the weblog whenever this repo is changed.                  |
