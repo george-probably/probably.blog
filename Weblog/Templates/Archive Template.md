@@ -195,7 +195,7 @@ aside {
 <body>
 
 <header>
-	<h1 class="weblog-title"><a href="{base-path}">{weblog-title}</a></h1>
+	<h1 class="weblog-title"><a style="text-decoration:none" href="{base-path}">{weblog-title}</a></h1>
 	{navigation}
 </header>
 <main>
