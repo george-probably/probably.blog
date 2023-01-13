@@ -20,6 +20,12 @@ It explains that after a certain point, the more you know, the less you think yo
 
 ![A graph showing a depiction of the Dunning-Kruger Effect](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Who%20Are%20You%3F/Dunning%E2%80%93Kruger_Effect.png)<div class="caption">Original graph from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dunning%E2%80%93Kruger_Effect_01.svg), under a CC0 license.</div>
 
+<picture>
+  <source srcset="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Who%20Are%20You%3F/Dunning%E2%80%93Kruger_Effect_Dark.png" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Who%20Are%20You%3F/Dunning%E2%80%93Kruger_Effect.png" alt="A graph showing a depiction of the Dunning-Kruger Effect">
+</picture>
+
+
 However, like how knowing that you're colourblind doesn't magically allow you to see colour - knowing what causes your distress does not make that distress go away. My imposter syndrome affects me on a near-daily basis. I am terrible at completing projects because of the fear that people will see my work and think of it as inadequate. I am constantly scared that someone will look at me one day and realise that all of my success has been due to sheer luck. The words I say aren't masterfully crafted, just the ramblings of a madman.
 
 My response to hearing someone say good things about my work isn't to be proud of what I've done; it's to be devastated because I feel like it's not worthy of the praise, and when the person notices that I'll feel all the worse knowing that they used to hold me in high regard.
