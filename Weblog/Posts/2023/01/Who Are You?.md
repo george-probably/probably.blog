@@ -18,12 +18,10 @@ Ever since secondary school, I've suffered from imposter syndrome. If you don't 
 
 It explains that after a certain point, the more you know, the less you think you know. It feels like you're being dragged under a rough tide where although you're learning as fast as you can, you know there is much more to learn than you had previously realised. You get swept away by the feeling that you'll never be able to learn all that there is to know.
 
-![A graph showing a depiction of the Dunning-Kruger Effect](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Who%20Are%20You%3F/Dunning%E2%80%93Kruger_Effect.png)<div class="caption">Original graph from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dunning%E2%80%93Kruger_Effect_01.svg), under a CC0 license.</div>
-
 <picture>
   <source srcset="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Who%20Are%20You%3F/Dunning%E2%80%93Kruger_Effect_Dark.png" media="(prefers-color-scheme: dark)">
   <img src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Who%20Are%20You%3F/Dunning%E2%80%93Kruger_Effect.png" alt="A graph showing a depiction of the Dunning-Kruger Effect">
-</picture>
+</picture><div class="caption">Original graph from <a href="https://commons.wikimedia.org/wiki/File:Dunning%E2%80%93Kruger_Effect_01.svg" target="_blank">Wikimedia Commons</a>, under a CC0 license.</div>
 
 
 However, like how knowing that you're colourblind doesn't magically allow you to see colour - knowing what causes your distress does not make that distress go away. My imposter syndrome affects me on a near-daily basis. I am terrible at completing projects because of the fear that people will see my work and think of it as inadequate. I am constantly scared that someone will look at me one day and realise that all of my success has been due to sheer luck. The words I say aren't masterfully crafted, just the ramblings of a madman.
