@@ -1,5 +1,5 @@
 Status: draft
 
-# New... post
+# a.post
  
 This is a test post
