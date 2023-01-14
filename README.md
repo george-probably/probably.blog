@@ -1,3 +1,5 @@
+![George, Probably Blogs](/Images/George%20Probably%20Blogs.png)
+
 # Chachanidze.com
 This is a repo for the [chachanidze.com](https://chachanidze.com) Weblog. Please note that you may see posts in here that aren't quite ready for prime-time! I am trusting you to be considerate of the work-in-progress.
 

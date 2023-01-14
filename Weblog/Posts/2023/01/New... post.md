@@ -1,5 +1,0 @@
-Status: draft
-
-# New... post
- 
-This is a test post
