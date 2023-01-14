@@ -208,11 +208,11 @@ aside {
 <h2><i class="fa-solid fa-clock-rotate-left"></i> Recent Posts</h2>
 {recent-posts}
 </box>
-<hr>
+<!-- <hr>
 <box>
 <h2><i class="fa-solid fa-box-archive"></i> Looking for something older?</h2>
 <p><a href="/archive">Take a look in the Archive</a></p>
-</box>
+</box> -->
 <hr>
 </main>
 <footer>
