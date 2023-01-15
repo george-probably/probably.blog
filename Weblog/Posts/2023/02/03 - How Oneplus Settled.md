@@ -3,7 +3,7 @@ Date: 2023-02-03 12:00
 Status: Draft
 ---
 
-# How Oneplus Settled: The rise and fall of the cult favourite
+## How Oneplus Settled: The rise and fall of the cult favourite
 
 ![A picture of the Oneplus Nord](https://images.unsplash.com/photo-1600721502738-84bd123c8a99?w=1000)<div class="caption">Photo by [Denis Cherkasin](https://unsplash.com/@denic) on [Unsplash](https://unsplash.com/)</div>
 

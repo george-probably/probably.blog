@@ -2,13 +2,13 @@
 Date: 2022-04-15 12:00
 ---
 
-# Why is modern software so bad?
+## Why is modern software so bad?
 
 ![Photo of a laptop screen showing lines of code](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1000)<div class="caption">Photo by [Chris Ried](https://unsplash.com/@cdr6934) on [Unsplash](https://unsplash.com/)</div>
 
 There’s no denying that Adobe Creative Cloud [really](https://twitter.com/sarandon_raboin/status/1368685514421796864), [really](https://twitter.com/DoghouseCorgian/status/1512184578173247489), [really](https://twitter.com/MyBandRomance/status/1512423823261454345) likes crashing. Some would argue that it likes crashing more than [Lance Stroll](https://www.youtube.com/watch?v=3oNCmFSsEBI)! I was recently on [The Cut Down](https://www.youtube.com/watch?v=VxI9haYnsgo) with Benjamin Aboagye, and we spent some time discussing why, and I feel like it is a significant enough topic that warrants a full write-up.
 
-## When did this all start?
+### When did this all start?
 
 Before the widespread adoption of the internet, the world of software development was extremely different. You’d physically ship your software to customers, and that would be that. No chance for a day-one patch or to ship a sub-optimal experience with the promise of making it better down the line. What you put on the disk was all that users would get, which meant that the software had to be ready to run out of the box.
 
@@ -20,7 +20,7 @@ This has, however, allowed for some redemption stories. No Man’s Sky launched 
 
 ![Frustrated man sat staring at his laptop screen](https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?w=1000)<div class="caption">Photo by [Tim Gouw](https://unsplash.com/@punttim) on [Unsplash](https://unsplash.com)</div>
 
-## What happens when you realise a deadline isn’t really a deadline?
+### What happens when you realise a deadline isn’t really a deadline?
 
 Selling software on a disk means that the code needs to be ready weeks, if not months, before the release date. The software needs to be written onto millions of discs, and those discs need to be sent around the globe, ready to be bought at midnight on launch day.
 
@@ -42,7 +42,7 @@ Even when these features are good, they face a tough lifecycle. Unless it’s a 
 
 ![A laptop screen showing a user on Facebook whilst holding a phone in their right hand](https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=1000)<div class="caption">Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com)</div>
 
-## Passively Ruining Your Apps
+### Passively Ruining Your Apps
 
 This is the kind of thing that almost happens by mistake. Let’s say you’re a software developer with ten programmers. You’ve just brought in a newbie, and they want to impress, and what better way to impress than by creating a brand new feature that they know will be popular with the masses. They spend 8 hours a day working away to make this feature incredible, it launches, and everyone loves it, so what do you do? You give that programmer a promotion! They’re no longer doing the programming themselves; they’re now running a small team.
 
@@ -52,7 +52,7 @@ This, to some extent, is why Windows is as bloated as it is. However, Windows do
 
 The passive destruction of your apps is something that needs constant monitoring. Sure, an OS can’t afford to break compatibility with itself from 25 years ago, but your note-taking app probably can. The balance between backwards compatibility and usefulness needs to be constantly adjusted with user feedback. If no one is using the feature that causes your application to take an extra 30-seconds to load, why is it there?
 
-## Actively Ruining Your Apps
+### Actively Ruining Your Apps
 
 This one is far more sinister and casts a much darker light on the software industry. You set out to make the best to-do app the world has ever seen and to make it, you have hired 100 programmers. Thanks to the incredible app, you have convinced a million people to sign up at £5 per month, which is great, but how do you increase profit? What if you just got rid of most of the stability team. Instead of 100 programmers who balance new features with stability, cut it down to 50 programmers, and you’ve halved your development costs!
 
@@ -68,7 +68,7 @@ Hell, even if it doesn’t make more money, I bet many fans who are only half-in
 
 Nothing shows this phenomenon as much as just looking back and seeing the price of previous games in the franchises. FIFA 21, a game less than two years old, has a street value of £8, and the game has lost 93% of its value over the course of 18 months.
 
-## How do we fix this?
+### How do we fix this?
 
 Software developers need to take a step back and really commit to the time to work on stability. Sure, it’s not the most exciting thing to share with users, but it is the right option in the long term, especially when your users are professionals. As a video creator, I don’t care about the one random new feature that Premiere Pro launches with in the next update. I’m infinitely more frustrated that the lack of hardware optimization means that renders take longer than needed. A bug meant that opening a PSD within After Effects would cause it to crash immediately.
 

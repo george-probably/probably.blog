@@ -3,7 +3,7 @@ Date: 2023-01-20 12:00
 Status: Draft
 ---
 
-# Adding More Whimsy To Your Life
+## Adding More Whimsy To Your Life
 
 If you've looked in the footer of this blog, you'll have seen that it's hosted on [weblog.lol](https//weblog.lol). This falls under the larger unbrella of [omg.lol](https://omg.lol), a collection of web tools that creator Adam Newbold (@Neatnik) thought would be useful. The reality, however, is that it is much more than than. In creating this service, Adam has found a way to bring together a community of passionate tinkerers, who reside within an IRC channel (bridge to a Discord server, just in case you're not **that** technical).
 
@@ -11,7 +11,7 @@ Why do I mention all of this? Well, with the world seemingly become a more serio
 
 There are a few other products and services that seem to thrive on whimsy, so if you need to take a moment and stop taking things so seriously, here are some things that will help take your mind off of the world:
 
-## #1 - PlayDate
+### #1 - PlayDate
 
 ![A picture of the PlayDate Handheld Console.](https://static-fastly.play.date/static/images/gallery-04-fullsize.jpg)<div class="caption">Photo from [play.date](https://play.date)</div>
 
@@ -21,7 +21,7 @@ Full disclosure: The Playdate isn't a console which will be getting you immersed
 
 It is **NOT** lost on me that you're paying basically the same amount as a Switch Lite for this thing, but it is worth noting that the PlayDate actually comes with a season of 24 games (two are delievered to you ever single Monday for 12 weeks after first turning on the device). It's the device you get to remind yourself of the GameBoy you had as a kid, where you weren't trying to run a ray-traced game at 8K and complaining that your 4090 couldn't maintain 240FPS.
 
-## #2 - 
+### #2 - 
 
 
 
@@ -29,7 +29,7 @@ It is **NOT** lost on me that you're paying basically the same amount as a Switc
 
 
 
-## #5 - omg.lol
+### #5 - omg.lol
 
 I want to wrap this up by quickly bringing it full circle. When I first signed up to [omg.lol](https://omg.lol), it was actually because I just needed something to host what I call my "digital business card", it's basically like a linktree but also with direct contact info, a link I have stored on an NFC chip on a ring, so I can give someone my contact details in a fast-paced environment.
 

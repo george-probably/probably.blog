@@ -2,7 +2,7 @@
 Date: 2022-12-31 23:59
 ---
 
-# New Year, Same Tired
+## New Year, Same Tired
 ![A Photograph showing the year "2023" as light art.](https://images.unsplash.com/photo-1668586556253-24f561a92712?w=1000)<div class="caption"><p>Photo by [Moritz Knöringer](https://unsplash.com/@mokngr) on [Unsplash](https://unsplash.com/)</p></div>
 
 Every year I make a small video that I send to those who impacted my life over the last 12 months. It’s a way for me to look back at the highlights of the year and always remind myself to be thankful.  I have some truly amazing friends who are all super talented, kind, and inspirational. They are all so wonderful, and I spend a lot of effort trying to be as incredible as they are. I like to think that sometimes when I try my hardest on a good day, I am worthy of them. 
@@ -11,7 +11,7 @@ I want to do the same thing this year; I really do. However, the reality is I do
 
 Everything has been tiring. The intense “iOS vs Android” discourse (who cares, it’s **literally** just a phone), the former World’s Richest Man buying a social media site and slowly burning it to the ground, people who don’t think a pandemic that has killed roughly 7 million people worldwide exists; honestly I want to cocoon up and spend the next 365 days in hibernation.
 
-## Reflecting on 2022
+### Reflecting on 2022
 It’s difficult to look back; there have been some of the lowest of lows. In January, I lost my granddad. I missed seeing him for the first time in 3 years by TWO days (thanks, covid). I was honestly devastated. I knew it wasn't something I could control and wasn't my fault, but that didn't hurt any less.
 
 I’ve spent a lot of time working on it, and I have fully forgiven myself. To accept that sometimes life is just shit and that there’s nothing else I could have done. With all of the information available to me at the time, I’d always have booked that same flight and missed seeing him one last time.
@@ -24,7 +24,7 @@ I bought a hilariously massive cookie with a really bad joke on it, dyed my bear
 
 But none of those highs can get over the fact that I have been mentally exhausted. I have just been tired. Of everything. All of the time.
 
-## Maybe I just feel guilty.
+### Maybe I just feel guilty.
 The truth is, I know that I’m in a fortunate situation. Sure I personally have been struggling a little financially (being a student and all), but I know I have the support of my parents should I need anything.
 
 A few months ago, I started hitting the gym and eating better. I’ve dropped a shirt size and a jean size. I’m the best I have been physically in years, and keep improving. But I also know that whilst having the outward appearance of making progress, mentally, I’m worse than I have been in years.

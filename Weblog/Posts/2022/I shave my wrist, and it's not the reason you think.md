@@ -2,7 +2,7 @@
 Date: 2022-12-20 21:30
 ---
 
-# I shave my wrist, and it's not the reason you think
+## I shave my wrist, and it's not the reason you think
 
 ![A picture of George's arm, showing a shaved part for his new tattoo but also a shaved wrist.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/I%20shave%20my%20wrist%2C%20and%20it's%20not%20the%20reason%20you%20think/Tattoo%20Close-Up.jpg)
 <div class="caption"><p>Photo by me, since, you know, it's my wrist</p></div>

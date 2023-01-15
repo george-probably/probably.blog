@@ -4,5 +4,5 @@ Template: Archive Template
 Title: Archive
 ---
 
-# Archive of all posts ({post-count}):
+## Archive of all posts ({post-count}):
 {post-list}
