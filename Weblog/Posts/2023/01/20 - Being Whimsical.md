@@ -9,13 +9,15 @@ If you've looked in the footer of this blog, you'll have seen that it's hosted o
 
 Why do I mention all of this? Well, with the world seemingly become a more serious and dark place with every passing moment, these services (and the communities that thrive along with them) provide a light to help keep that darkness at bay. Whether it be thanks to the cute logo (known as Prami), the community, or just the fact that Adam himself is always willing to help you solve any issues you may have.
 
-There are a few other products and services that seem to thrive on whimsy, so if you need to take a moment and stop taking things so seriously, here are some things that will help take your mind off of the world:
+There are a few other products and services that seem to thrive on whimsy, so if you need to take a moment and stop taking things so seriously, here are some products and services that will help take your mind off of the world:
 
 ### #1 - PlayDate
 
 ![A picture of the PlayDate Handheld Console.](https://static-fastly.play.date/static/images/gallery-04-fullsize.jpg)<div class="caption">Photo from [play.date](https://play.date)</div>
 
-I only recieved my PlayDate a few weeks ago, but I already see it as an irreplaceable part of my gaming life. For those who don't know: The PlayDate is a $179 handheld gaming console that was released by Panic. You'll know them from Nova, an awesome code editor for macOS, or from publishing games like Untitled Goose Game and the award-winning Firewatch. How do I know Firewatch is award winning? I actually interviewed James Benson, an animator at Campo Santo (the studio behind Firewatch) after they won a Golden Joystick for Best Indie Game, [you can see that (very chaotic) video here](https://youtu.be/W-wYWfAuag8)!
+I only recieved my PlayDate a few weeks ago, but I already see it as an irreplaceable part of my gaming life. For those who don't know: The PlayDate is a $179 handheld gaming console that was released by Panic. You'll know them from Nova, an awesome code editor for macOS, or from publishing games like Untitled Goose Game and the award-winning Firewatch.
+
+<!-- How do I know Firewatch is award winning? I actually interviewed James Benson, an animator at Campo Santo (the studio behind Firewatch) after they won a Golden Joystick for Best Indie Game, [you can see that (very chaotic) video here](https://youtu.be/W-wYWfAuag8)! -->
 
 Full disclosure: The Playdate isn't a console which will be getting you immersed in graphically detailed worlds, in fact, the screen is a mere 400x240 pixels, and even more crazily, it's a 1-bit panel, meaning it's black and white! Despite the restraints however, the quirkiness of the device has led to some very inventive problem solving, and the simplicity of the device is a large part of the charm.
 
@@ -23,11 +25,9 @@ It is **NOT** lost on me that you're paying basically the same amount as a Switc
 
 ### #2 - 
 
+### #3 - 
 
-
-
-
-
+### #4 - 
 
 ### #5 - omg.lol
 
