@@ -102,10 +102,10 @@ footer p {
     text-align: center;
 }
 
-a:link { color: var(--link); }
-a:visited { color: var(--link); }
-a:hover { color: var(--link); }
-a:active { color: var(--link); }
+a:link { color: var(--link); text-decoration: none; border-bottom: 1px dotted var(--link); }
+a:visited { color: var(--link); text-decoration: none; border-bottom: 1px dotted var(--link) }
+a:hover { color: var(--link); text-decoration: none; border-bottom: 1px solid var(--link) }
+a:active { color: var(--link); text-decoration: none; border-bottom: 1px solid var(--link) }
 
 .post-info, .post-tags {
     font-size: 85%;
@@ -195,7 +195,7 @@ aside {
 <body>
 
 <header>
-	<h1 class="weblog-title"><a style="text-decoration:none" href="{base-path}">{weblog-title}</a></h1>
+	<h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1>
 	{navigation}
 </header>
 <main>
