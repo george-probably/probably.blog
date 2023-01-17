@@ -23,18 +23,18 @@ Type: Template
     --background: #288cf0;
     --link: #eee;
     --unimportant: #ebebeb;
-    --articleBG: #68aef4 ;
-    --articleBorder: #1c62a8 ;
+    --articleBG: #1c62a8;
+    --articleBorder: #083e73;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark){
     :root {
     --foreground: #eee;
-    --background: #288cf0;
+    --background: #083e73;
     --link: #eee;
     --unimportant: #ebebeb;
     --articleBG: #1c62a8;
-    --articleBorder: #68aef4  ;
+    --articleBorder: #288cf0;
     }
 }
 
