@@ -30,11 +30,11 @@ Type: Template
 @media (prefers-color-scheme: dark) {
     :root {
     --foreground: #eee;
-    --background: #288cf0;
+    --background: #083e73;
     --link: #eee;
     --unimportant: #ebebeb;
     --articleBG: #1c62a8;
-    --articleBorder: #68aef4  ;
+    --articleBorder: #288cf0  ;
     }
 }
 
