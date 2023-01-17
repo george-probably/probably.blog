@@ -16,6 +16,8 @@ Type: Template
 @import url('https://static.omg.lol/type/font-lato-bold.css');
 @import url('https://static.omg.lol/type/font-lato-italic.css');
 @import url('https://static.omg.lol/type/fontawesome-free/css/all.css');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+
 
 :root {
 	--foreground: #eee;
@@ -42,7 +44,7 @@ Type: Template
 }
 
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 120%;
 	color: var(--foreground);
 	background: var(--background);
