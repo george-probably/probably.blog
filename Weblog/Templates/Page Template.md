@@ -102,10 +102,10 @@ footer p {
     text-align: center;
 }
 
-a:link { color: var(--link); }
-a:visited { color: var(--link); }
-a:hover { color: var(--link); }
-a:active { color: var(--link); }
+a:link { border-bottom: 1px dotted var(--link); }
+a:visited { border-bottom: 1px dotted var(--link) }
+a:hover { border-bottom: 1px solid var(--link) }
+a:active { border-bottom: 1px solid var(--link) }
 
 .post-info, .post-tags {
     font-size: 85%;
