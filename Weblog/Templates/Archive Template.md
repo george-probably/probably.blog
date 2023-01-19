@@ -6,6 +6,7 @@ Type: Template
 <html lang="en">
 <head>
 <title>{post-title}{separator}{weblog-title}</title>
+<link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/favicon.png">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#288cf0">
