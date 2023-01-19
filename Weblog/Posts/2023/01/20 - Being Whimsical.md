@@ -13,7 +13,7 @@ There are a few other products and services that seem to thrive on whimsy, so if
 
 ### #1 - PlayDate
 
-![A picture of the PlayDate Handheld Console.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Playdate.jpg)<div class="caption">Photo from [play.date](https://play.date)</div>
+![A picture of the PlayDate Handheld Console.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Playdate.jpg)<div class="caption">Photo from [PlayDate Press Pack](https://play.date)</div>
 
 I only recieved my PlayDate a few weeks ago, but I already see it as an irreplaceable part of my gaming life. For those who don't know: The PlayDate is a $179 handheld gaming console that was released by Panic. You'll know them from Nova, an awesome code editor for macOS, or from publishing games like Untitled Goose Game and the award-winning Firewatch.
 
@@ -30,7 +30,7 @@ This is just plain fun. It's a ring with an NFC chip, allowing you to load WHATE
 You will need a smartphone to configure it, but you can add everything from files, links, phone numbers, and even a Bitcoin address or Wi-Fi network!
 
 ### #4 - Freerice
-![A picture of the Freerice homepage.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Freerice.jpg)<div class="caption">[Freerice.com Homepageplay.date](https://play.date)</div>
+![A picture of the Freerice homepage.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Freerice.jpg)<div class="caption">[Freerice.com Homepag](https://freerice.com/)</div>
 
 Want to do some learning whilst also giving back? [Freerice](https://freerice.com/) has raised the equivalent of $1.5 million in rice, and the way it works is an absolute win-win! All you have to do, is pick a trivia category and a difficulty. You'll be given questions, and for every right answer Freerice will donate 10 grains of rice. This is all funded via the ads you see as you play, so make sure you've left your ad-blocker off when you go to the site! 
 
@@ -40,7 +40,7 @@ The have dozens of categories to choose from, including: Classical Music, World 
 This is a pseudo-useful tool, but also just fun to mash your keyboard to.
 
 ### #6 - Tab for a Cause
-![A picture of the Freerice homepage.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Tab%20for%20a%20Cause.jpg)<div class="caption">[Freerice.com Homepageplay.date](https://play.date)</div>
+![A picture of the Freerice homepage.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Tab%20for%20a%20Cause.jpg)<div class="caption">[Tab for a Cause Homepage](https://tab.gladly.io/)</div>
 Want to help raise money for charity, but **don't** want to simultaneous increase your knowledge? No problem! [Tab for a Cause](https://tab.gladly.io/?u=george_probably) places ads on your new tab page, with the money raised going to causes of your choice. Personally, I have been using Tab for Cats, which supports The Jackson Galaxy Project. There are loads of causes to choose from though, including: Black Equity, Reproductive Health, and charities such as Save the Children and Human Rights Watch.
 
 The best part about Tab for Cats? Every single day I get a new "cat of the day" as my new tab image! To date I have raised 650 cat treats, which, according to Tab for a Cause is "how many treats your tabs can provide to help shelter cats get adopted." Tab for a Cause are also SUPER transparent, releasing quarterly financial reports clearly outlining how much money was raised and where it all went, so you can see the exact impact that you have personally had.
