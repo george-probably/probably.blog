@@ -31,6 +31,7 @@ You will need a smartphone to configure it, but you can add everything from file
 
 ### #4 - Freerice
 ![A picture of the Freerice homepage.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Freerice.jpg)<div class="caption">[Freerice.com Homepageplay.date](https://play.date)</div>
+
 Want to do some learning whilst also giving back? [Freerice](https://freerice.com/) has raised the equivalent of $1.5 million in rice, and the way it works is an absolute win-win! All you have to do, is pick a trivia category and a difficulty. You'll be given questions, and for every right answer Freerice will donate 10 grains of rice. This is all funded via the ads you see as you play, so make sure you've left your ad-blocker off when you go to the site! 
 
 The have dozens of categories to choose from, including: Classical Music, World History, English Vocabulary, Cell Biology and way more! As well as that, thanks to the five difficulty levels you can make sure that you're getting just the right amount of challenge to learn whilst also making your own impact. They're partnered with the United Nations World Food Programme, so you know that you're doing good things.
