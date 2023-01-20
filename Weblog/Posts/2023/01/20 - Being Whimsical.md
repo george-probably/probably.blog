@@ -15,14 +15,14 @@ There are a few other products and services that seem to thrive on whimsy, so if
 
 ![A picture of the PlayDate Handheld Console.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Playdate.jpg)<div class="caption">Photo from [PlayDate Press Pack](https://play.date)
 
-I only received my PlayDate a few weeks ago, but I already see it as an irreplaceable part of my gaming life. For those who don't know: The PlayDate is a $179 handheld gaming console that was released by Panic. You'll know them from Nova, an awesome code editor for macOS, or from publishing games like Untitled Goose Game and the award-winning Firewatch.
+I only received my PlayDate a few weeks ago, but I already see it as an irreplaceable part of my gaming life. For those who don't know: The PlayDate is a $179 handheld gaming console released by Panic. You'll know them from Nova, an excellent code editor for macOS, or publishing games like Untitled Goose Game and the award-winning Firewatch.
 
-Full disclosure: The Playdate isn't a console which will get you immersed in graphically detailed worlds, in fact, the screen is a mere 400x240 pixels, and even more crazily, it's a 1-bit panel, meaning it's black and white! Despite the restraints, however, the quirkiness of the device has led to some very inventive problem-solving, and the device's simplicity is a large part of the charm.
+The Playdate isn't a console that will immerse you in graphically detailed worlds; the screen is a mere 400x240 pixels. Even more crazily than that, it's a 1-bit panel, meaning it's black and white! Despite the restraints, however, the quirkiness of the device has led to some very inventive problem-solving, and the device's simplicity is a large part of the charm.
 
 It is **NOT** lost on me that you're paying basically the same amount as a Switch Lite for this thing. Still, it is worth noting that the PlayDate comes with a season of 24 games (two are delivered to you every single Monday for 12 weeks after first turning on the device). It's the device you get to remind yourself of the GameBoy you had as a kid, where you weren't trying to run a ray-traced game at 8K and complaining that your 4090 couldn't maintain 240FPS.
 
 ### #2 - Countdown to Anything
-![The Countdown to Anything logo, with screenshots showing how customisable the app is.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Countdown.jpg)<div class="caption">Screenshots from [Countdown to Anything](https://www.countdowntoanything.app/) Play Store listing
+![The Countdown to Anything logo, with screenshots showing how customisable the app is.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Countdown.jpg)<div class="caption">Screenshots from [Countdown to Anything](https://www.countdowntoanything.app/) Play Store listing</div>
 
 In a world where we're all in a rush to do stuff, what if your countdowns were more... adorable? The whimsical side of Countdown to Anything! comes more from what you choose to make the countdowns for whilst being helped by the incredible design of all icons. Whether it's a date you're dreading and want to take the sting out of; or a holiday that you can't wait to go on, there's a perfect icon just for you!
 
@@ -48,7 +48,7 @@ This is a pseudo-useful tool, but also just fun to mash your keyboard to.
 ### #6 - Tab for a Cause
 ![A picture of the Freerice homepage.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Tab%20for%20a%20Cause.jpg)<div class="caption">[Screenshot of the Tab for a Cause Homepage](https://tab.gladly.io/)</div>
 
-Want to help raise money for charity, but **don't** want to simultaneously increase your knowledge? No problem! [Tab for a Cause](https://tab.gladly.io/?u=george_probably) places ads on your new tab page, with the money raised going to causes of your choice. Personally, I have been using Tab for Cats, which supports The Jackson Galaxy Project. There are loads of causes to choose from though, including: Black Equity, Reproductive Health, and charities such as Save the Children and Human Rights Watch.
+Want to help raise money for charity but **don't** want to increase your knowledge simultaneously? No problem! [Tab for a Cause](https://tab.gladly.io/?u=george_probably) places ads on your new tab page, with the money raised going to causes of your choice. Personally, I have been using Tab for Cats, which supports The Jackson Galaxy Project. There are loads of causes to choose from though, including: Black Equity, Reproductive Health, and charities such as Save the Children and Human Rights Watch.
 
 The best part about Tab for Cats? Every single day I get a new "cat of the day" as my new tab image! To date, I have raised 650 cat treats, which, according to Tab for a Cause is "how many treats your tabs can provide to help shelter cats get adopted." Tab for a Cause are also SUPER transparent, releasing quarterly financial reports clearly outlining how much money was raised and where it all went, so you can see the exact impact that you have personally had.
 
@@ -59,4 +59,4 @@ I want to wrap this up by quickly bringing it full circle. When I first signed u
 
 I finally took the plunge because I discovered they also offered vanity URLs (in this case, called PURLs). You ever notice how every Snappy-Tech link I share is `snpy.tech/whatever`? That's how that happens! omg.lol was an excuse for me to consolidate those multiple services into one, allowing me to pay less whilst getting the same amount done. Adam's dedication to the service and the incredible community around it will keep me on the service for years to come. Frankly, at $20 a year, the service is an absolute steal.
 
-> Note: This post contains referral links to multple services. Here are the referral free versions of the links in order of first mention: [omg.lol](https://omg.lol), [Tab for a Cause](https://tab.gladly.io/)
+> Note: This post contains referral links to multiple services. Here are the referral free versions of the links in order of first mention: [omg.lol](https://omg.lol), [Tab for a Cause](https://tab.gladly.io/)
