@@ -1,3 +1,4 @@
+---
 Title: Archive Template
 Type: Template
 ---
@@ -189,6 +190,19 @@ aside {
     border-radius: 100px;
     background: var(--articleBorder);
     padding: 10px;
+}
+
+blockquote {
+    background: var(--articleBorder);
+    border-radius: 20px;
+    padding: inherit;
+    font-style: italic;
+    margin: 20px 0 20px 0;
+}
+
+code {
+    background: black;
+    color: #00ff00;
 }
 
 </style>
