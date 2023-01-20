@@ -5,7 +5,7 @@ Status: Draft
 
 ## Adding More Whimsy To Your Life
 
-If you've looked in the footer of this blog, you'll have seen that it's hosted on [weblog.lol](https//weblog.lol). This falls under the larger umbrella of [omg.lol](https://home.omg.lol/referred-by/georgeprobably).lol](https://home.omg.lol/referred-by/georgeprobably), a collection of web tools that creator Adam Newbold of [Neatnik](https://neatnik.net/) thought would be useful. The reality, however, is that it is much more than that. In creating this service, Adam has found a way to bring together a community of passionate tinkerers who reside within an IRC channel (bridged with a Discord server, just in case you're not **that** technical).
+If you've looked in the footer of this blog, you'll have seen that it's hosted on [weblog.lol](https//weblog.lol). This falls under the larger umbrella of [omg.lol](https://home.omg.lol/referred-by/georgeprobably), a collection of web tools that creator Adam Newbold of [Neatnik](https://neatnik.net/) thought would be useful. The reality, however, is that it is much more than that. In creating this service, Adam has found a way to bring together a community of passionate tinkerers who reside within an IRC channel (bridged with a Discord server, just in case you're not **that** technical).
 
 Why do I mention all of this? Well, with the world seemingly becoming more serious and darker with every passing moment, these services (and the communities that thrive along with them) provide the light to help keep that darkness at bay. Whether thanks to the cute logo (known as Prami), the community, or just the fact that Adam is always willing to help you solve any issues you may have.
 
@@ -13,7 +13,7 @@ There are a few other products and services that seem to thrive on whimsy, so if
 
 ### #1 - PlayDate
 
-![A picture of the PlayDate Handheld Console.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Playdate.jpg)<div class="caption">Photo from [PlayDate Press Pack](https://play.date)
+![A picture of the PlayDate Handheld Console.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Playdate.jpg)<div class="caption">Photo from [PlayDate Press Pack](https://play.date)</div>
 
 I only received my PlayDate a few weeks ago, but I already see it as an irreplaceable part of my gaming life. For those who don't know: The PlayDate is a $179 handheld gaming console released by Panic. You'll know them from Nova, an excellent code editor for macOS, or publishing games like Untitled Goose Game and the award-winning Firewatch.
 
@@ -31,7 +31,9 @@ Last year, app developer Jupli also released an app called "Four by Six", which 
 There is no option to re-take photos as with a real disposable camera. What you take is what you will get delivered to you, and the photos you took will only become available digitally within the app after you receive the printed versions in the post.
 
 ### #3 - NFC Ring
-This is just plain fun. It's a ring with an NFC chip, allowing you to load WHATEVER YOU WANT on it. Every time you tap the ring against an unlocked smartphone, that action gets triggered. I spent £2.38 on mine in 2018, and I still wear it nearly daily.
+![A picture of an NFC Ring.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/NFCring.jpg)<div class="caption">Image of NFC Ring</div>
+
+This is one of those products where the moment you know it exists, you can't help but wonder how you didn't think of it sooner! The product is just plain fun; it's a ring with an NFC chip allowing you to load WHATEVER YOU WANT on it. Every time you tap the ring against an unlocked smartphone, that action gets triggered. I spent £2.38 on mine in 2018, and I still wear it nearly daily.
 
 You will need a smartphone to configure it, but you can add everything from files, links, phone numbers, and even a Bitcoin address or Wi-Fi network!
 
