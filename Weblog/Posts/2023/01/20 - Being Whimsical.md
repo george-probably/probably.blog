@@ -5,50 +5,58 @@ Status: Draft
 
 ## Adding More Whimsy To Your Life
 
-If you've looked in the footer of this blog, you'll have seen that it's hosted on [weblog.lol](https//weblog.lol). This falls under the larger unbrella of [omg.lol](https://home.omg.lol/referred-by/georgeprobably), a collection of web tools that creator Adam Newbold of [Neatnik](https://neatnik.net/) thought would be useful. The reality, however, is that it is much more than that. In creating this service, Adam has found a way to bring together a community of passionate tinkerers, who reside within an IRC channel (bridged with a Discord server, just in case you're not **that** technical).
+If you've looked in the footer of this blog, you'll have seen that it's hosted on [weblog.lol](https//weblog.lol). This falls under the larger umbrella of [omg.lol](https://home.omg.lol/referred-by/georgeprobably).lol](https://home.omg.lol/referred-by/georgeprobably), a collection of web tools that creator Adam Newbold of [Neatnik](https://neatnik.net/) thought would be useful. The reality, however, is that it is much more than that. In creating this service, Adam has found a way to bring together a community of passionate tinkerers who reside within an IRC channel (bridged with a Discord server, just in case you're not **that** technical).
 
-Why do I mention all of this? Well, with the world seemingly become a more serious and dark place with every passing moment, these services (and the communities that thrive along with them) provide a light to help keep that darkness at bay. Whether it be thanks to the cute logo (known as Prami), the community, or just the fact that Adam himself is always willing to help you solve any issues you may have.
+Why do I mention all of this? Well, with the world seemingly becoming more serious and darker with every passing moment, these services (and the communities that thrive along with them) provide the light to help keep that darkness at bay. Whether thanks to the cute logo (known as Prami), the community, or just the fact that Adam is always willing to help you solve any issues you may have.
 
 There are a few other products and services that seem to thrive on whimsy, so if you need to take a moment and stop taking things so seriously, here are some products and services that will help take your mind off of the world:
 
 ### #1 - PlayDate
 
-![A picture of the PlayDate Handheld Console.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Playdate.jpg)<div class="caption">Photo from [PlayDate Press Pack](https://play.date)</div>
+![A picture of the PlayDate Handheld Console.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Playdate.jpg)<div class="caption">Photo from [PlayDate Press Pack](https://play.date)
 
-I only recieved my PlayDate a few weeks ago, but I already see it as an irreplaceable part of my gaming life. For those who don't know: The PlayDate is a $179 handheld gaming console that was released by Panic. You'll know them from Nova, an awesome code editor for macOS, or from publishing games like Untitled Goose Game and the award-winning Firewatch.
+I only received my PlayDate a few weeks ago, but I already see it as an irreplaceable part of my gaming life. For those who don't know: The PlayDate is a $179 handheld gaming console that was released by Panic. You'll know them from Nova, an awesome code editor for macOS, or from publishing games like Untitled Goose Game and the award-winning Firewatch.
 
-Full disclosure: The Playdate isn't a console which will be getting you immersed in graphically detailed worlds, in fact, the screen is a mere 400x240 pixels, and even more crazily, it's a 1-bit panel, meaning it's black and white! Despite the restraints however, the quirkiness of the device has led to some very inventive problem solving, and the simplicity of the device is a large part of the charm.
+Full disclosure: The Playdate isn't a console which will get you immersed in graphically detailed worlds, in fact, the screen is a mere 400x240 pixels, and even more crazily, it's a 1-bit panel, meaning it's black and white! Despite the restraints, however, the quirkiness of the device has led to some very inventive problem-solving, and the device's simplicity is a large part of the charm.
 
-It is **NOT** lost on me that you're paying basically the same amount as a Switch Lite for this thing, but it is worth noting that the PlayDate actually comes with a season of 24 games (two are delievered to you ever single Monday for 12 weeks after first turning on the device). It's the device you get to remind yourself of the GameBoy you had as a kid, where you weren't trying to run a ray-traced game at 8K and complaining that your 4090 couldn't maintain 240FPS.
+It is **NOT** lost on me that you're paying basically the same amount as a Switch Lite for this thing. Still, it is worth noting that the PlayDate comes with a season of 24 games (two are delivered to you every single Monday for 12 weeks after first turning on the device). It's the device you get to remind yourself of the GameBoy you had as a kid, where you weren't trying to run a ray-traced game at 8K and complaining that your 4090 couldn't maintain 240FPS.
 
-### #2 - Countdown to Anything!
-In a world where we're all in a rush to do stuff, what if your countdowns were more... adorable? The whimsical side of Countdown to Anything! comes more from what you choose to make the countdowns for, but it's helped by the incredible design of all of the icons. Whether it's a date that you're dreading and want to take the sting out of, or a holiday that you can't wait to go on, there's a perfect icon just for you!
+### #2 - Countdown to Anything
+![The Countdown to Anything logo, with screenshots showing how customisable the app is.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Countdown.jpg)<div class="caption">Screenshots from [Countdown to Anything](https://www.countdowntoanything.app/) Play Store listing
+
+In a world where we're all in a rush to do stuff, what if your countdowns were more... adorable? The whimsical side of Countdown to Anything! comes more from what you choose to make the countdowns for whilst being helped by the incredible design of all icons. Whether it's a date you're dreading and want to take the sting out of; or a holiday that you can't wait to go on, there's a perfect icon just for you!
+
+Last year, app developer Jupli also released an app called "Four by Six", which claims to turn your phone into a "digital disposable camera". You buy digital rolls of film on your phone, and once you fill them, the photos get printed and sent to you. A roll of 10 photos costs 39 pence per photo, with a large film of 20 photos costing 35p per photo. This price includes shipping, and if you want to give it a go, there's a trial film which contains four images for 50p per photo.
+
+There is no option to re-take photos as with a real disposable camera. What you take is what you will get delivered to you, and the photos you took will only become available digitally within the app after you receive the printed versions in the post.
 
 ### #3 - NFC Ring
-This is just plain fun. It's a ring with an NFC chip, allowing you to load WHATEVER YOU WANT on it. Every time you tap the ring against an unlocked smartphone, that action then gets triggered. I spent £2.38 on mine back in 2018 and I still use it.
+This is just plain fun. It's a ring with an NFC chip, allowing you to load WHATEVER YOU WANT on it. Every time you tap the ring against an unlocked smartphone, that action gets triggered. I spent £2.38 on mine in 2018, and I still wear it nearly daily.
 
 You will need a smartphone to configure it, but you can add everything from files, links, phone numbers, and even a Bitcoin address or Wi-Fi network!
 
 ### #4 - Freerice
-![A picture of the Freerice homepage.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Freerice.jpg)<div class="caption">[Freerice.com Homepag](https://freerice.com/)</div>
+![A picture of the Freerice homepage.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Freerice.jpg)<div class="caption">[Screenshot of the Freerice.com Homepage](https://freerice.com/)</div>
 
-Want to do some learning whilst also giving back? [Freerice](https://freerice.com/) has raised the equivalent of $1.5 million in rice, and the way it works is an absolute win-win! All you have to do, is pick a trivia category and a difficulty. You'll be given questions, and for every right answer Freerice will donate 10 grains of rice. This is all funded via the ads you see as you play, so make sure you've left your ad-blocker off when you go to the site! 
+Want to do some learning whilst also giving back? [Freerice](https://freerice.com/) has raised the equivalent of $1.5 million in rice, and the way it works is an absolute win-win! All you have to do, is pick a trivia category and a difficulty. You'll be given questions, and Freerice will donate 10 grains of rice for every right answer. This is all funded via the ads you see as you play, so make sure you've left your ad-blocker off when you go to the site!
 
-The have dozens of categories to choose from, including: Classical Music, World History, English Vocabulary, Cell Biology and way more! As well as that, thanks to the five difficulty levels you can make sure that you're getting just the right amount of challenge to learn whilst also making your own impact. They're partnered with the United Nations World Food Programme, so you know that you're doing good things.
+They have dozens of categories to choose from, including Classical Music, World History, English Vocabulary, Cell Biology and way more! As well as that, thanks to the five difficulty levels you can make sure that you're getting just the right amount of challenge to learn whilst also making your own impact. Freerice partnered with the United Nations World Food Programme, so you know you're doing good things.
 
 ### #5 - Hacker Typer
 This is a pseudo-useful tool, but also just fun to mash your keyboard to.
 
 ### #6 - Tab for a Cause
-![A picture of the Freerice homepage.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Tab%20for%20a%20Cause.jpg)<div class="caption">[Tab for a Cause Homepage](https://tab.gladly.io/)</div>
-Want to help raise money for charity, but **don't** want to simultaneous increase your knowledge? No problem! [Tab for a Cause](https://tab.gladly.io/?u=george_probably) places ads on your new tab page, with the money raised going to causes of your choice. Personally, I have been using Tab for Cats, which supports The Jackson Galaxy Project. There are loads of causes to choose from though, including: Black Equity, Reproductive Health, and charities such as Save the Children and Human Rights Watch.
+![A picture of the Freerice homepage.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/Tab%20for%20a%20Cause.jpg)<div class="caption">[Screenshot of the Tab for a Cause Homepage](https://tab.gladly.io/)</div>
 
-The best part about Tab for Cats? Every single day I get a new "cat of the day" as my new tab image! To date I have raised 650 cat treats, which, according to Tab for a Cause is "how many treats your tabs can provide to help shelter cats get adopted." Tab for a Cause are also SUPER transparent, releasing quarterly financial reports clearly outlining how much money was raised and where it all went, so you can see the exact impact that you have personally had.
+Want to help raise money for charity, but **don't** want to simultaneously increase your knowledge? No problem! [Tab for a Cause](https://tab.gladly.io/?u=george_probably) places ads on your new tab page, with the money raised going to causes of your choice. Personally, I have been using Tab for Cats, which supports The Jackson Galaxy Project. There are loads of causes to choose from though, including: Black Equity, Reproductive Health, and charities such as Save the Children and Human Rights Watch.
+
+The best part about Tab for Cats? Every single day I get a new "cat of the day" as my new tab image! To date, I have raised 650 cat treats, which, according to Tab for a Cause is "how many treats your tabs can provide to help shelter cats get adopted." Tab for a Cause are also SUPER transparent, releasing quarterly financial reports clearly outlining how much money was raised and where it all went, so you can see the exact impact that you have personally had.
 
 ### #7 - omg.lol
+![A picture of the omg.lol homepage.](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Adding%20More%20Whimsy%20To%20Your%20Life/omglol.jpg)<div class="caption">[Screenshot of the omg.lol Homepage](https://home.omg.lol/referred-by/georgeprobably)</div>
 
 I want to wrap this up by quickly bringing it full circle. When I first signed up to [omg.lol](https://home.omg.lol/referred-by/georgeprobably), it was actually because I just needed something to host what I call my ["digital business card"](https://george.chachanidze.com), it's basically like a linktree but also with direct contact info, a link I have stored on my NFC ring, so I can give someone my contact details in a fast-paced environment (like expos and other events).
 
-The reason I finally took the plunge was that I discovered they also offered vanity URLs (in this case, called PURLs). You ever notice how every Snappy-Tech link I share is `snpy.tech/whatever`? That's how that happens! omg.lol was an excuse for me to consolidate those multiple services into one, allowing me to pay less whilst getting the same amount done. The thing that will keep me on the service for years to come is Adam's dedication to the service, and the incredible community around it. Frankly, at $20-a-year the service is an absolute steal.
+I finally took the plunge because I discovered they also offered vanity URLs (in this case, called PURLs). You ever notice how every Snappy-Tech link I share is `snpy.tech/whatever`? That's how that happens! omg.lol was an excuse for me to consolidate those multiple services into one, allowing me to pay less whilst getting the same amount done. Adam's dedication to the service and the incredible community around it will keep me on the service for years to come. Frankly, at $20 a year, the service is an absolute steal.
 
 > Note: This post contains referral links to multple services. Here are the referral free versions of the links in order of first mention: [omg.lol](https://omg.lol), [Tab for a Cause](https://tab.gladly.io/)
