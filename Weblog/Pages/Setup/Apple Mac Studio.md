@@ -15,13 +15,20 @@ Though you can get some games via the App Store, the selection is very hit-and-m
 macOS is the most infuriating part of the device, though, and if it natively ran Windows, it'd probably be the perfect machine, but since it's not...
 
 ## Software I need to make macOS usable (and why)
+
 - Maccy - Clipboard Management, I have cmd+shift+V set to load up my clipboard history, and it's priceless. Better still? It's free!
+
 - Magnet - Window Management, Stage manager feels like an iPad feature, and I've yet to see someone use it on macOS. The fact that window management is so far behind... well... Windows is crazy to me.
+
 - Shottr - Better Screenshots; it's like Cleanshot X, which everyone raves about, but has slightly fewer features and is free. I send screenshots often, but when I do, it's with the help of Shottr.
+
 - AltTab - Apple, seriously, what is your alt-tab experience? This just makes it 100x better, including previews and multiple windows of the same application.
+
 - AirMessage - You didn't see me talk about this one, but it lets you send iMessages with other devices (like Android and Windows) by using your Mac as an iMessage relay. I only talk to one person on iMessage, but it's still cool as a proof of concept.
+
 - Hidden Bar - How do so many icons gather in the status bar? This app lets you hide as many as you want behind a fold-out menu.
+
 - SoundSource - Probably the one that angers me the most. I am in awe that Apple gets away with making audio on macOS so hard to control. I use a Thunderbolt display, and by default, macOS refuses to let me change volume at an OS level. I use SoundSource for other things, like balancing apps and applying EQs, but I'd pay the $47 all over again just to get "Super Volume Keys".
 
-note: links to come, I'm just lazy. Is it like mid-Feb and you're still seeing this? [Ping me!](https://george.chachanidze.com/)
+Note: links to come, I'm just lazy. Is it like mid-Feb and you're still seeing this? [Ping me!](https://george.chachanidze.com/)
 ## Verdict: 8/10
