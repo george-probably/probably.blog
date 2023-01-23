@@ -38,6 +38,17 @@ Type: Template
     --articleBorder: #083e73;
 }
 
+table th:first-of-type {
+    width: 30%;
+}
+table th:nth-of-type(2) {
+    width: 40%;
+}
+table th:nth-of-type(3) {
+    width: 30%;
+}
+
+
 @media (prefers-color-scheme: dark){
     :root {
     --foreground: #eee;
