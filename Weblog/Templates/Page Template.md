@@ -57,15 +57,12 @@ table {
 }
 
 table td, table th {
-    border: 1px dashed white;
-    padding: 8px;
+    border: 5px solid #288cf0;
+    padding: 5px;
 }
 
-table td:first-child:not(:first-child) {
-    background-color: white;
-}
-table tr:first-child{
-    background: transparent;
+table td:first-child{
+    background: white;
 }
 
 
