@@ -1,6 +1,5 @@
 ---
 Type: Page
-Template: About Template
 Title: About
 ---
 
