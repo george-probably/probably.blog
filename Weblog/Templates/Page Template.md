@@ -27,7 +27,7 @@ Type: Template
 @import url('https://static.omg.lol/type/font-lato-bold.css');
 @import url('https://static.omg.lol/type/font-lato-italic.css');
 @import url('https://static.omg.lol/type/fontawesome-free/css/all.css');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+@import url('https://fonts.bunny.net/css?family=open-sans:500,800');
 
 :root {
     --foreground: #eee;
@@ -38,47 +38,6 @@ Type: Template
     --articleBorder: #083e73;
 }
 
-th:first-of-type {
-  border-top-left-radius: 10px;
-}
-th:last-of-type {
-  border-top-right-radius: 10px;
-}
-tr:last-of-type td:first-of-type {
-  border-bottom-left-radius: 10px;
-}
-tr:last-of-type td:last-of-type {
-  border-bottom-right-radius: 10px;
-}
-
-table th:first-of-type {
-    width: 20%;
-}
-table th:nth-of-type(2) {
-    width: 40%;
-}
-table th:nth-of-type(3) {
-    width: 20%;
-}
-table th:nth-of-type(4) {
-    width: 20%;
-}
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-
-table td, table th {
-    border: 5px solid var(--articleBorder);
-    padding: 5px;
-}
-
-table td:first-child{
-    background: white;
-}
-
-
 @media (prefers-color-scheme: dark){
     :root {
     --foreground: #eee;
@@ -88,6 +47,33 @@ table td:first-child{
     --articleBG: #1c62a8;
     --articleBorder: #288cf0;
     }
+}
+
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+table th:nth-of-type(3) {
+    width: 12.5%;
+}
+table th:nth-of-type(4) {
+    width: 12.5%;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table td, table th {
+    border: 5px solid #288cf0;
+    padding: 5px;
+}
+
+table td:first-child{
+    background: white;
 }
 
 * {
@@ -116,14 +102,9 @@ p, li {
 }
 
 nav {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: var(--articleBG);
-    border-radius: 30px;
-    border: 5px solid var(--articleBorder);
     font-family: 'VC Honey Deck';
     line-height: 100%;
+    overflow: hidden;
 }
 
 nav li {
@@ -145,9 +126,17 @@ box ul {
 }
 
 header, main, footer {
-    max-width: 40em;
+    max-width: 60em;
     margin: 1em auto;
     padding: 0 1em;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 1em auto;
+    padding: 0;
 }
 
 footer p {
@@ -219,21 +208,43 @@ hr {
     text-align: center;
     margin-top: -18px;
 }
-
-article{
+.flex-items{
     padding: 5px 25px 5px 25px;
     border-radius: 30px;
     background: var(--articleBG);
     border: 5px solid var(--articleBorder);
+  display: block;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+margin: 10px;
+    height: fit-content;
 }
 
-box{
-    padding: 0px 25px 0px 25px;
+.flex-items:nth-child(1) {
+  width: 100%;
+    padding: 0;
+}
+
+.flex-items:nth-child(2) {
+  width: 60%;
+}
+
+.flex-items:nth-child(3) {
+  width: 35%;
+  font-size: 90%;
+  line-height: 150%;
+}
+
+article, box{
+    padding: 5px 25px 5px 25px;
     border-radius: 30px;
     background: var(--articleBG);
     border: 5px solid var(--articleBorder);
-    display: block;
-
+    display: flex;
+    flex-wrap: wrap;
 }
 
 aside {
@@ -262,19 +273,21 @@ code {
 
 <header>
 	<h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1>
-	{navigation}
 </header>
 <main>
-<hr>
-<article>
-	{body}
-</article>
-<hr>
-<box>
-<h2><i class="fa-solid fa-clock-rotate-left"></i> Recent Posts</h2>
-{recent-posts}
-</box>
-<hr>
+<div class="flex-items">
+    {navigation}
+</div>
+
+<div class="flex-items">
+    {body}
+</div>
+
+<div class="flex-items">
+    <h2> <i class="fa-solid fa-clock-rotate-left"></i> Recent Posts</h2>
+    {recent-posts}
+</div>
+
 </main>
 <footer>
 <p>Made with <a href="https://weblog.lol">weblog.lol</a>. </br>kindness binds us</p>

@@ -5,4 +5,4 @@ Status: Draft
 
 ## The Passwordless Future
 
-Let's be honest: Passwords suck.
+Let's be honest: Passwords suck. No one likes trying to remember lots of unique ones, so everyone using the same crappy one on every site they visit.
