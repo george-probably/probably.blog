@@ -21,4 +21,4 @@ macOS is the most infuriating part of the device, though, and if it natively ran
 - AltTab - Apple, seriously, what is your alt-tab experience? This just makes it 100x better, including previews and multiple windows of the same application.
 - AirMessage - You didn't see me talk about this one, but it lets you send iMessages with other devices (like Android and Windows) by using your Mac as an iMessage relay. I only talk to one person on iMessage, but it's still cool as a proof of concept.
 - Hidden Bar - How do so many icons gather in the status bar? This app lets you hide as many as you want behind a fold-out menu.
-- SoundSource - Probably the one which angers me most. 
+- SoundSource - Probably the one which angers me the most. 
