@@ -20,3 +20,5 @@ Here's the gear I use every day to get my work done:
 |                          ![ A picture of the Microsoft Xbox Series S ]( https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4FkjX?ver=c092 )                     |  Microsoft Xbox Series S  |  August 2022  |        9/10       |
 |                                ![ A picture of the Nintendo Switch OLED ]( https://media.currys.biz/i/currysprod/M10227387_white?$l-large$&fmt=auto )                                       |    Nintendo Switch OLED   |  April 2017*  |        9/10       |
 |                           ![ A picture of the PlayDate ]( https://cdn.geekwire.com/wp-content/uploads/2021/06/Playdate-hero-shot.78c70891ea4f-e1623180415168.jpg )                          |          PlayDate         |  January 2023 |        9/10       |
+
+*Strictly speaking, this isn't the date I acquired this specific device. I had my first version on this date and then upgraded to this one later.
