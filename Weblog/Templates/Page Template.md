@@ -39,10 +39,10 @@ Type: Template
 }
 
 table th:first-of-type {
-    width: 30%;
+    width: 20%;
 }
 table th:nth-of-type(2) {
-    width: 40%;
+    width: 50%;
 }
 table th:nth-of-type(3) {
     width: 30%;
