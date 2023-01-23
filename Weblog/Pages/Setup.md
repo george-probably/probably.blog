@@ -5,6 +5,8 @@ Title: Setup
 
 ## My Setup:
 
+Below is a list of the tech I use on a regular basis. Everything from phone and computer, to the consoles I play on when I want to blow off steam. The list isn't in any particular order aside from how I thought it looked nicest.
+
 <div style="overflow-x:auto;">
 
 |                                                                                            Image                                                                                            |        Device Name        |    Bought     |       Rating      |
