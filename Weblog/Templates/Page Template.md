@@ -49,31 +49,31 @@ Type: Template
     }
 }
 
-table th:first-of-type {
-    width: 25%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-table th:nth-of-type(3) {
-    width: 12.5%;
-}
-table th:nth-of-type(4) {
-    width: 12.5%;
-}
-
 table {
     border-collapse: collapse;
     border-spacing: 0;
 }
 
 table td, table th {
-    border: 5px solid #288cf0;
+    border: 5px solid var(--articleBorder);
     padding: 5px;
 }
 
 table td:first-child{
     background: white;
+}
+
+table th:first-of-type {
+    width: 20%;
+}
+table th:nth-of-type(2) {
+    width: 40%;
+}
+table th:nth-of-type(3) {
+    width: 20%;
+}
+table th:nth-of-type(4) {
+    width: 20%;
 }
 
 * {
@@ -103,8 +103,9 @@ p, li {
 
 nav {
     font-family: 'VC Honey Deck';
-    line-height: 100%;
+    line-height: 150%;
     overflow: hidden;
+    width: 100%;
 }
 
 nav li {
@@ -116,12 +117,11 @@ nav ul {
     flex-wrap: wrap;
     justify-content: space-evenly;
     padding: 0;
-    margin: 10px 15px 10px 15px;
+    margin: 5px 0px 5px 0px;
     align-content: center;
 }
 
-box ul {
-    line-height: 150%;
+.box ul {
     padding-inline-start: 20px;
 }
 
@@ -208,19 +208,34 @@ hr {
     text-align: center;
     margin-top: -18px;
 }
-.flex-items{
-    padding: 5px 25px 5px 25px;
+
+.box {
     border-radius: 30px;
     background: var(--articleBG);
     border: 5px solid var(--articleBorder);
-  display: block;
-  flex-grow: 1;
-  flex-shrink: 1;
-  flex-basis: auto;
-  align-self: auto;
-  order: 0;
-margin: 10px;
+    padding: 5px 25px 5px 25px;
+}
+
+.nav-box {
+    border-radius: 30px;
+    background: var(--articleBG);
+    border: 5px solid var(--articleBorder);
+}
+
+.box:not(:first-of-type) {
+margin-top: 20px;
+}
+
+.flex-items{
+    display: block;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: auto;
+    align-self: auto;
+    order: 0;
     height: fit-content;
+    margin: 10px;
+
 }
 
 .flex-items:nth-child(1) {
@@ -236,15 +251,6 @@ margin: 10px;
   width: 35%;
   font-size: 90%;
   line-height: 150%;
-}
-
-article, box{
-    padding: 5px 25px 5px 25px;
-    border-radius: 30px;
-    background: var(--articleBG);
-    border: 5px solid var(--articleBorder);
-    display: flex;
-    flex-wrap: wrap;
 }
 
 aside {
@@ -266,27 +272,83 @@ code {
     color: #00ff00;
 }
 
+form {
+  background-color: var(--articleBorder);
+  height: 50px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+margin-bottom: 10px;
+}
+
+input {
+  all: unset;
+  font: 16px system-ui;
+  color: #fff;
+  height: 100%;
+  width: 100%;
+  padding: 6px 10px;
+}
+
+::placeholder {
+  color: #fff;
+  opacity: 0.7; 
+}
+
+button {
+  all: unset;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+}
+
+svg {
+  color: #fff;
+  fill: currentColor;
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+}
+
 </style>
 </head>
 
 <body>
 
 <header>
-	<h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1>
-</header>
+	<h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1></header>
 <main>
-<div class="flex-items">
-    {navigation}
-</div>
 
-<div class="flex-items">
-    {body}
-</div>
-
-<div class="flex-items">
-    <h2> <i class="fa-solid fa-clock-rotate-left"></i> Recent Posts</h2>
-    {recent-posts}
-</div>
+    <div class="flex-items">
+    <div class="nav-box"> {navigation} </div>
+    </div>
+    
+    <div class="flex-items">
+    <div class="box">{body}</div>
+    </div>
+    
+    <div class="flex-items">
+    <div class="box">
+    <h2> <i class="fa-solid fa-search"></i> Looking for something?</h2>
+    <form id="form"> 
+      <input type="search" id="query" name="search" placeholder="Search...">
+      <button><i class="fa-solid fa-search"></i></button>
+    </form>
+    </div>
+    
+    <div class="box">
+        <h2> <i class="fa-solid fa-clock-rotate-left"></i> Recent Posts</h2>
+        {recent-posts}
+    </div>
+    
+    <div class="box">
+    <a href="/archive"><h2> <i class="fa-solid fa-archive"></i> Dig through the Archive</h2></a>
+    </div>
+    
+    </div>
+    
+    </main>
 
 </main>
 <footer>
