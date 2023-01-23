@@ -5,8 +5,11 @@ Title: Setup
 
 ## My Setup
 
-Below is a list of the tech I use on a regular basis. Everything from my phone and computer, to the consoles I play on when I want to blow off steam. The list isn't in any particular order aside from how I thought it looked nicest. What to know what I'm up to currently? [Check out my /now page](https://snpy.tech/now)!
+Below is a list of the tech I use on a regular basis. Everything from my phone and computer, to the consoles I play on when I want to blow off steam.
 
+The list isn't in any particular order aside from how I thought it looked nicest. What to know what I'm up to currently? [Check out my /now page](https://snpy.tech/now)!
+
+Click a device name to find out my thoughts on it!
 <div style="overflow-x:auto;">
 
 |                                                                                          Image                                                                                          |                            Device                            |  Bought  | Rating |

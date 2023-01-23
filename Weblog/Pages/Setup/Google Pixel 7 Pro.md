@@ -1,6 +1,6 @@
 ---
 Type: Page
-Title: Mac Studio - Setup
+Title: Google Pixel 7 Pro - Setup
 Location: /setup/google-pixel-7-pro
 ---
 
