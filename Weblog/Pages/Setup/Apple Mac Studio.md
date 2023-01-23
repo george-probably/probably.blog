@@ -8,9 +8,9 @@ Location: /setup/apple-mac-studio
 
 My loose thoughts on the Mac Studio are that it does the exact job I got it for, and it's hard to complain about that. I wanted it to replace my custom-built Ryzen 5900X and RTX 2090 Gaming PC. Not because of a burning desire to drop Windows but because I have been travelling more recently. This travelling has meant I just don't have the bandwidth to worry about the tempered glass on the Lian-Li O11 Dynamic shattering if it wasn't packed properly, and like it or not, it was also SUPER HEAVY.
 
-Apple, the company that knows what you want more than you do, _did_ make this the very definition of "if you use it for what Apple wants you to use it for, it's second to none. " If you don't, it's worthless".
+Apple, the company that knows what you want more than you do, *did* make this the very definition of "if you use it for what Apple wants you to use it for, it's second to none. " If you don't, it's worthless".
 
-Though you can get some games via the App Store, the selection is very hit-and-miss. If you want to do some proper game, you *could* install Parallels to get Windows, but performance varies wildly by game. Also: the fact you can't so much as upgrade the storage is the most Apple thing I've ever seen
+Though you can get some games via the App Store, the selection is very hit-and-miss. If you want to do some proper gaming, you *could* install Parallels to get Windows, but performance varies wildly by game. Also: the fact you can't so much as upgrade the storage is the most Apple thing I've ever seen
 
 macOS is the most infuriating part of the device, though, and if it natively ran Windows, it'd probably be the perfect machine, but since it's not...
 
@@ -32,3 +32,5 @@ macOS is the most infuriating part of the device, though, and if it natively ran
 
 Note: links to come, I'm just lazy. Is it like mid-Feb and you're still seeing this? [Ping me!](https://george.chachanidze.com/)
 ## Verdict: 8/10
+
+[Back to setup page](/setup)
