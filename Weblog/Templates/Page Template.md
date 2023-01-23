@@ -38,6 +38,19 @@ Type: Template
     --articleBorder: #083e73;
 }
 
+th:first-of-type {
+  border-top-left-radius: 10px;
+}
+th:last-of-type {
+  border-top-right-radius: 10px;
+}
+tr:last-of-type td:first-of-type {
+  border-bottom-left-radius: 10px;
+}
+tr:last-of-type td:last-of-type {
+  border-bottom-right-radius: 10px;
+}
+
 table th:first-of-type {
     width: 20%;
 }
@@ -57,7 +70,7 @@ table {
 }
 
 table td, table th {
-    border: 5px solid #288cf0;
+    border: 5px solid var(--articleBorder);
     padding: 5px;
 }
 
