@@ -11,7 +11,7 @@ Landing Page: home
 # General config stuff
 
 Separator:  - 
-Navigation: [Home](/), about, archive, <a href="https://youtube.com/@Snappy-Tech" target="_blank">YouTube</a>
+Navigation: home, about, setup, archive, <a href="https://youtube.com/@Snappy-Tech" target="_blank">YouTube</a>
 Tag path: /tag/
 
 # Time stuff
