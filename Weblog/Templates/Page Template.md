@@ -51,6 +51,23 @@ table th:nth-of-type(4) {
     width: 20%;
 }
 
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table td, table th {
+    border: 1px dashed white;
+    padding: 8px;
+}
+
+table td:first-child:not(:first-child) {
+    background-color: white;
+}
+table tr:first-child{
+    background: transparent;
+}
+
 
 @media (prefers-color-scheme: dark){
     :root {
