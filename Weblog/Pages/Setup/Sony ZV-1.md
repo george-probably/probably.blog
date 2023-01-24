@@ -6,7 +6,7 @@ Location: /setup/sony-zv-1
 
 ## Sony ZV-1
 
-<div class="img-container-wide"> <img style="margin-left: 25%; width: 50%;" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/Sony%20ZV-1/Sony%20ZV-1.png" alt="A picture of the Sony ZV-1"> </div>
+<div class="img-container-wide"> <img src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/Sony%20ZV-1/Sony%20ZV-1.png" alt="A picture of the Sony ZV-1"> </div>
 
 Oops, someone's eager! Thoughts are coming soon.
 

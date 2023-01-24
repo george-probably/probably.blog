@@ -6,7 +6,7 @@ Location: /setup/playdate
 
 ## PlayDate
 
-<div class="img-container-wide"> <img alt="A picture of the PlayDate" src="https://cdn.geekwire.com/wp-content/uploads/2021/06/Playdate-hero-shot.78c70891ea4f-e1623180415168.jpg"> </div>
+<div class="img-container-wide"> <img alt="A picture of the PlayDate" src="https://static-fastly.play.date/static/images/nowebgl-device.ad6b6e50dbd0.png"> </div>
 
 Oops, someone's eager! Thoughts are coming soon.
 
