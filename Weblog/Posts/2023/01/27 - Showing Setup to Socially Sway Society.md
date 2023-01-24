@@ -22,6 +22,6 @@ I'm sure that this is the kind of thing that most people who are even slightly t
 
 You may have also noticed some tweaks to the colours used. I did this to improve readability and make the differences between light and dark modes way more obvious. I talked about it more in this thread: 
 
-<iframe src="https://social.lol/@georgeprobably/109702286222689947/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://social.lol/embed.js" async="async"></script>
+<iframe src="https://social.lol/@georgeprobably/109702286222689947/embed" class="mastodon-embed" style="max-width: 100%;border: 5px solid var(--articleBorder);border-radius: 30px;overflow: hidden;" allowfullscreen="allowfullscreen" scrolling="no" height="560px" width="100%"></iframe>
 
 >Note: Obviously I'm not *actually* trying to sway society into using all of the things I use in a synical plot to make what I like more popular... or am I?
