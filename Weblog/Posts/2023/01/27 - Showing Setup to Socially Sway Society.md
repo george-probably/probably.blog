@@ -1,6 +1,7 @@
 ---
 Date: 2023-01-27 12:00
 location: /2023/01/setup
+Tags: test, tag
 ---
 
 ## Showing Setup to Socially Sway Society 
