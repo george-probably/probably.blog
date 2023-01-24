@@ -6,7 +6,7 @@ Location: /setup/playdate
 
 ## PlayDate
 
-<div class="img-container-wide"> <img alt="A picture of the PlayDate" src="https://static-fastly.play.date/static/images/nowebgl-device.ad6b6e50dbd0.png"> </div>
+<div class="img-container-wide"> <img alt="A picture of the PlayDate" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/playdate.webp"> </div>
 
 Oops, someone's eager! Thoughts are coming soon!
 
