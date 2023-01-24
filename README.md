@@ -6,7 +6,7 @@ This is a repo for the [chachanidze.com](https://chachanidze.com) Weblog. Please
 ## Content Calendar
 |    **Date**    | **Name**                                                     |
 |:--------------:|--------------------------------------------------------------|
-| **27/01/2023** | ?                                                            |
+| **27/01/2023** | Showing Setup to Socially Sway Society                       |
 | **03/02/2023** | How Oneplus Settled: The rise and fall of the cult favourite |
 | **10/02/2023** | Twitch is easier for women… until it isn’t.                  |
 | **17/02/2023** | When did social media become such a cesspit?                 |
@@ -22,5 +22,5 @@ Note: This content calendar is subject to change and is not final.
 | Weblog            | This is where all of the files that [weblog.lol](https://weblog.lol) can actually see reside, within subfolders listed below.     |
 | .../Configuration | These configuration files are required for [weblog.lol](https://weblog.lol), and feature the main template and a config file.     |
 | .../Pages         | Any page that isn't a blog post belongs in here, they tend to also require their own template.                                    |
-| .../Posts         | This folder contains the Markdown files for each blog post, they are sub-divided into `Year/Month`.                               |
+| .../Posts         | This folder contains the Markdown files for each blog post, they are sub-divided into `Year/Month`. Posts start `xx -` with `xx` being the day.|
 | .../Templates     | Though the main template is housed in `/Configuration`, the secondary templates for non-post pages are hosted within this folder. |
