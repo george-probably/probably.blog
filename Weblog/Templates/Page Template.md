@@ -93,19 +93,6 @@ img {
     object-fit: contain;
 }
 
-/*
-img {
-    max-width: 100%; /* Scale image to fit container */
-    height: 100%; /* Maintain aspect ratio */
-    object-fit: contain;
-    position: absolute; /* Position the image */
-    top: 50%; /* Center the image vertically */
-    left: 50%; /* Center the image horizontally */
-    transform: translate(-50%, -50%); /* Offset the image to the center of the container */
-}
-*/
-
-
 .img-container-wide {
     background: var(--background);
     background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.png);
