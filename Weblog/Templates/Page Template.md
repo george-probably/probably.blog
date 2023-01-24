@@ -102,6 +102,15 @@ img {
     padding-bottom: 50%;
 }
 
+.img-container-square {
+    background: var(--background);
+    background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.png);
+    position: relative;
+    width: 100%;
+    height:0;
+    padding-bottom: 100%;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'VC Honey Deck', serif;
     margin: 1rem 0;
