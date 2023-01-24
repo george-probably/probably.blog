@@ -94,6 +94,7 @@ img {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    border-radius: 30px;
 }
 
 .img-container-wide {
@@ -103,6 +104,7 @@ img {
     width: 100%;
     height:0;
     padding-bottom: 50%;
+    border-radius: 30px;
 }
 
 .img-container-square {
@@ -112,6 +114,7 @@ img {
     width: 100%;
     height:0;
     padding-bottom: 100%;
+    border-radius: 30px;
 }
 
 h1, h2, h3, h4, h5, h6 {
