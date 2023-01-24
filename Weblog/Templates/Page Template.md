@@ -90,7 +90,28 @@ body {
 img {
     width: 100%;
     border-radius: 30px;
+    object-fit: contain;
 }
+
+.img-container-wide{
+    position: relative; /* Make sure the container is a positioned element */
+    width: 100%; /* Set the container to fill its parent element */
+    padding-bottom: 50%; /* Set the container height based on the 2:1 aspect ratio */
+    /* overflow: hidden; */
+}
+
+/*
+img {
+    max-width: 100%; /* Scale image to fit container */
+    height: 100%; /* Maintain aspect ratio */
+    object-fit: contain;
+    position: absolute; /* Position the image */
+    top: 50%; /* Center the image vertically */
+    left: 50%; /* Center the image horizontally */
+    transform: translate(-50%, -50%); /* Offset the image to the center of the container */
+}
+*/
+
 
 .img-container-wide {
     background: var(--background);
