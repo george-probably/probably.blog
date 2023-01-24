@@ -1,6 +1,7 @@
 ---
 Type: Page
 Title: Setup
+Tags: Setup, Gear, Equipment
 ---
 
 ## My Setup
