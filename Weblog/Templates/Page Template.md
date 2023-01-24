@@ -90,6 +90,7 @@ body {
 img {
     max-width: 100%;
     height: 100%;
+    object-fit: contain;
     position: absolute;
     top: 50%;
     left: 50%;

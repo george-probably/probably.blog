@@ -6,7 +6,7 @@ Location: /setup/apple-mac-studio
 
 ## Apple Mac Studio
 
-<div class="img-container-wide"> <img style="margin-left: 25%; width: 50%;" src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-studio-select-202203?wid=500&hei=500&fmt=jpeg&qlt=95" alt="A picture of the Apple Mac Studio"> </div>
+<div class="img-container-wide"> <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-studio-select-202203?wid=500&hei=500&fmt=jpeg&qlt=95" alt="A picture of the Apple Mac Studio"> </div>
 
 My loose thoughts on the Mac Studio are that it does the exact job I got it for, and it's hard to complain about that. I wanted it to replace my custom-built Ryzen 5900X and RTX 2090 Gaming PC. Not because of a burning desire to drop Windows but because I have been travelling more recently. This travelling has meant I just don't have the bandwidth to worry about the tempered glass on the Lian-Li O11 Dynamic shattering if it wasn't packed properly, and like it or not, it was also SUPER HEAVY.
 
