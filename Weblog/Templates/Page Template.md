@@ -60,7 +60,7 @@ table td, table th {
 }
 
 table td:first-child{
-    background: var(--articleBorder);
+    background: var(--background);
     background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.png);
 }
 

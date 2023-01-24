@@ -26,7 +26,7 @@ Click a device name to find out my thoughts on it!
 |                      ![ A picture of the Microsoft Xbox Series S ]( https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4FkjX?ver=c092 )                     |   [Microsoft Xbox Series S¹](/setup/microsoft-xbox-series-s)  |  08/2022 |  9/10  |
 |                                  ![ A picture of the Nintendo Switch OLED ]( https://media.currys.biz/i/currysprod/M10227387_white?$l-large$&fmt=auto )                                 |      [Nintendo Switch OLED](/setup/nintendo-switch-oled)     | 04/2017* |  9/10  |
 |                         ![ A picture of the PlayDate ]( https://cdn.geekwire.com/wp-content/uploads/2021/06/Playdate-hero-shot.78c70891ea4f-e1623180415168.jpg )                        |                  [PlayDate¹](/setup/playdate)                 |  01/2023 |  9/10  |
-|                         ![ A picture of the Rode Podcaster ]( https://m.media-amazon.com/images/I/61Gk+mhL5kL._AC_SL1500_.jpg )                        |                  [Rode Podcaster¹](/setup/rode-podcaster)                 |  04/2018 |  10/10  |
+|                         ![ A picture of the Rode Podcaster ]( https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/Rode%20Podcaster/Rode%20Podcaster.png )                        |                  [Rode Podcaster¹](/setup/rode-podcaster)                 |  04/2018 |  10/10  |
 |                         ![ A picture of the Sony ZV-1 ]( https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/Sony%20ZV-1/Sony%20ZV-1.png )                        |                  [Sony ZV-1¹](/setup/sony-zv-1)                 |  05/2022 |  9/10  |
 </div>
 
