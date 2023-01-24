@@ -56,7 +56,6 @@ table {
 
 table td, table th {
     border: 5px solid var(--articleBorder);
-    padding: 5px;
 }
 
 table td:first-child{
