@@ -93,13 +93,6 @@ img {
     object-fit: contain;
 }
 
-.img-container-wide{
-    position: relative; /* Make sure the container is a positioned element */
-    width: 100%; /* Set the container to fill its parent element */
-    padding-bottom: 50%; /* Set the container height based on the 2:1 aspect ratio */
-    /* overflow: hidden; */
-}
-
 /*
 img {
     max-width: 100%; /* Scale image to fit container */
