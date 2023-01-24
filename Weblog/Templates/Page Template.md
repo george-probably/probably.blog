@@ -98,6 +98,7 @@ img {
     background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.png);
     position: relative;
     width: 100%;
+    height:0;
     padding-bottom: 50%;
 }
 
