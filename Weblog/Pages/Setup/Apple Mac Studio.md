@@ -8,7 +8,7 @@ Location: /setup/apple-mac-studio
 
 <div class="img-container-wide"> <img src="https://www.apple.com/v/mac-studio/a/images/overview/hero/static_front__fmvxob6uyxiu_large.jpg" alt="A picture of the Apple Mac Studio"> </div>
 
-My loose thoughts on the Mac Studio are that it does the exact job I got it for, and it's hard to complain about that. I wanted it to replace my custom-built Ryzen 5900X and RTX 2090 Gaming PC. Not because of a burning desire to drop Windows but because I have been travelling more recently. This travelling has meant I just don't have the bandwidth to worry about the tempered glass on the Lian-Li O11 Dynamic shattering if it wasn't packed properly, and like it or not, it was also SUPER HEAVY.
+My loose thoughts on the Mac Studio are that it does the exact job I got it for, and it's hard to complain about that. I wanted it to replace my custom-built Ryzen 5900X and RTX 2090 Gaming PC. Not because of a burning desire to drop Windows but because I have been travelling more recently. This travelling has meant I really don't have the bandwidth to worry about the tempered glass on the Lian-Li O11 Dynamic shattering if it wasn't packed properly, and like it or not, it was also SUPER HEAVY.
 
 Apple, the company that knows what you want more than you do, *did* make this the very definition of "if you use it for what Apple wants you to use it for, it's second to none. " If you don't, it's worthless".
 
