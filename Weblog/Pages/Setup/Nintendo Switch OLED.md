@@ -6,7 +6,7 @@ Location: /setup/nintendo-switch-oled
 
 ## Nintendo Switch OLED
 
-<div class="img-container-wide"> <img alt="A picture of the Nintendo Switch OLED" src="https://media.currys.biz/i/currysprod/M10227387_white?$l-large$&fmt=auto"> </div>
+<div class="img-container-wide"> <img alt="A picture of the Nintendo Switch OLED" src="https://fs-prod-cdn.nintendo-europe.com/media/images/08_content_images/systems_5/nintendo_switch_3/nintendo_switch_oled/CI_NSwitch_big_screen_bg.png"> </div>
 
 Since picking up the first Nintendo Switch, this has been a consistent companion on my travels. I'll only rarely use it docked, almost entirely on flights and train journeys, but it's perfect for that.
 

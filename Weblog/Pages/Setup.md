@@ -6,7 +6,7 @@ Tags: Setup, Gear, Equipment
 
 ## My Setup
 
-Below is a list of the tech I use on a regular basis. Everything from my phone and computer, to the consoles I play on when I want to blow off steam.
+Below is a list of the tech I use regularly. Everything from my phone and computer, to the consoles I play on when I want to blow off steam.
 
 The list isn't in any particular order aside from how I thought it looked nicest. What to know what I'm up to currently? [Check out my /now page](https://snpy.tech/now)!
 
