@@ -60,7 +60,7 @@ table td, table th {
 
 table td:first-child{
     background: var(--background);
-    background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.png);
+    background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.webp);
 }
 
 table th:first-of-type {
@@ -100,7 +100,7 @@ img {
 
 .img-container-wide {
     background: var(--background);
-    background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.png);
+    background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.webp);
     position: relative;
     width: 100%;
     height:0;
@@ -110,7 +110,7 @@ img {
 
 .img-container-square {
     background: var(--background);
-    background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.png);
+    background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.webp);
     position: relative;
     width: 100%;
     height:0;
