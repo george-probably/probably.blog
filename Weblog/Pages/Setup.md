@@ -21,11 +21,10 @@ Click a device name to find out my thoughts on it!
 |     <div class="img-container-square"> <img alt="A picture of the Google Pixel Buds Pro" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-pixel-buds-pro.webp"> </div>      | [Google Pixel Buds Pro¹](/setup/google-pixel-buds-pro)         | 11/2022  |  8/10  |
 | <div class="img-container-square"> <img alt="A picture of the Mobvoi Ticwatch Pro 3 GPS" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/mobvoi-ticwatch-pro-3-gps.webp"> </div>  | [Mobvoi Ticwatch Pro 3 GPS¹](/setup/mobvoi-ticwatch-pro-3-gps) | 11/2022  |  6/10  |
 |  <div class="img-container-square"> <img alt="A picture of the Acer Chromebook Spin 514" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/acer-chromebook-spin-514.webp"> </div>   | [Acer Chromebook Spin 514](/setup/acer-chromebook-spin-514)    | 11/2022  |  8/10  |
-<!--
 |           <div class="img-container-square"> <img alt="A picture of the Ray-Ban Stories" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/ray-ban-stories.webp"> </div>            | [Ray-Ban Stories](/setup/ray-ban-stories)                      | 04/2022  |  9/10  |
 |       <div class="img-container-square"> <img alt="A picture of the Anker PowerCore III" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/anker-powercore-iii.webp"> </div>        | [Anker PowerCore III](/setup/anker-powercore-iii)              | 01/2022  |  8/10  |
 |           <div class="img-container-square"> <img alt="A picture of the Anker USB C Hub" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/anker-usb-c-hub.webp"> </div>            | [Anker USB C Hub](/setup/anker-usb-c-hub)                      | 07/2021  |  8/10  |
--->
+
 </div>
 
 ### Home Computing
@@ -39,9 +38,7 @@ Click a device name to find out my thoughts on it!
 |              <div class="img-container-square"> <img alt="A picture of the Bose QC35 II" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/bose-qc35-ii.webp"> </div>               | [Bose QC35 II¹](/setup/bose-qc35-ii)                           | 01/2021  |  8/10  |
 |                 <div class="img-container-square"> <img alt="A picture of the Sony ZV-1" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/sony-zv-1.webp"> </div>                  | [Sony ZV-1](/setup/sony-zv-1)                                  | 05/2022  |  9/10  |
 |            <div class="img-container-square"> <img alt="A picture of the Rode Podcaster" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/rode-podcaster.webp"> </div>             | [Rode Podcaster¹](/setup/rode-podcaster)                       | 04/2018  |  10/10 |
-<!--
-|           <div class="img-container-square"> <img alt="A picture of the Google Home Hub" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-home-hub.webp"> </div>            | [Google Home Hub¹](/setup/google-home-hub)                     | 11/2018  |  9/10  |
--->
+|           <div class="img-container-square"> <img alt="A picture of the Google Nest Hub" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-nest-hub.webp"> </div>            | [Google Nest Hub¹](/setup/google-nest-hub)                     | 11/2018  |  8/10  |
 
 </div>
 
@@ -53,14 +50,13 @@ Click a device name to find out my thoughts on it!
 |   <div class="img-container-square"> <img alt="A picture of the Microsoft Xbox Series S" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/microsoft-xbox-series-s.webp"> </div>    | [Microsoft Xbox Series S](/setup/microsoft-xbox-series-s)      | 08/2022  |  9/10  |
 |      <div class="img-container-square"> <img alt="A picture of the Nintendo Switch OLED" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/nintendo-switch-oled.webp"> </div>       | [Nintendo Switch OLED](/setup/nintendo-switch-oled)            | 04/2017* |  9/10  |
 |                  <div class="img-container-square"> <img alt="A picture of the PlayDate" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/playdate.webp"> </div>                   | [PlayDate¹](/setup/playdate)                                   | 01/2023  |  9/10  |
-<!--
 |            <div class="img-container-square"> <img alt="A picture of the Sony Dualsense" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/sony-dualsense.webp"> </div>             | [Sony Dualsense¹](/setup/sony-dualsense)                       | 01/2023  |  9/10  |
 |             <div class="img-container-square"> <img alt="A picture of the Razer Kaira X" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/razer-kaira-x.webp"> </div>              | [Razer Kaira X¹](/setup/razer-kaira-x)                         | 01/2023  |  8/10  |
 |               <div class="img-container-square"> <img alt="A picture of the Razer Kishi" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/razer-kishi.webp"> </div>                | [Razer Kishi¹](/setup/razer-kishi)                             | 01/2023  |  7/10  |
--->
+
 </div>
 
-\* \- Strictly speaking, this isn't the date I acquired this specific device. I had my first version on this date and then upgraded to this one later.
+\* \- Strictly speaking, this isn't the date I acquired this specific device, I had my first version on this date and then upgraded to this one later.
   
 1 - Still writing up my thoughts. Have an immediate question? [Feel free to reach out!](https://george.chachanidze.com) 
 
