@@ -10,4 +10,6 @@ Location: /setup/bose-qc35-ii
 
 Oops, someone's eager! Thoughts are coming soon.
 
+### Verdict: 8/10
+
 [Back to setup page](/setup)
