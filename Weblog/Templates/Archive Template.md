@@ -226,7 +226,7 @@ hr {
 margin-top: 20px;
 }
 
-.flex-items{
+.flex-column{
     display: block;
     flex-grow: 1;
     flex-shrink: 1;
@@ -238,16 +238,16 @@ margin-top: 20px;
 
 }
 
-.flex-items:nth-child(1) {
+.flex-column:nth-child(1) {
   width: 100%;
     padding: 0;
 }
 
-.flex-items:nth-child(2) {
+.flex-column:nth-child(2) {
   width: 60%;
 }
 
-.flex-items:nth-child(3) {
+.flex-column:nth-child(3) {
   width: 35%;
   font-size: 90%;
   line-height: 150%;
@@ -321,15 +321,15 @@ svg {
 </header>
 <main>
 
-<div class="flex-items">
+<div class="flex-column">
 <div class="nav-box"> {navigation} </div>
 </div>
 
-<div class="flex-items">
+<div class="flex-column">
 <div class="box">{body}</div>
 </div>
 
-<div class="flex-items">
+<div class="flex-column">
 <div class="box">
 <h2> <i class="fa-solid fa-search"></i> Looking for something?</h2>
 <form id="form"> 
