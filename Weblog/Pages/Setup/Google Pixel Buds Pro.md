@@ -10,4 +10,6 @@ Location: /setup/google-pixel-buds-pro
 
 Oops, someone's eager! Thoughts are coming soon.
 
+### Verdict: 8/10
+
 [Back to setup page](/setup)

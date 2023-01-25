@@ -10,4 +10,6 @@ Location: /setup/rode-podcaster
 
 Oops, someone's eager! Thoughts are coming soon.
 
+### Verdict: 10/10
+
 [Back to setup page](/setup)

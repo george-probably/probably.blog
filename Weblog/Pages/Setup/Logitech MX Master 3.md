@@ -10,4 +10,6 @@ Location: /setup/logitech-mx-master-3
 
 Oops, someone's eager! Thoughts are coming soon.
 
+### Verdict: 9/10
+
 [Back to setup page](/setup)

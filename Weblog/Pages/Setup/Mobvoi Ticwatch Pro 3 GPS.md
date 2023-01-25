@@ -10,4 +10,6 @@ Location: /setup/mobvoi-ticwatch-pro-3-gps
 
 Oops, someone's eager! Thoughts are coming soon.
 
+### Verdict: 6/10
+
 [Back to setup page](/setup)

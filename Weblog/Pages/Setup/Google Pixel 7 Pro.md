@@ -10,4 +10,6 @@ Location: /setup/google-pixel-7-pro
 
 Oops, someone's eager! Thoughts are coming soon!
 
+### Verdict: 9.5/10
+
 [Back to setup page](/setup)
