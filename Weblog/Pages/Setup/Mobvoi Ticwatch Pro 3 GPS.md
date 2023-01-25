@@ -6,7 +6,7 @@ Location: /setup/mobvoi-ticwatch-pro-3-gps
 
 ## Mobvoi Ticwatch Pro 3 GPS
 
-<div class="img-container-wide"> <img alt="A picture of the Mobvoi Ticwatch Pro 3 GPS" src="https://d1yt8qkhp8oydd.cloudfront.net/images/img_4784628784481288299.png"> </div>
+<div class="img-container-wide"> <img alt="A picture of the Mobvoi Ticwatch Pro 3 GPS" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/mobvoi-ticwatch-pro-3-gps.webp"> </div>
 
 Oops, someone's eager! Thoughts are coming soon.
 
