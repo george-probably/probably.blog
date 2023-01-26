@@ -7,7 +7,7 @@ location: /2023/01/setup
 
 I've had a bit of a hectic week, so the in-depth post initially planned for this week will instead come in a couple of weeks (next week's post is time sensitive, so it will come after that). Instead, I have something a little more light-hearted and casual! Regular readers will see a new button in the menu, titled "Setup".
 
-Want to know the gear I rock, how much I like it, and why? That's the place to see it all! Within the table, you can click on a product name to see a mini-review of the products. Even calling it that is a *bit* of a stretch; it's more of an informal look into why I use what I do, and how I make it usable. For example, the [Mac Studio page](/setup/apple-mac-studio) features a list of all the software I use to make macOS more powerful!
+Want to know the gear I rock, how much I like it, and why? That's the place to see it all! Within the table, you can click on a product name to see a mini-review of the products. Even calling it that is a *bit* of a stretch; it's more of an informal look into why I use what I do and how I make it usable. For example, the [Mac Studio page](/setup/apple-mac-studio) features a list of all the software I use to make macOS more powerful!
 
 If you'd like to discuss more, you can always reach me on Mastodon at [@georgeprobably@social.lol](https://social.lol/@georgeprobably) but remember to keep the conversation civil! Just because I like it doesn't mean you're not allowed to prefer something else (though, if anyone unironically says the words "not a retina display", I will freak out). I need to make the pages prettier (adding an image at the top, so it's not just a wall of text), but it's functionally all there. I'm slowly adding more devices, so please be patient!
 
@@ -21,7 +21,8 @@ I'm sure that this is the kind of thing that most people who are even slightly t
 
 You may have also noticed some tweaks to the colours used. I did this to improve readability and make the differences between light and dark modes more obvious. I talked about it more in this thread:
 
-<iframe src="https://social.lol/@georgeprobably/109702286222689947/embed" class="mastodon-embed" style="border: 5px solid var(--articleBorder);border-radius: 30px;overflow: hidden;" allowfullscreen="allowfullscreen" scrolling="no" height="560px" width="100%"></iframe>
+<iframe src="https://social.lol/@georgeprobably/109702286222689947/embed" class="mastodon-embed" style="border: 5px solid var(--articleBorder);border-radius: 30px;overflow: hidden;" allowfullscreen="allowfullscreen" scrolling="no" height="560px" width="100%"></iframe><div class="caption">click the date on the bottom left, <a href="https://social.lol/@georgeprobably/109702286222689947" target="_blank"> or here</a>, to open the thread.</div>
+
 
 Along with the general redesign, I put a lot of work into ensuring that the pictures used in the setup pages look as good as possible. I spent a couple of hours sourcing transparent images, re-sizing them to remove the padding and make them consistent, and then feeding them through a couple of different image containers, depending on where the images appear. In the setup page itself, the images are served in 1:1 format. In the item pages, it's 2:1. The pictures themselves are transparent PNGs, and they get the background from their container, with a cardboard texture from [Transparent Textures](https://transparenttextures.com), to make sure it's not just a single block of colour. The semi-transparent texture also means that it will automatically match your browser's light/dark mode!
 
