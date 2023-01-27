@@ -1,6 +1,5 @@
 ---
 Date: 2023-01-27 12:00
-location: /2023/01/setup
 ---
 
 ## Showing Setup to Socially Sway Society 
