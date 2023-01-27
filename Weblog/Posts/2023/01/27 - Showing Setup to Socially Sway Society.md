@@ -25,6 +25,12 @@ You may have also noticed some tweaks to the colours used. I did this to improve
 <iframe src="https://social.lol/@georgeprobably/109702286222689947/embed" class="mastodon-embed" style="border: 5px solid var(--articleBorder);border-radius: 30px;overflow: hidden;" allowfullscreen="allowfullscreen" scrolling="no" height="560px" width="100%"></iframe>
 </br></br><div class="caption">click the date on the bottom left, <a href="https://social.lol/@georgeprobably/109702286222689947" target="_blank"> or here</a>, to open the thread.</div>
 
-Along with the general redesign, I put a lot of work into ensuring that the pictures used in the setup pages look as good as possible. I spent a couple of hours sourcing transparent images, re-sizing them to remove the padding and make them consistent, and then feeding them through a couple of different image containers, depending on where the images appear. In the setup page itself, the images are served in 1:1 format. In the item pages, it's 2:1. The pictures themselves are transparent PNGs, and they get the background from their container, with a textures from [Transparent Textures](https://transparenttextures.com), to make sure it's not just a single block of colour. The semi-transparent texture also means that it will automatically match your browser's light/dark mode!
+## Making Pretty Pictures
+
+Along with the general redesign, I put a lot of work into ensuring that the pictures used in the setup pages look as good as possible. I spent a couple of hours sourcing transparent images, re-sizing them to remove the padding and make them consistent, and then feeding them through a couple of different image containers, depending on where the images appear.
+
+In the setup page itself, the images are served in 1:1 format. In the item pages, it's 2:1. The pictures themselves are transparent PNGs, and they get the background from their container, with textures from [Transparent Textures](https://transparenttextures.com), to make sure it's not just a single block of colour. The semi-transparent texture also means that it will automatically match your browser's light/dark mode!
+
+Something about these adaptive pictures has been really interesting to me, I explored it a little bit with the graph I use in [Who Are You?](/2023/01/who-are-you) and I want to do some more experimentation with it. For right now, it's cool that I can just drop any image into the Setup pages and it will be made to fit with the others!
 
 >Note: Obviously I'm not *actually* trying to sway society into using all of the things I use in a synical plot to make what I like more popular... or am I?
