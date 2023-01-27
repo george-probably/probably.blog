@@ -22,8 +22,7 @@ I'm sure that this is the kind of thing that most people who are even slightly t
 You may have also noticed some tweaks to the colours used. I did this to improve readability and make the differences between light and dark modes more obvious. I talked about it more in this thread:
 
 <iframe src="https://social.lol/@georgeprobably/109702286222689947/embed" class="mastodon-embed" style="border: 5px solid var(--articleBorder);border-radius: 30px;overflow: hidden;" allowfullscreen="allowfullscreen" scrolling="no" height="560px" width="100%"></iframe>
-
-<div class="caption">click the date on the bottom left, <a href="https://social.lol/@georgeprobably/109702286222689947" target="_blank"> or here</a>, to open the thread.</div>
+<div class="caption">\nclick the date on the bottom left, <a href="https://social.lol/@georgeprobably/109702286222689947" target="_blank"> or here</a>, to open the thread.</div>
 
 Along with the general redesign, I put a lot of work into ensuring that the pictures used in the setup pages look as good as possible. I spent a couple of hours sourcing transparent images, re-sizing them to remove the padding and make them consistent, and then feeding them through a couple of different image containers, depending on where the images appear. In the setup page itself, the images are served in 1:1 format. In the item pages, it's 2:1. The pictures themselves are transparent PNGs, and they get the background from their container, with a textures from [Transparent Textures](https://transparenttextures.com), to make sure it's not just a single block of colour. The semi-transparent texture also means that it will automatically match your browser's light/dark mode!
 
