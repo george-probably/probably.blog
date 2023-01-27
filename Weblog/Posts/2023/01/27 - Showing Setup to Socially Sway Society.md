@@ -5,6 +5,7 @@ location: /2023/01/setup
 
 ## Showing Setup to Socially Sway Society 
 
+<div class="img-container-wide"> <img class="setup-image" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/apple-mac-studio.webp" alt="A picture of the Apple Mac Studio"> </div>
 I've had a bit of a hectic week, so the in-depth post initially planned for this week will instead come in a couple of weeks (next week's post is time sensitive, so it will come after that). Instead, I have something a little more light-hearted and casual! Regular readers will see a new button in the menu, titled "Setup".
 
 Want to know the gear I rock, how much I like it, and why? That's the place to see it all! Within the table, you can click on a product name to see a mini-review of the products. Even calling it that is a *bit* of a stretch; it's more of an informal look into why I use what I do and how I make it usable. For example, the [Mac Studio page](/setup/apple-mac-studio) features a list of all the software I use to make macOS more powerful!
