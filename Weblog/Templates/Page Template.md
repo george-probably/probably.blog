@@ -56,13 +56,13 @@ table {
     overflow-x:auto;
 }
 
-table td, table th {
-    border: 5px solid var(--articleBorder);
+table td:first-child {
+    background: var(--background);
+    background-image: url(https://www.transparenttextures.com/patterns/diagmonds.png);
 }
 
-table td:first-child{
-    background: var(--background);
-    background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.webp);
+table td, table th {
+    border: 5px solid var(--articleBorder);
 }
 
 table th:first-of-type {
@@ -101,7 +101,7 @@ img {
 
 .img-container-wide {
     background: var(--background);
-    background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.webp);
+    background-image: url(https://www.transparenttextures.com/patterns/inspiration-geometry.png);
     position: relative;
     width: 100%;
     height:0;
@@ -110,13 +110,10 @@ img {
 }
 
 .img-container-square {
-    background: var(--background);
-    background-image: url(https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/cardboard-texture.webp);
     position: relative;
     width: 100%;
     height:0;
     padding-bottom: 100%;
-    border-radius: 30px;
 }
 
 h1, h2, h3, h4, h5, h6 {
