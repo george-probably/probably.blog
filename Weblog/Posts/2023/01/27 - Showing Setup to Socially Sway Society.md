@@ -12,9 +12,9 @@ Want to know the gear I rock, how much I like it, and why? That's the place to s
 
 If you'd like to discuss more, you can always reach me on Mastodon at [@georgeprobably@social.lol](https://social.lol/@georgeprobably) but remember to keep the conversation civil! Just because I like it doesn't mean you're not allowed to prefer something else (though, if anyone unironically says the words "not a retina display", I will freak out). I need to make the pages prettier (adding an image at the top, so it's not just a wall of text), but it's functionally all there. I'm slowly adding more devices, so please be patient!
 
-You can *either* see this as "glass half empty" with no *real* post this week or "glass half full", as I've got 12 pages worth of setup content. I have genuinely written more for this week than in any individual post! Right now [you can head over](/setup) to the setup page and see the 10 items I have written pages for, I'm sure you'll love them!
+You can *either* see this as "glass half empty" with no *real* post this week or "glass half full", as I've got 12 pages worth of setup content. I have genuinely written more for this week than in any individual post! Right now [you can head over](/setup) to the setup page and see the 10 items I have written pages for, I'm sure you'll love them! I have tried to make sure it's a variety of items.
 
-### Blog Redesign
+## Blog Redesign
 
 I've wanted to do this since day one. However, it has been about five years since I have done any serious coding of any form, and my CSS was terrible even at my peak, so the look we had was about as good as I could pull off. Well? After spending lots of time trying to make Flex work the way I want, we now have two columns! This means I can add more things without looking dumb, so there's a search box to find specific posts, and the page will re-size to fit onto a mobile device.
 
