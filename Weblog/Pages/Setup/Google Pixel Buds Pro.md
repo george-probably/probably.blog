@@ -18,9 +18,13 @@ When they fit, they feel like they disappear in my ear. It's this weird feeling,
 If I have all of this praise for the Pixel Buds, why do I feel like they're being beaten by Samsung? Well, firstly it's...
 
 ### All of the bugs
-I have experienced a TONNE of weird bugs on these buds, but the two most memorable ones are: 1) Every now and again, you'll put the buds in the case, and they buds will acknowledge that they're in the case, but they won't turn off after you close the lid. This has been an issue that has popped up two or three times, and is always on the left bud.
+I have experienced a TONNE of weird bugs on these buds, but the two most memorable ones are:
 
-2\) The buds seem to refuse to ever sleep. A couple of times I have accidentally left a bud out of the case. On the Galaxy Buds, they seemed to enter some form of power saving which meant that I was saved any blushes when I realised I hadn't stored them properly, but I'd still have a decent chunk of battery. On the other hand, if I leave a Pixel Bud outside of the case I can tell you with 100% certainty that it will be dead when I pick it up.
+1) Every now and again, you'll put the buds in the case, and the buds will acknowledge that they're in the case, but they won't turn off after you close the lid. This has been an issue that has popped up two or three times, and is always on the left bud.
+ 
+2) The buds seem to refuse to ever sleep. A couple of times I accidentally left a bud out of the case. On the Galaxy Buds, they seemed to enter some form of power saving which meant that I was saved any blushes when I realised I hadn't stored them properly, but I'd still have a decent chunk of battery. On the other hand, if I leave a Pixel Bud outside of the case I can tell you with 100% certainty that it will be dead when I pick it up.
+
+3) The bug that bothers me most in regular use is that for some reason, even though I'm only wearing one bud, it will still enable noise cancellation. What this means is that it is a super comfortable experience wearing one bud, it's oddly disorientating. I feel off-balance and like there's a weird pressure in my ear. My solution? I've mapped the long-press to toggle between ANC and transparency modes. 
 
 More than that though, there is also this issue with...
 
