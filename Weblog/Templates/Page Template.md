@@ -369,7 +369,7 @@ svg {
     <div class="box">
         <h2> <i class="fa-solid fa-star"></i> Favourites</h2>
         <ul>
-        <li>[Why is Modern Software So Bad?(/2022/04/why-is-modern-software-so-bad)</li>
+        <li><a href='/2022/04/why-is-modern-software-so-bad'>Why is Modern Software So Bad?</a></li>
         <li></li>
         <li></li>
         <li></li>
