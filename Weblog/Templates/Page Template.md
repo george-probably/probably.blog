@@ -367,6 +367,17 @@ svg {
     </div>
     
     <div class="box">
+        <h2> <i class="fa-solid fa-star"></i> Favourites</h2>
+        <ul>
+        <li>[Why is Modern Software So Bad?(/2022/04/why-is-modern-software-so-bad)</li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        </ul>
+    </div>
+
+    <div class="box">
     <a href="/archive"><h2> <i class="fa-solid fa-archive"></i> Dig through the Archive</h2></a>
     </div>
     
