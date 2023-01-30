@@ -1,7 +1,6 @@
 ---
 Type: Page
 Title: Setup
-Tags: Setup, Gear, Equipment
 ---
 
 ## My Setup
@@ -15,7 +14,7 @@ Click a device name to find out my thoughts on it!
 ### Daily Carry
 |                                                                                                           Image                                                                                                            |                             Device                             |  Bought  | Rating |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------:|:--------:|:------:|
-|        <div class="img-container-square"> <img alt="A picture of the Google Pixel 7 Pro" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-pixel-7-pro.webp"> </div>         | [Google Pixel 7 Pro¹](/setup/google-pixel-7-pro)               | 11/2022  | 9.5/10 |
+|        <div class="img-container-square"> <img alt="A picture of the Google Pixel 7 Pro" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-pixel-7-pro.webp"> </div>         | [Google Pixel 7 Pro](/setup/google-pixel-7-pro)               | 11/2022  | 9.5/10 |
 |     <div class="img-container-square"> <img alt="A picture of the Google Pixel Buds Pro" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-pixel-buds-pro.webp"> </div>      | [Google Pixel Buds Pro](/setup/google-pixel-buds-pro)          | 11/2022  | 7.5/10 |
 | <div class="img-container-square"> <img alt="A picture of the Mobvoi Ticwatch Pro 3 GPS" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/mobvoi-ticwatch-pro-3-gps.webp"> </div>  | [Mobvoi Ticwatch Pro 3 GPS](/setup/mobvoi-ticwatch-pro-3-gps)  | 11/2022  |  6/10  |
 |  <div class="img-container-square"> <img alt="A picture of the Acer Chromebook Spin 514" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/acer-chromebook-spin-514.webp"> </div>   | [Acer Chromebook Spin 514](/setup/acer-chromebook-spin-514)    | 11/2022  |  8/10  |
