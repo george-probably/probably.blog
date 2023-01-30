@@ -367,7 +367,7 @@ svg {
     </div>
     
     <div class="box">
-        <h2> <i class="fa-solid fa-star"></i> Favourites</h2>
+        <h2> <i class="fa-solid fa-star"></i> Favourite Posts</h2>
         <ul>
         <li><a href='/2022/04/why-is-modern-software-so-bad'>Why is Modern Software So Bad?</a></li>
         <li><a href='/2022/12/new-year-same-tired'>New Year, Same Tired</a></li>
