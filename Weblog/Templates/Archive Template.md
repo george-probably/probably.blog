@@ -333,14 +333,25 @@ svg {
 <div class="box">
 <h2> <i class="fa-solid fa-search"></i> Looking for something?</h2>
 <form id="form"> 
-  <input type="search" id="query" name="search" placeholder="Search...">
-  <button><i class="fa-solid fa-search"></i></button>
+<input type="search" id="query" name="search" placeholder="Search...">
+<button><i class="fa-solid fa-search"></i></button>
 </form>
 </div>
 <div class="box">
 <h2> "Where'd these boxes go?" </h2>
 <p>You don't need them, silly! You're already on the archive page; the latest posts are just the top 5!</p>
 </div>
+
+<div class="box">
+<h2> <i class="fa-solid fa-star"></i> Favourite Posts</h2>
+<ul>
+<li><a href='/2022/04/why-is-modern-software-so-bad'>Why is Modern Software So Bad?</a></li>
+<li><a href='/2022/12/new-year-same-tired'>New Year, Same Tired</a></li>
+<li><a href='/2023/01/who-are-you'>Who Are You?</a></li>
+<li><a href='/2023/01/adding-more-whimsy-to-your-life'>Adding More Whimsy To Your Life</a></li>
+</ul>
+</div>
+
 </main>
 <footer>
 <p>Made with <a href="https://weblog.lol">weblog.lol</a>. </br>kindness binds us</p>

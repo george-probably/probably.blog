@@ -344,45 +344,45 @@ svg {
 	<h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1></header>
 <main>
 
-    <div class="flex-column">
-    <div class="nav-box"> {navigation} </div>
-    </div>
-    
-    <div class="flex-column">
-    <div class="box">{body}</div>
-    </div>
-    
-    <div class="flex-column">
-    <div class="box">
-    <h2> <i class="fa-solid fa-search"></i> Looking for something?</h2>
-    <form id="form"> 
-      <input type="search" id="query" name="search" placeholder="Search...">
-      <button><i class="fa-solid fa-search"></i></button>
-    </form>
-    </div>
-    
-    <div class="box">
-        <h2> <i class="fa-solid fa-clock-rotate-left"></i> Recent Posts</h2>
-        {recent-posts}
-    </div>
-    
-    <div class="box">
-        <h2> <i class="fa-solid fa-star"></i> Favourite Posts</h2>
-        <ul>
-        <li><a href='/2022/04/why-is-modern-software-so-bad'>Why is Modern Software So Bad?</a></li>
-        <li><a href='/2022/12/new-year-same-tired'>New Year, Same Tired</a></li>
-        <li><a href='/2023/01/who-are-you'>Who Are You?</a></li>
-        <li><a href='/2023/01/adding-more-whimsy-to-your-life'>Adding More Whimsy To Your Life</a></li>
-        </ul>
-    </div>
+<div class="flex-column">
+<div class="nav-box"> {navigation} </div>
+</div>
 
-    <div class="box">
-    <a href="/archive"><h2> <i class="fa-solid fa-archive"></i> Dig through the Archive</h2></a>
-    </div>
-    
-    </div>
-    
-    </main>
+<div class="flex-column">
+<div class="box">{body}</div>
+</div>
+
+<div class="flex-column">
+<div class="box">
+<h2> <i class="fa-solid fa-search"></i> Looking for something?</h2>
+<form id="form"> 
+<input type="search" id="query" name="search" placeholder="Search...">
+<button><i class="fa-solid fa-search"></i></button>
+</form>
+</div>
+
+<div class="box">
+<h2> <i class="fa-solid fa-clock-rotate-left"></i> Recent Posts</h2>
+{recent-posts}
+</div>
+
+<div class="box">
+<h2> <i class="fa-solid fa-star"></i> Favourite Posts</h2>
+<ul>
+<li><a href='/2022/04/why-is-modern-software-so-bad'>Why is Modern Software So Bad?</a></li>
+<li><a href='/2022/12/new-year-same-tired'>New Year, Same Tired</a></li>
+<li><a href='/2023/01/who-are-you'>Who Are You?</a></li>
+<li><a href='/2023/01/adding-more-whimsy-to-your-life'>Adding More Whimsy To Your Life</a></li>
+</ul>
+</div>
+
+<div class="box">
+<a href="/archive"><h2> <i class="fa-solid fa-archive"></i> Dig through the Archive</h2></a>
+</div>
+
+</div>
+
+</main>
 
 </main>
 <footer>
