@@ -1,5 +1,5 @@
 ---
-Date: 2023-02-10 12:00
+Date: 2023-02-10 16:00
 Status: Draft
 ---
 
@@ -15,7 +15,7 @@ Women are more likely to get explosive growth as men vie for attention. Donating
 
 ![A tweet from @KEEMSTAR which reads: "Clearly husband is abusing. She showed the text. But Amouranth herself has scammed so many guys online claiming she was single for years. These twitch streamers dont care about their viewers. They all just use you & your low IQs to fill their pockets."](https://pbs.twimg.com/media/FfNa8R_UcAAmvPx?format=png)<div class="caption">Tweet image taken from [@JakeSucky](https://twitter.com/JakeSucky/status/1581709055726231555), the original tweet has been deleted.</div>
 
-When Amouranth came out and shared that she had a husband who had been abusive, there were men who felt she had "lied to them" for not telling them that she wasn't available and for "leading them on"
+When Amouranth came out and shared that she had a husband who had been abusive, some men felt she had "lied to them" for not telling them that she wasn't available and for "leading them on"
 
 This exponential growth also means that the bell curve is exaggerated
 
