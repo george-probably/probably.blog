@@ -1,31 +1,6 @@
 ---
 Date: 2023-02-01 19:00
-<head>
-  <!-- HTML Meta Tags -->
-  <meta name="description" content="Samsung has announced their challengers for 2023, the S23 Series (oh wait, is that why they're called that?) is here, and the question is: Will Samsung keep the ball rolling on what has been a very popular S22 series?">
-
-  <!-- Facebook Meta Tags -->
-  <meta property="og:url" content="https://chachanidze.com/2023/02/samsung-galaxy-unpacked-impressions">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Samsung Galaxy Unpacked Impressions
- - George, Probably Blogs">
-  <meta property="og:description" content="Samsung has announced their challengers for 2023, the S23 Series (oh wait, is that why they're called that?) is here, and the question is: Will Samsung keep the ball rolling on what has been a very popular S22 series?">
-  <meta property="og:image" content="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Samsung%20Galaxy%20Unpacked%20Early%202023/S23Ultra.webp">
-
-  <!-- Twitter Meta Tags -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:domain" content="chachanidze.com">
-  <meta property="twitter:url" content="https://chachanidze.com/2023/02/samsung-galaxy-unpacked-impressions">
-  <meta name="twitter:title" content="Samsung Galaxy Unpacked Impressions
- - George, Probably Blogs">
-  <meta name="twitter:description" content="Samsung has announced their challengers for 2023, the S23 Series (oh wait, is that why they're called that?) is here, and the question is: Will Samsung keep the ball rolling on what has been a very popular S22 series?">
-  <meta name="twitter:image" content="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Samsung%20Galaxy%20Unpacked%20Early%202023/S23Ultra.webp">
-
-  <!-- Meta Tags Generated via https://www.opengraph.xyz -->
-  </head>
 ---
-
-
 
 ## Samsung Galaxy Unpacked Impressions
 
