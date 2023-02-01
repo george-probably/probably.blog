@@ -21,7 +21,7 @@ Finally: The 8K video is no longer the cinematic 24fps, as the S23 Ultra can fil
 ### European Parity
 Aside from that, my only other major reaction is: **FINALLY**. Here in the UK at least, we finally look set to get a Samsung flagship with a Qualcomm chip. Though, it's not just any chip. Following in the footsteps of Apple and Microsoft in wanting chips that are practically the same as the off-the-shelf counterpart, but also with a name that means it's no one else's, the S23 line will launch with the Qualcomm Snapdragon 8 Gen 2 for Galaxy. What does this mean in practice? It's the standard Snapdragon 8G2, but with a slight overclock.
 
-It's hard not to be excited by this move as a consumer, you're getting a MUCH more efficient chip, and Samsung now has to do half the software updates tehy did previously, but it is a problem for competitiveness in the flagship mobile chip space. If you're on Android, chances are your high-end phone has a Qualcomm chip, as MediaTek can only compete at the low-end.
+It's hard not to be excited by this move as a consumer, you're getting a MUCH more efficient chip, and Samsung now has to do half the software updates they did previously, but it is a problem for competitiveness in the flagship mobile chip space. If you're on Android, chances are your high-end phone has a Qualcomm chip, as MediaTek can only compete at the low-end.
 
 
 ### That's basically it.
