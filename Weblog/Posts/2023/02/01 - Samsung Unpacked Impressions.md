@@ -20,10 +20,17 @@ Finally: The 8K video is no longer the cinematic 24fps, as the S23 Ultra can fil
 ### European Parity
 Aside from that, my only other major reaction is: **FINALLY**. Here in the UK at least, we finally look set to get a Samsung flagship with a Qualcomm chip. Though, it's not just any chip. Following in the footsteps of Apple and Microsoft in wanting chips that are practically the same as the off-the-shelf counterpart, but also with a name that means it's no one else's, the S23 line will launch with the Qualcomm Snapdragon 8 Gen 2 for Galaxy. What does this mean in practice? It's a Snapdragon 8 Gen 2, but with a slight overclock.
 
-Other than that, the hardware is mostly the same. The same 5000mAh battery, the same S-Pen, and the same 45W fast charging. It's a fairly safe route that Samsung is taking with this cycle, and it makes sense considering the success of the S22 Ultra. That being said, the one thing that isn't the same is the price tag. 
+
+### That's basically it.
+
+Other than that, the hardware is mostly the same. The same 5000mAh battery, the same S-Pen, and the same 45W fast charging. It's a fairly safe route that Samsung is taking with this cycle, and it makes sense considering the success of the S22 Ultra. That being said, the one thing that isn't the same is the price tag. At £1249, the base model S23 Ultra comes in at a full £100 more than the S22 Ultra did. 
+
+You *do* get double the storage for that extra £100, but it is still weird that the base model has only 8GB of RAM, whereas the rest of the Ultras have 12GB. It's supposed to be an Ultra device, so why are they compromising on memory?
+
+Pre-orders need not worry though, as Samsung offers the upgraded version for the same price as the base model, so you will get 512GB of storage and 12GB of memmory for the £1249 asking price.
 
 ## S23 / S23+
-![A picture of the Samsung Galaxy S23 Series](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Samsung%20Galaxy%20Unpacked%20Early%202023/S23Series.webp)<div class="caption">A picture of the S23 Series<a href="https://www.samsungmobilepress.com/media-assets/galaxy-s23" target="_blank"> from Samsung</a>.</div
+![A picture of the Samsung Galaxy S23 Series](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Samsung%20Galaxy%20Unpacked%20Early%202023/S23Series.webp)<div class="caption">A picture of the S23 Series<a href="https://www.samsungmobilepress.com/media-assets/galaxy-s23" target="_blank"> from Samsung</a>.</div>
 
 These are the phones that I think 99% of people should buy, and the S22+ specifically looks to be a super decent deal. The battery capacity has been upped to 4700mAh, and in combination with the dramatically more efficient SoC, we should see much better battery life. The reason the Snapdragon 8+ Gen 1 was so much more efficient than the Snapdragon 8 Gen 1 was Qualcomm's move away from Samsung's 4nm process to TSMC's. Samsung could never quite match the efficiency of TSMC, and that showed both in the Snapdragon, but also in the Exynos 2200.
 
