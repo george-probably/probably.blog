@@ -62,7 +62,7 @@ This Unpacked happens to come off the back of a very weak quarter from Samsung. 
 
 During 2022, Samsung's operating profit fell by a (relatively) small 16% to $35.2 billion from the previous year, but crucially: the part of the company that sells chips took the hardest hit. Their operating profit sank an unprecedented 96.9%, mostly due to a rapidly shrinking memory market.
 
-I don't think Samsung has don anything particularly groundbreaking with these releases, they're all solid devices that I'm sure will sell reasonably Samsung's real opportunity to push the boat out will come later this year when they release the new Z Fold and Z Flip phones. Those are the ones that have really been long in the tooth, with the Z Flip5 due for a major overhaul. Will it actually get one though? Only one way to find out!
+I don't think Samsung has done anything particularly groundbreaking with these releases, they're all solid devices that I'm sure will sell reasonably Samsung's real opportunity to push the boat out will come later this year when they release the new Z Fold and Z Flip phones. Those are the ones that have really been long in the tooth, with the Z Flip5 due for a major overhaul. Will it actually get one though? Only one way to find out!
 
 ### Links (all go to Samsung UK)
 [Samsung Galaxy S23 Ultra](https://www.samsung.com/uk/smartphones/galaxy-s23-ultra/)
