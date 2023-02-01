@@ -4,6 +4,8 @@ Date: 2023-02-01 20:00
 
 ## Samsung Galaxy Unpacked Impressions
 
+Samsung has announced their challengers for 2023, the S23 Series (oh wait, is that why they're called that?) is here, and the question is: Will Samsung keep the ball rolling on what has been a very popular S22 series? It has been a launch with fairly few changes, but that may be what the public actually prefers. Unless you're in Europe, in which case there is one **MASSIVE** change we need to talk about. Oh, and there are laptops too! I'm sure someone will buy one of those...
+
 ## ~~S22~~ S23 Ultra
 ![A picture of the Samsung Galaxy S23 Ultra](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Samsung%20Galaxy%20Unpacked%20Early%202023/S23Ultra.webp)<div class="caption">A picture of the S23 Ultra <a href="https://www.samsungmobilepress.com/media-assets/galaxy-s23-ultra" target="_blank">from Samsung</a>.</div>
 
@@ -39,7 +41,7 @@ The Gorilla Glass Victus 2 fronted displays are as AMOLED as ever, getting up to
 
 The truth is, we're at a point where it is surprisingly hard to buy an outright _bad_ phone. Any flagship phone, whether it be from Samsung, Google, Xiaomi, Apple, or even OnePlus (more about them on Friday) will be sufficient for a regular user.
 
-Storage all around has been doubled on the low-end, but that's in part to mask the price increase. The base S23 comes in at an eye-watering £849, the same price as my Pixel 7 Pro. The baseline S23+ costs £1049, putting it on par with the iPhone 14 Pro. 
+Storage all around has been doubled on the low-end, but that's in part to mask the price increase. The base S23 comes in at an eye-watering £849, the same price as my Pixel 7 Pro. The baseline S23+ costs £1049, putting it on par with the iPhone 14 Pro. Is it worth that? Probably! If you want to stay outside the Apple ecosystem, and want the most complete package of a device, this is definitely the most easy to recommend device. What it isn't though, is the device I'd recommend to anyone looking for value-for-money. 
 
 ## Galaxy Book3 Series
 ![A picture of the Samsung Galaxy Book3 Series](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Samsung%20Galaxy%20Unpacked%20Early%202023/Book3Series.webp)<div class="caption">A picture of the Book3 Series <a href="https://www.samsungmobilepress.com/media-assets/galaxy-book3-ultra" target="_blank">from Samsung</a>.</div>
