@@ -39,7 +39,7 @@ The Gorilla Glass Victus 2 fronted displays are as AMOLED as ever, getting up to
 
 The truth is, we're at a point where it is surprisingly hard to buy an outright _bad_ phone. Any flagship phone, whether it be from Samsung, Google, Xiaomi, Apple, or even OnePlus (more about them on Friday) will be sufficient for a regular user.
 
-Storage all around has been doubled on the low-end, but that's in part to mask the increase 
+Storage all around has been doubled on the low-end, but that's in part to mask the price increase. The base S23 comes in at an eye-watering £849, the same price as my Pixel 7 Pro. The baseline S23+ costs £1049, putting it on par with the iPhone 14 Pro. 
 
 ## Galaxy Book3 Series
 ![A picture of the Samsung Galaxy Book3 Series](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Samsung%20Galaxy%20Unpacked%20Early%202023/Book3Series.webp)<div class="caption">A picture of the Book3 Series <a href="https://www.samsungmobilepress.com/media-assets/galaxy-book3-ultra" target="_blank">from Samsung</a>.</div>
