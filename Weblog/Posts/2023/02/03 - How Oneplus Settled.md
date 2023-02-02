@@ -33,6 +33,12 @@ It leaves OnePlus in a weird place. Want a truly incredible smartphone with reli
 - [OnePlus asks women to participate in degrading contest to get a smartphone](https://www.theverge.com/2014/8/12/5994877/oneplus-holding-sexist-ladies-first-contest-for-smartphone-invites) - The Verge
 - [OnePlus co-founder Carl Pei confirms he has left the company](https://techcrunch.com/2020/10/16/oneplus-co-founder-carl-pei-confirms-he-has-left-the-company/) - Tech Crunch
 
+- [OnePlus One “Smash the Past” is a Pretty Bad Contest](https://www.droid-life.com/2014/04/25/oneplus-one-smash-the-past-is-a-pretty-bad-contest/) - Droid Life
+  
+- [OnePlus asks women to participate in degrading contest to get a smartphone](https://www.theverge.com/2014/8/12/5994877/oneplus-holding-sexist-ladies-first-contest-for-smartphone-invites) - The Verge
+  
+- [OnePlus co-founder Carl Pei confirms he has left the company](https://techcrunch.com/2020/10/16/oneplus-co-founder-carl-pei-confirms-he-has-left-the-company/) - Tech Crunch
+
 [OnePlus One “Smash the Past” is a Pretty Bad Contest](https://www.droid-life.com/2014/04/25/oneplus-one-smash-the-past-is-a-pretty-bad-contest/) - Droid Life
 
 [OnePlus asks women to participate in degrading contest to get a smartphone](https://www.theverge.com/2014/8/12/5994877/oneplus-holding-sexist-ladies-first-contest-for-smartphone-invites) - The Verge
