@@ -30,7 +30,7 @@ Other than that, the hardware is mostly the same. The same 5000mAh battery, the 
 
 You *do* get double the storage for that extra £100, but it is still weird that the base model has only 8GB of RAM, whereas the rest of the Ultras have 12GB. It's supposed to be an Ultra device, so why are they compromising on memory?
 
-Pre-orders need not worry though, as Samsung offers the upgraded version for the same price as the base model, so you will get 512GB of storage and 12GB of memmory for the £1249 asking price.
+Pre-orders need not worry though, as Samsung offers the upgraded version for the same price as the base model, so you will get 512GB of storage and 12GB of memory for the £1249 asking price.
 
 ## S23 / S23+
 ![A picture of the Samsung Galaxy S23 Series](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/Samsung%20Galaxy%20Unpacked%20Early%202023/S23Series.webp)<div class="caption">A picture of the S23 Series <a href="https://www.samsungmobilepress.com/media-assets/galaxy-s23" target="_blank">from Samsung</a>.</div>
