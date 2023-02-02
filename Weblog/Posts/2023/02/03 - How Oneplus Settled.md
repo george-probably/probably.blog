@@ -10,7 +10,7 @@ I promise my next post will have absolutely nothing to do with smartphones (I ha
 The fall from grace for once cult-icon OnePlus has been both abrupt and unexpected. It’s hard to pinpoint the exact moment the soul of a company that banded around the phrase “Never Settle” truly died, however, it is now undeniable that they not only have settled but also that in doing so they have slowly sunk to the bottom of the pile.
 
 ## The History of OnePlus
-![A picture of the OnePlus One on a wooden table](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/How%20Oneplus%20Settled/OnePlusOne.webp)<div class="caption">A picture of the OnePlus One, taken by me! (back in 2015)</div>
+![A picture of the OnePlus One on a wooden table](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/How%20OnePlus%20Settled/OnePlusOne.webp)<div class="caption">A picture of the OnePlus One, taken by me! (back in 2015)</div>
 
 OnePlus, a Chinese smartphone manufacturer under the umbrella of BBK, rose to fame in the early 2010s with its flagship-level smartphones at affordable prices. Those low prices, along with the tagline "flagship killer" meant that OnePlus quickly gained a cult following among tech enthusiasts, with many praising its high-end specs. The OnePlus One was the first phone I bought with my own money!
 
@@ -19,7 +19,7 @@ Their early success was primarily due to their aggressive marketing strategies. 
 Their "Ladies First" campaign encouraged women the skip the line for the OnePlus One by drawing the OnePlus logo on themselves (or a piece of paper they would hold), and then the forum would vote for the "top 50". Those 50 people would then get the opportunity to buy the OnePlus One. Ignoring the fact that it was a sexist popularity contest... Oh wait, no need, I think that's reason enough to shoot this idea down. Luckily, OnePlus saw the error of their ways (as soon as thousands of people pointed it out to them), and this was all chalked up to a small company trying everything they could to be different. 
 
 ## How did it all go wrong?
-![A picture of the Carl Pei, former CEO of OnePlus](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/How%20Oneplus%20Settled/CarlPei.webp)<div class="caption">Photo of [Carl Pei](https://twitter.com/getpeid) from [Flickr](https://www.flickr.com/photos/techcrunch/48844595727/in/album-72157711192842673/))</div>
+![A picture of the Carl Pei, former CEO of OnePlus](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/How%20OnePlus%20Settled/CarlPei.webp)<div class="caption">Photo of [Carl Pei](https://twitter.com/getpeid) from [Flickr](https://www.flickr.com/photos/techcrunch/48844595727/in/album-72157711192842673/))</div>
 
 At the end of 2020, Carl Pei announced he was leaving OnePlus.
 
@@ -28,7 +28,7 @@ It happened before that though. OnePlus got into a cycle of releasing a flagship
 This vicious cycle meant that consumers always had a phone that immediately felt out of date. Has the OnePlus 7 been out for a couple of months? Just wait a few more for the OnePlus 7T! But if you're waiting a few months anyway, may as well wait a few more and just get the OnePlus 8 instead...
 
 ## Where are we now?
-![A picture of a man holding the OnePlus 11, revealed on December 26th](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/How%20Oneplus%20Settled/OnePlus11.webp)<div class="caption">A picture of the OnePlus 11, released by the company 38 days before the phone is due to be announced on the 7th of February.</div>
+![A picture of a man holding the OnePlus 11, revealed on December 26th](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/How%20OnePlus%20Settled/OnePlus11.webp)<div class="caption">A picture of the OnePlus 11, released by the company 38 days before the phone is due to be announced on the 7th of February.</div>
 
 The OnePlus 11 is now set to launch in a fairly murky landscape. Sure, it has some general appeal, but the brand is now seen as little more than just another Android manufacturer. Nothing may not sell anywhere near as many units as OnePlus, but their desire to make truly exciting devices (from a design standpoint, at least) has also shown that Carl Pei represented the heart and soul of the company. The OnePlus 10T was widely critisized for removing the alert slider; the one thing that made OnePlus unique (at least in the Android space), but the OnePlus 11 is set to bring it back.
 
