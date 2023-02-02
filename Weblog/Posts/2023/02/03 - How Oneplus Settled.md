@@ -19,10 +19,22 @@ Their early success was primarily due to their aggressive marketing strategies. 
 
 Their "Ladies First" campaign encouraged women the skip the line for the Oneplus One by drawing the Oneplus logo on themselves (or a piece of paper they would hold), and then the forum would vote for the "top 50". Those 50 people would then get the opportunity to buy the Oneplus One. Ignoring the fact that it was a sexist popularity contest... Oh wait, no need, I think that's reason enough to shoot this idea down. Luckily, Oneplus saw the error of their ways (as soon as thousands of people pointed it out to them), and this was all chalked up to a small company trying everything they could to be different. 
 
-## Where did it all go wrong?
+## How did it all go wrong?
+At the end of 2020, Carl Pei announced he was leaving Oneplus.
 
 ## Where are we now?
 
 The OnePlus 11 is now set to launch in a fairly murky landscape. Sure, it has some general appeal, but the brand is now seen as little more than just another Android manufacturer. Nothing may not sell anywhere near as many units as OnePlus, but their desire to make truly exciting devices (from a design standpoint, at least) has also shown that Carl Pei represented the heart and soul of the company.
 
 It leaves OnePlus in a weird place. Want a truly incredible smartphone with reliable software support? Look at Samsung, Google, or Apple. Want to be on the quirky side with a bunch of tech geeks and a phone that is actually great value for money? Look at Nothing, Xiaomi, or even Oppo.
+
+### Further Reading
+- [OnePlus One “Smash the Past” is a Pretty Bad Contest](https://www.droid-life.com/2014/04/25/oneplus-one-smash-the-past-is-a-pretty-bad-contest/) - Droid Life
+- [OnePlus asks women to participate in degrading contest to get a smartphone](https://www.theverge.com/2014/8/12/5994877/oneplus-holding-sexist-ladies-first-contest-for-smartphone-invites) - The Verge
+- [OnePlus co-founder Carl Pei confirms he has left the company](https://techcrunch.com/2020/10/16/oneplus-co-founder-carl-pei-confirms-he-has-left-the-company/) - Tech Crunch
+
+[OnePlus One “Smash the Past” is a Pretty Bad Contest](https://www.droid-life.com/2014/04/25/oneplus-one-smash-the-past-is-a-pretty-bad-contest/) - Droid Life
+
+[OnePlus asks women to participate in degrading contest to get a smartphone](https://www.theverge.com/2014/8/12/5994877/oneplus-holding-sexist-ladies-first-contest-for-smartphone-invites) - The Verge
+
+[OnePlus co-founder Carl Pei confirms he has left the company](https://techcrunch.com/2020/10/16/oneplus-co-founder-carl-pei-confirms-he-has-left-the-company/) - Tech Crunch
