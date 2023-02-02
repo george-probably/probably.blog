@@ -10,7 +10,7 @@ I promise my next post will have absolutely nothing to do with smartphones (I ha
 
 The fall from grace for once cult-icon Oneplus has been both abrupt and unexpected. It’s hard to pinpoint the exact moment the soul of a company that banded around the phrase “Never Settle” truly died, however, it is now undeniable that they not only have settled but also that in doing so they have slowly sunk to the bottom of the pile.
 
-![A picture of the Oneplus 11, revealed on December 26th]()<div class="caption">A picture of the Oneplus 11, released by the company 38 days before the phone is due to be announced on the 7th of February.</div>
+![A picture of a man holding the Oneplus 11, revealed on December 26th](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/How%20Oneplus%20Settled/Oneplus11.webp)<div class="caption">A picture of the Oneplus 11, released by the company 38 days before the phone is due to be announced on the 7th of February.</div>
 
 ## The History of Oneplus
 OnePlus, a Chinese smartphone manufacturer under the umbrella of BBK, rose to fame in the early 2010s with its flagship-level smartphones at affordable prices. Low prices, along with the tagline "flagship killer" meant that OnePlus quickly gained a cult following among tech enthusiasts, with many praising its high-end specs. The Oneplus One was the first phone I bought with my own money!
@@ -30,17 +30,7 @@ It leaves OnePlus in a weird place. Want a truly incredible smartphone with reli
 
 ### Further Reading
 - [OnePlus One “Smash the Past” is a Pretty Bad Contest](https://www.droid-life.com/2014/04/25/oneplus-one-smash-the-past-is-a-pretty-bad-contest/) - Droid Life
+
 - [OnePlus asks women to participate in degrading contest to get a smartphone](https://www.theverge.com/2014/8/12/5994877/oneplus-holding-sexist-ladies-first-contest-for-smartphone-invites) - The Verge
+
 - [OnePlus co-founder Carl Pei confirms he has left the company](https://techcrunch.com/2020/10/16/oneplus-co-founder-carl-pei-confirms-he-has-left-the-company/) - Tech Crunch
-
-- [OnePlus One “Smash the Past” is a Pretty Bad Contest](https://www.droid-life.com/2014/04/25/oneplus-one-smash-the-past-is-a-pretty-bad-contest/) - Droid Life
-  
-- [OnePlus asks women to participate in degrading contest to get a smartphone](https://www.theverge.com/2014/8/12/5994877/oneplus-holding-sexist-ladies-first-contest-for-smartphone-invites) - The Verge
-  
-- [OnePlus co-founder Carl Pei confirms he has left the company](https://techcrunch.com/2020/10/16/oneplus-co-founder-carl-pei-confirms-he-has-left-the-company/) - Tech Crunch
-
-[OnePlus One “Smash the Past” is a Pretty Bad Contest](https://www.droid-life.com/2014/04/25/oneplus-one-smash-the-past-is-a-pretty-bad-contest/) - Droid Life
-
-[OnePlus asks women to participate in degrading contest to get a smartphone](https://www.theverge.com/2014/8/12/5994877/oneplus-holding-sexist-ladies-first-contest-for-smartphone-invites) - The Verge
-
-[OnePlus co-founder Carl Pei confirms he has left the company](https://techcrunch.com/2020/10/16/oneplus-co-founder-carl-pei-confirms-he-has-left-the-company/) - Tech Crunch
