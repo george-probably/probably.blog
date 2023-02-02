@@ -1,15 +1,15 @@
 ![George, Probably Blogs](/Images/George%20Probably%20Blogs.png)
 
 # Chachanidze.com
-This is a repo for the [chachanidze.com](https://chachanidze.com) Weblog. Please note that you may see posts in here that aren't quite ready for prime-time! I am trusting you to be considerate of the work-in-progress.
+This is a repo for the [chachanidze.com](https://chachanidze.com) Weblog. Please note that you may see posts here that aren't quite ready for prime time! I am trusting you to be considerate of the work-in-progress.
 
 ## Content Calendar
-|    **Date**    | **Name**                                                     |
-|:--------------:|--------------------------------------------------------------|
-| **27/01/2023** | Showing Setup to Socially Sway Society                       |
-| **03/02/2023** | How Oneplus Settled: The rise and fall of the cult favourite |
-| **10/02/2023** | Twitch is easier for women… until it isn’t.                  |
-| **17/02/2023** | When did social media become such a cesspit?                 |
+|    **Date**    | **Name**                                                           |
+|:--------------:|--------------------------------------------------------------------|
+| **03/02/2023** | How Oneplus Settled: The rise and fall of the cult favourite       |
+| **10/02/2023** | Twitch is easier for women… until it isn’t.                        |
+| **17/02/2023** | When did social media become such a cesspit?                       |
+| **24/02/2023** | Corporate Imagery Has Changed For The Worse - Have You Noticed It? |
 
 Note: This content calendar is subject to change and is not final.
 
