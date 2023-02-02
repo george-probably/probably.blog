@@ -33,6 +33,6 @@ That being said, I'm just *some guy* talking about it, and frankly how I feel ab
 
 To this end, here are some tweets and videos from those affected:
 
-<div class="video-container"><iframe class="video" src="https://player.twitch.tv/?video=1723309941&parent=chachanidze.com" frameborder="0" allowfullscreen="true" scrolling="no" height="100%" width="100%"></iframe></div>
+<p><div class="video-container"><iframe class="video" src="https://player.twitch.tv/?video=1723309941&parent=chachanidze.com" frameborder="0" allowfullscreen="true" scrolling="no" height="100%" width="100%"></iframe></div></p>
 
-<div class="video-container"><iframe class="video" src="https://player.twitch.tv/?video=1723309941&parent=chachanidze.com" frameborder="0" allowfullscreen="true" scrolling="no" height="100%" width="100%"></iframe></div>
+<p><div class="video-container"><iframe class="video" src="https://player.twitch.tv/?video=1723309941&parent=chachanidze.com" frameborder="0" allowfullscreen="true" scrolling="no" height="100%" width="100%"></iframe></div></p>
