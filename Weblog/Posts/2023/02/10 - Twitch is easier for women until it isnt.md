@@ -11,9 +11,11 @@ Three serious posts in, this might be the one that gets me straight-up cancelled
 
 Disclaimer: This is a generalisation and does not represent any individual's experience. I myself have never been a full-time streamer, but am putting these together based on the knowledge that I have on the space.
 
-## The Internet is down bad
+## The Internet is down bad: the female perspective
 
 Women are more likely to get explosive growth as men vie for attention. Donating is a way to get recognition, and they feel it could lead to a relationship.
+
+You can't so much as show your feet on the internet without someone sexualizing them.
 
 ![A tweet from @KEEMSTAR reads: "Clearly husband is abusing. She showed the text. But Amouranth herself has scammed so many guys online claiming she was single for years. These twitch streamers dont care about their viewers. They all just use you & your low IQs to fill their pockets."](https://pbs.twimg.com/media/FfNa8R_UcAAmvPx?format=png)<div class="caption">Tweet image taken from [@JakeSucky](https://twitter.com/JakeSucky/status/1581709055726231555), the original tweet has been deleted.</div>
 
@@ -21,7 +23,7 @@ When Amouranth came out and shared that she had a husband who had been abusive, 
 
 This exponential growth also means that the bell curve is exaggerated
 
-## Bros just hanging out
+## Bros just hanging out: the male perspective
 
 On the other hand, men don't get the same kind of attention. Their growth is a lot slower, but that also means that it's more sustainable. Why? Because their audience tends to be other guys who just want to hang out.
 
