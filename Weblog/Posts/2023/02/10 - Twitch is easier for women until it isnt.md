@@ -11,8 +11,6 @@ Three serious posts in, this might be the one that gets me straight-up cancelled
 
 ## The Internet is down bad
 
-The proliferation of OnlyFans & Fansly... To be clear: I believe that this is work in the same way as any other content creator, and they should be respected as such...
-
 Women are more likely to get explosive growth as men vie for attention. Donating is a way to get recognition, and they feel it could lead to a relationship.
 
 ![A tweet from @KEEMSTAR reads: "Clearly husband is abusing. She showed the text. But Amouranth herself has scammed so many guys online claiming she was single for years. These twitch streamers dont care about their viewers. They all just use you & your low IQs to fill their pockets."](https://pbs.twimg.com/media/FfNa8R_UcAAmvPx?format=png)<div class="caption">Tweet image taken from [@JakeSucky](https://twitter.com/JakeSucky/status/1581709055726231555), the original tweet has been deleted.</div>
@@ -25,11 +23,15 @@ This exponential growth also means that the bell curve is exaggerated
 
 On the other hand, men don't get the same kind of attention. Their growth is a lot slower, but that also means that it's more sustainable. Why? Because their audience tends to be other guys who just want to hang out.
 
+## For women, it's a lose-lose
+
+The proliferation of OnlyFans & Fansly... To be clear: I believe that this is work in the same way as any other content creator, and they should be respected as such...
+
 ## The Atrioc Situation
 
 Anyone who follows the GitHub (or has read some previous posts), will know that this post has been in the works for weeks. That being said, something happened whilst writing this that I can't just ignore. The fact of the situation is: Twitch streamer Atrioc was caught paying for Deepfaked nudes of fellow streamers on the platform. He claims it was a one-off, and that it wasn't anyone he knew personally, but it is still disgusting.
 
-That being said, I'm just *some guy* talking about it, and frankly how I feel about this situation doesn't matter. He has caused genuine pain to people he called his friends, and if you see any way of defending what he has done, I kindly invite you to leave and never come back.
+That being said, I'm just *some guy* talking about it, and frankly how I feel about this situation doesn't matter. He has caused genuine pain to people he called his friends, and if you see any way of defending what he has done, I kindly invite you to leave and never come back. Sure, it "isn't all men", but we *do* need to recognise that when these things happen, it is *always* a man.
 
 To this end, here are some tweets and videos from those affected:
 
@@ -44,6 +46,7 @@ To this end, here are some tweets and videos from those affected:
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">I know the inflicted girls pain here 100%. In 2022 me and another streamer found out about a discord server dedicated to collect photos and screens of us for porn material, for discussing our bodies, sharing fantasies. Pictures of us just doing normal things. Horrible feeling. <a href="https://t.co/qyjBrD6hzV">https://t.co/qyjBrD6hzV</a></p>&mdash; Elina 🐒 (@YaBoiElina) <a href="https://twitter.com/YaBoiElina/status/1620407767973642241?ref_src=twsrc%5Etfw">January 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Further Reading
-[You Are Not a Person by Josie Simora](https://medium.com/@josie.simora/you-are-not-a-person-bc806a26e086)
+[You Are Not a Person by Josie Simora](https://medium.com/@josie.simora/you-are-not-a-person-bc806a26e086) - Medium
 
-Sure, it "isn't all men", but we *do* need to recognise that when these things happen, it is *always* a man.
+['I was catcalled 14 times in one day on London's streets - one man wouldn't leave me alone until I gave him my Instagram'](https://www.mylondon.news/news/east-london-news/i-catcalled-14-times-one-23286827) - MyLondon
+
