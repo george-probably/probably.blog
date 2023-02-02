@@ -35,4 +35,4 @@ To this end, here are some tweets and videos from those affected:
 
 <p><div class="video-container"><iframe class="video" src="https://player.twitch.tv/?video=1723309941&parent=chachanidze.com" frameborder="0" allowfullscreen="true" scrolling="no" height="100%" width="100%"></iframe></div></p>
 
-<p><div class="video-container"><iframe class="video" src="https://player.twitch.tv/?video=1723309941&parent=chachanidze.com" frameborder="0" allowfullscreen="true" scrolling="no" height="100%" width="100%"></iframe></div></p>
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">stop sexualizing people without their consent.<br><br>that’s it, that’s the tweet.</p>&mdash; pokimane (@pokimanelol) <a href="https://twitter.com/pokimanelol/status/1620492032623136768?ref_src=twsrc%5Etfw">January 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><
