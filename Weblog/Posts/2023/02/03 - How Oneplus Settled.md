@@ -1,5 +1,6 @@
 ---
 Date: 2023-02-03 16:00
+Location: /2023/02/how-oneplus-settled
 ---
 
 ## How OnePlus Settled: The rise and fall of the cult favourite
