@@ -44,3 +44,5 @@ It leaves OnePlus in a weird place. Want a truly incredible smartphone with reli
 - [OnePlus Merges With OPPO: Is It the End of OnePlus?](https://www.makeuseof.com/oneplus-oppo-merger-explained/) - Make Use Of
 
 - [OnePlus and Oppo announce partnership, like they weren't the same company already](https://www.androidpolice.com/oneplus-oppo-partnership/) - Android Police
+
+This is a test.
