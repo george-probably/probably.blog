@@ -19,9 +19,9 @@ Their early success was primarily due to their aggressive marketing strategies. 
 Their "Ladies First" campaign encouraged women the skip the line for the OnePlus One by drawing the OnePlus logo on themselves (or a piece of paper they would hold), and then the forum would vote for the "top 50". Those 50 people would then get the opportunity to buy the OnePlus One. Ignoring the fact that it was a sexist popularity contest... Oh wait, no need, I think that's reason enough to shoot this idea down. Luckily, OnePlus saw the error of their ways (as soon as thousands of people pointed it out to them), and this was all chalked up to a small company trying everything they could to be different. 
 
 ## How did it all go wrong?
-![A picture of the Carl Pei, former CEO of OnePlus](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/How%20OnePlus%20Settled/CarlPei.webp)<div class="caption">Photo of [Carl Pei](https://twitter.com/getpeid) from [Flickr](https://www.flickr.com/photos/techcrunch/48844595727/in/album-72157711192842673/))</div>
+![A picture of the Carl Pei, former CEO of OnePlus](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/How%20OnePlus%20Settled/CarlPei.webp)<div class="caption">Photo of [Carl Pei](https://twitter.com/getpeid), former OnePlus CEO, from [Flickr](https://www.flickr.com/photos/techcrunch/48844595727/in/album-72157711192842673/)</div>
 
-At the end of 2020, Carl Pei announced he was leaving OnePlus.
+At the end of 2020, Carl Pei announced he was leaving OnePlus. This wasn't a massive surprise however, 
 
 It happened before that though. OnePlus got into a cycle of releasing a flagship phone every 6-months. June of 2016 saw the release of the OnePlus 3, and November of 2016 saw the release of the OnePlus 3T. Why "T"? Because it's the letter after "S", making it one step better than Apple with their upgrades, obviously. The only meaningful difference between the two phones was that the OP3 featured the Snapdragon 820, and the OP3T had the Snapdragon 821.
 

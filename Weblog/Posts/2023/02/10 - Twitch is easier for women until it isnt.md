@@ -52,9 +52,9 @@ To this end, here are some tweets and videos from those affected:
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">I know the inflicted girls pain here 100%. In 2022 me and another streamer found out about a discord server dedicated to collect photos and screens of us for porn material, for discussing our bodies, sharing fantasies. Pictures of us just doing normal things. Horrible feeling. <a href="https://t.co/qyjBrD6hzV">https://t.co/qyjBrD6hzV</a></p>&mdash; Elina 🐒 (@YaBoiElina) <a href="https://twitter.com/YaBoiElina/status/1620407767973642241?ref_src=twsrc%5Etfw">January 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Further Reading
-[You Are Not a Person](https://medium.com/@josie.simora/you-are-not-a-person-bc806a26e086) - Medium
+- [You Are Not a Person](https://medium.com/@josie.simora/you-are-not-a-person-bc806a26e086) - Medium
 
-['I was catcalled 14 times in one day on London's streets - one man wouldn't leave me alone until I gave him my Instagram'](https://www.mylondon.news/news/east-london-news/i-catcalled-14-times-one-23286827) - MyLondon
+- ['I was catcalled 14 times in one day on London's streets - one man wouldn't leave me alone until I gave him my Instagram'](https://www.mylondon.news/news/east-london-news/i-catcalled-14-times-one-23286827) - MyLondon
 
-[Korean Twitch and YouTube streamer Mhyochi ‘molested’ on livestream](https://nypost.com/2022/12/05/korean-twitch-and-youtuber-mhyochi-molested-on-live-stream/) - New York Post
+- [Korean Twitch and YouTube streamer Mhyochi ‘molested’ on livestream](https://nypost.com/2022/12/05/korean-twitch-and-youtuber-mhyochi-molested-on-live-stream/) - New York Post
 
