@@ -21,7 +21,7 @@ Their "Ladies First" campaign encouraged women the skip the line for the OnePlus
 ## How did it all go wrong?
 ![A picture of the Carl Pei, former CEO of OnePlus](https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/How%20OnePlus%20Settled/CarlPei.webp)<div class="caption">Photo of [Carl Pei](https://twitter.com/getpeid), former OnePlus CEO, from [Flickr](https://www.flickr.com/photos/techcrunch/48844595727/in/album-72157711192842673/)</div>
 
-At the end of 2020, Carl Pei announced he was leaving OnePlus. This wasn't a massive surprise however, 
+At the end of 2020, Carl Pei announced he was leaving OnePlus. This wasn't a massive surprise however, as BBK had clearly been slowly taking control of the brand back. 
 
 It happened before that though. OnePlus got into a cycle of releasing a flagship phone every 6-months. June of 2016 saw the release of the OnePlus 3, and November of 2016 saw the release of the OnePlus 3T. Why "T"? Because it's the letter after "S", making it one step better than Apple with their upgrades, obviously. The only meaningful difference between the two phones was that the OP3 featured the Snapdragon 820, and the OP3T had the Snapdragon 821.
 
