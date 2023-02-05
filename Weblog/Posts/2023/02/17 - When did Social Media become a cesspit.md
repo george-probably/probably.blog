@@ -1,7 +1,6 @@
 ---
 Date: 2023-02-17 16:00
 Status: Draft
-Author: George, Truly
 ---
 
 ## When did social media become such a cesspit?
