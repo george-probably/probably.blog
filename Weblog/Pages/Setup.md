@@ -9,7 +9,7 @@ Below is a list of the tech I use regularly. Everything from my phone and comput
 
 The list isn't in any particular order aside from how I thought it looked nicest. What to know what I'm up to currently? [Check out my /now page](https://snpy.tech/now)!
 
-Click a device name to find out my thoughts on it!
+Click a device name (or image) to find out my thoughts on it!
 
 ### Daily Carry
 |                                                                                                                                  Image                                                                                                                                  |                             Device                             |  Bought  | Rating |
