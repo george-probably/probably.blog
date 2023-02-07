@@ -6,7 +6,7 @@ Weblog Title: George, Probably Blogs
 Weblog Description: Sometimes I think things.
 Author: George, Probably
 Canonical domain: chachanidze.com
-Landing Page: home
+// Landing Page: home
 
 # General config stuff
 
