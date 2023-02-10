@@ -7,6 +7,8 @@ Status: Draft
 
 ![A picture of a desk with a lit-up gaming PC, with a microphone and headset.](https://images.unsplash.com/photo-1598550480917-1c485268676e?w=1000)<div class="caption">Photo by [Ella Don](https://unsplash.com/@elladon) on [Unsplash](https://unsplash.com/)</div>
 
+> Note: There is a Twitch embed further down the page. Unfortunately, the property to disable autoplay seems to be broken. It is still attached incase the issue gets resolved, but for the time being it will play muted.
+
 Three serious posts in, this might be the one that gets me straight-up cancelled right here. That said, this post is just a culmination of conversations I've had with many big and small streamers over the last few years. It's a sobering look at some trends that show the psyche of the average Twitch viewer. To that end, here are two sides to the story. One is the lifecycle of a female streamer, and the other is the lifecycle of a male streamer.
 
 Disclaimer: This is a generalisation and does not represent any individual's experience. I myself have never been a full-time streamer, but am putting these together based on the knowledge that I have on the space.
@@ -39,7 +41,7 @@ That being said, I'm just *some guy* talking about it, and frankly how I feel ab
 
 To this end, here are some tweets and videos from those affected:
 
-<p><div class="video-container"><iframe class="video" src="https://player.twitch.tv/?video=1723309941&parent=chachanidze.com" muted="true" autoplay=false frameborder="0" allowfullscreen="true" scrolling="no" height="100%" width="100%"></iframe></div></p>
+<p><div class="video-container"><iframe class="video" src="https://player.twitch.tv/?video=1723309941&parent=chachanidze.com" muted="true" autoplay="false" frameborder="0" allowfullscreen="true" scrolling="no" height="100%" width="100%"></iframe></div></p>
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">The amount of body dysmorphia I’ve experienced since seeing those photos has ruined me. <br><br>It’s not as simple as “just” being violated. It’s so much more than that.</p>&mdash; QTCinderella (@qtcinderella) <a href="https://twitter.com/qtcinderella/status/1620264657926885380?ref_src=twsrc%5Etfw">January 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
