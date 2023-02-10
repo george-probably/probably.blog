@@ -18,6 +18,8 @@ I bought the domain at 1 am and threw the site together in a couple of hours. I 
 ## Why?
 As someone who often struggles with my own mental health, highlighting charities that do such critical work is super important to me.
 
-The general reaction I've gotten from friends is to the effect of "That's a very you thing".
+There's a reason the footer of this blog (and [**Being Charity**](https://being.charity)) is "kindness binds us".
+
+The general reaction I've gotten from friends is to the effect of "that's a very you thing".
 
 > [**Being Charity**](https://being.charity) is NOT a charity in-and-of itself. I do not accept any money for it, it is just a list of charities that I believe are doing good work.
