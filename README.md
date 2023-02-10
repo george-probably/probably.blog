@@ -3,13 +3,14 @@
 # Chachanidze.com
 This is a repo for the [chachanidze.com](https://chachanidze.com) Weblog. Please note that you may see posts here that aren't quite ready for prime time! I am trusting you to be considerate of the work-in-progress.
 
-## Content Calendar
+## Content Calendar - February
 |    **Date**    | **Name**                                                           |
 |:--------------:|--------------------------------------------------------------------|
+| **01/02/2023** | Samsung Galaxy Unpacked Impressions                                |
 | **03/02/2023** | How Oneplus Settled: The rise and fall of the cult favourite       |
-| **10/02/2023** | Twitch is easier for women… until it isn’t.                        |
-| **17/02/2023** | When did social media become such a cesspit?                       |
-| **24/02/2023** | Corporate Imagery Has Changed For The Worse - Have You Noticed It? |
+| **10/02/2023** | Being.Charity - a list of charities to help you be better at being |
+| **17/02/2023** | Twitch is easier for women… until it isn’t.                        |
+| **24/02/2023** | No one *wants* to be on Twitter                                    |
 
 Note: This content calendar is subject to change and is not final.
 
