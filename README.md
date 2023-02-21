@@ -4,13 +4,13 @@
 This is a repo for the [chachanidze.com](https://chachanidze.com) Weblog. Please note that you may see posts here that aren't quite ready for prime time! I am trusting you to be considerate of the work-in-progress.
 
 ## Content Calendar - February
-|     **Date**    | **Name**                                                                                                                                                               |
-|:---------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  **01/02/2023** | [Samsung Galaxy Unpacked Impressions](https://chachanidze.com/2023/02/samsung-galaxy-unpacked-impressions)                                                             |
-|  **03/02/2023** | [How Oneplus Settled: The rise and fall of the cult favourite](https://chachanidze.com/2023/02/how-oneplus-settled)                                                    |
-|  **10/02/2023** | [Being.Charity - a list of charities to help you be better at being](https://chachanidze.com/2023/02/being-charity-a-list-of-charities-to-help-you-be-better-at-being) |
-| **17/02/2023\***| [Twitch is easier for women… until it isn’t.](https://chachanidze.com/2023/02/twitch-is-easier-for-women-until-it-isnt)                                                |
-| **24/02/2023\***| [No one *wants* to be on Twitter](https://chachanidze.com/2023/02/no-one-wants-to-be-on-twitter)                                                                       |
+|     **Date**     | **Name**                                                                                                                                                             |
+|:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  **01/02/2023**  | [Samsung Galaxy Unpacked Impressions](https://probably.blog/2023/02/samsung-galaxy-unpacked-impressions)                                                             |
+|  **03/02/2023**  | [How Oneplus Settled: The rise and fall of the cult favourite](https://probably.blog/2023/02/how-oneplus-settled)                                                    |
+|  **10/02/2023**  | [Being.Charity - a list of charities to help you be better at being](https://probably.blog/2023/02/being-charity-a-list-of-charities-to-help-you-be-better-at-being) |
+|  **21/02/2023**  | [New domain, who dis?](https://probably.blog/2023/02/new-domain-who-dis)                                                                                             |
+| **24/02/2023\*** | [Twitch is easier for women… until it isn’t.](https://probably.blog/2023/02/twitch-is-easier-for-women-until-it-isnt)                                                |
 
 \* This post hasn't been published yet. (link will 404)
 
