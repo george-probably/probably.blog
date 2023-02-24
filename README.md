@@ -10,7 +10,7 @@ This is a repo for the [chachanidze.com](https://chachanidze.com) Weblog. Please
 |  **03/02/2023**  | [How Oneplus Settled: The rise and fall of the cult favourite](https://probably.blog/2023/02/how-oneplus-settled)                                                    |
 |  **10/02/2023**  | [Being.Charity - a list of charities to help you be better at being](https://probably.blog/2023/02/being-charity-a-list-of-charities-to-help-you-be-better-at-being) |
 |  **21/02/2023**  | [New domain, who dis?](https://probably.blog/2023/02/new-domain-who-dis)                                                                                             |
-| **24/02/2023\*** | [Twitch is easier for women… until it isn’t.](https://probably.blog/2023/02/twitch-is-easier-for-women-until-it-isnt)                                                |
+| **24/02/2023\*** | [Keeping myself accountable - the forced timetable](https://probably.blog/2023/02/keeping-myself-accountable-the-forced-timetable)                                                |
 
 \* This post hasn't been published yet. (link will 404)
 
