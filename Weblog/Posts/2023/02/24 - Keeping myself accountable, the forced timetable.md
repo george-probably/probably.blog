@@ -1,6 +1,5 @@
 ---
 Date: 2023-02-24 16:00
-Status: Draft
 ---
 
 # Keeping myself accountable - the forced timetable.
@@ -11,4 +10,6 @@ Secondly: How am I doing this? I have never been known to be particularly consis
 
 This stead-fastness ensures that I have to write something, not because I've got something grand to say (That being said: ideation and titling for posts happen weeks in advance. If you want to see stuff in the pipeline, you can take a sneak peek [in the Github repo](https://snpy.tech/github)), but because this is as much a writing exercise as it is a cathartic rant space.
 
-Because of that, this space will always be a little bit chaotic, even as I try to find order, and that's fine. The reality of life is that everything doesn't fit into a perfect little box, and trying to enforce that by order vigidly is a recipe for disaster in the long-term. There have been [unexpected bonus posts](/2023/02/samsung-galaxy-unpacked-impressions)
+Because of that, this space will always be a little bit chaotic, even as I try to find order, and that's fine. The reality of life is that everything doesn't fit into a perfect little box, and trying to enforce that by order vigidly is a recipe for disaster in the long-term. There have been [unexpected bonus posts](/2023/02/samsung-galaxy-unpacked-impressions), and weeks where I've spent more time writing CSS than an actual article, but it has all been an incredible exercise.
+
+Happy 10th post, hopefully the next 10 are just as interesting!
