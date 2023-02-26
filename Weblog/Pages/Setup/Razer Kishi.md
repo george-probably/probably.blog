@@ -16,6 +16,6 @@ My Pixel 7 Pro had a slightly different issue: The camera ledge would catch on t
 
 Razer has since announced a Kishi v2, and honestly, the only reason I won't pick one up is that I use my current one way less than I thought I would when I first bought it. It's a super solid piece of kit that I just don't use that much.
 
-### Verdict: 8/10
+### Verdict: 7.5/10
 
 [Back to setup page](/setup)

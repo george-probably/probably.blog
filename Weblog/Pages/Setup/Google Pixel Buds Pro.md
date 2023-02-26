@@ -33,6 +33,9 @@ Google Assistant at a shout is super nice, but why aren't there any strength set
 
 Overall, I like the Google Pixel Buds Pro, but it's just a bit weird that Google has so far to go with all of the software, as they're the company that has been pushing hardest with talk that the software is the most important part of a smartphone.
 
-### Verdict: 7.5/10
+### Update: 26/02/2023
+I'm bumping up the score by half a point because it has been a whilse since I got the weird bug where noise cancelling got enabled even with only one bud in. Spatial audio is officially here and it... exists. I will probably talk about it more in an actual post, but I *generally* don't see the appeal.
+
+### Verdict: 8/10
 
 [Back to setup page](/setup)
