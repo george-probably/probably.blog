@@ -49,7 +49,7 @@ Type: Template
     }
 }
 
-.table_wrapper{
+.table-wrapper{
     display: block;
     overflow-x: auto;
 }
