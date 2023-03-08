@@ -29,7 +29,7 @@ The truth is, I know that I’m in a fortunate situation. Sure I personally have
 
 A few months ago, I started hitting the gym and eating better. I’ve dropped a shirt size and a jean size. I’m the best I have been physically in years, and keep improving. But I also know that whilst having the outward appearance of making progress, mentally, I’m worse than I have been in years.
 
-I often say that loving someone isn't about wanting them to be with you because that's selfish. It's accepting that they'll be happier with someone else or doing something else. But I still want to be selfish sometimes. I want to be able to say “fuck it” and have a tantrum, doing whatever is the right thing for me.
+I often say that loving someone isn't about wanting them to be with you because that's selfish. It's wanting them to be as happy as possibl, and accepting that there's always a chance they'll be happier with someone else or doing something else. But I still want to be selfish sometimes. I want to be able to say “fuck it” and have a tantrum, doing whatever is the right thing for me.
 
 I know I should be happy with the friends I have around me, and I truly am grateful that they’re in my life. I do my best to be a good person because of them, but that doesn’t stop me from feeling entirely unworthy of them. Feeling like one day, they’ll all turn around and realise I don’t belong.
 
