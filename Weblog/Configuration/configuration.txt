@@ -12,7 +12,7 @@ Canonical domain: probably.blog
 ;; General config stuff
 ;; --------------------
 Separator:  - 
-Navigation: home, about, setup, archive, <a href="https://youtube.com/@Snappy-Tech" target="_blank">YouTube</a>
+Navigation: about, setup, archive, <a href="https://youtube.com/@Snappy-Tech" target="_blank">YouTube</a>
 
 
 ;; Time stuff
