@@ -3,7 +3,7 @@ Type: Page
 Title: Setup
 ---
 
-# My Setup
+## My Setup
 
 ## Hardware
 
