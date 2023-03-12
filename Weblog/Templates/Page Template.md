@@ -137,7 +137,7 @@ nav ul {
     align-content: center;
 }
 
-.box ul {
+.box ul,ol {
     padding-inline-start: 20px;
 }
 
