@@ -60,6 +60,7 @@ Search results format: <<[
 <p>$snippet</p>[post:end]
 ]>>
 
+
 ;; Tags {tags}
 ;; -----------
 Tag path: /tag/

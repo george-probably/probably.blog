@@ -2,7 +2,7 @@
 Date: 2023-02-21 22:00
 ---
 
-# New domain, who dis?
+## New domain, who dis?
 Howdy, all! Consider this more of a little announcement post than anything else, but: I decided that [chachanidze.com](https://chachanidze.com) was a domain only a mother could love, or in this case, spell. I've wanted a use for my surname as a domain for ages and loved the idea of having my weblog on it, but I think it's not practical.
 
 That's why if you are looking in the address bar right now you'll see that it is [probably.blog](https://probably.blog) instead! I had considered buying `probably.is` instead, but Namecheap seemingly pulled some weird shenanigans so I decided against it, plus I feel like [probably.blog](https://probably.blog) fits the site better!
