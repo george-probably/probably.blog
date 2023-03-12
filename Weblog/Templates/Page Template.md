@@ -14,11 +14,8 @@ Type: Template
 <meta name="apple-mobile-web-app-status-bar-style" content="#288cf0">
 <style>
 @import url('https://static.omg.lol/type/font-honey.css');
-@import url('https://static.omg.lol/type/font-lato-regular.css');
-@import url('https://static.omg.lol/type/font-lato-bold.css');
-@import url('https://static.omg.lol/type/font-lato-italic.css');
 @import url('https://static.omg.lol/type/fontawesome-free/css/all.css');
-@import url('https://fonts.bunny.net/css?family=open-sans:500,800');
+@import url('https://fonts.bunny.net/css?family=open-sans:500,800&display=swap');
 
 :root {
     --foreground: #eee;
