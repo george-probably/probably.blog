@@ -1,28 +1,28 @@
 // Weblog Configuration
 
-# About your weblog
-
+;; About your weblog
+;; -----------------
 Weblog Title: George, Probably Blogs
 Weblog Description: Sometimes I think things.
 Author: George, Probably
 Canonical domain: probably.blog
 // Landing Page: home
 
-# General config stuff
 
+;; General config stuff
+;; --------------------
 Separator:  - 
 Navigation: home, about, setup, archive, <a href="https://youtube.com/@Snappy-Tech" target="_blank">YouTube</a>
 
-# Time stuff
 
-; You can use a timezone value from the "TZ database name" column on this 
-; web page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+;; Time stuff
+;; ----------
 Timezone: GB
 Date format: F j, Y H:i
 
-# Recent posts {recent-posts}
 
+;; Recent posts {recent-posts}
+;; ---------------------------
 Recent posts count: 5
 Recent posts format: <<[
 <ul>
@@ -30,17 +30,26 @@ Recent posts format: <<[
 </ul>]>>
 
 
-# Post list {post-list}
-
+;; Post list {post-list}
+;; ---------------------
 Post list format: <<[
-<ol reversed>
+<ul>
 [post:begin]<li><a href="$location">$title</a></li>[post:end]
-</ol>]>>
+</ul>]>>
 
 
-# Search
+;; Page list {page-list}
+;; ---------------------
+Page list format: <<[
+<ul>
+[page:begin]<li><a href="$location">$title</a></li>[page:end]
+</ul>]>>
 
+
+;; Search
+;; ------
 Search status: enabled
+Search template: Page Template
 Search results success message: There [is|are] $count [result|results] for your search:
 Search results failure message: There were no results found for your search.
 Search results format: <<[
@@ -51,14 +60,8 @@ Search results format: <<[
 <p>$snippet</p>[post:end]
 ]>>
 
-
-# Posts
-
-// Post path format: /Y/m/
-
 ;; Tags {tags}
 ;; -----------
-
 Tag path: /tag/
 Tag page template: Tag Template
 Tags format: <<[
@@ -71,6 +74,10 @@ Tag page format: <<[
 </ul>
 ]>>
 
+
+;; Posts
+;; -----
+Post path format: /Y/m/
 Default post: <<[---
 Date: $date
 Status: Draft
