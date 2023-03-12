@@ -12,7 +12,6 @@ Canonical domain: probably.blog
 
 Separator:  - 
 Navigation: home, about, setup, archive, <a href="https://youtube.com/@Snappy-Tech" target="_blank">YouTube</a>
-Tag path: /tag/
 
 # Time stuff
 
@@ -56,6 +55,21 @@ Search results format: <<[
 # Posts
 
 // Post path format: /Y/m/
+
+;; Tags {tags}
+;; -----------
+
+Tag path: /tag/
+Tag page template: Tag Template
+Tags format: <<[
+[tag:begin]<a class="tag" href="$tag_location">$tag</a>[tag:end]
+]>>
+Tag page format: <<[
+<h2>Posts tagged with “$tag”</h2>
+<ul reversed>
+[tag:begin]<li><a href="$location">$title</a></li>[tag:end]
+</ul>
+]>>
 
 Default post: <<[---
 Date: $date
