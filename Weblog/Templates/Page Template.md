@@ -349,7 +349,7 @@ svg {
 <h2> <i class="fa-solid fa-search"></i> Looking for something?</h2>
 <form id="form"> 
 <input type="search" id="query" name="search" placeholder="Search...">
-<button><i class="fa-solid fa-search"></i></button>
+<button aria-label="Search site"><i class="fa-solid fa-search"></i></button>
 </form>
 </div>
 
