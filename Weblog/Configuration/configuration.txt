@@ -33,9 +33,9 @@ Recent posts format: <<[
 ;; Post list {post-list}
 ;; ---------------------
 Post list format: <<[
-<ul>
+<ol reversed>
 [post:begin]<li><a href="$location">$title</a></li>[post:end]
-</ul>]>>
+</ol>]>>
 
 
 ;; Page list {page-list}
