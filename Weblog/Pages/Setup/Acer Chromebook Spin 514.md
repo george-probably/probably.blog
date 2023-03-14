@@ -1,14 +1,14 @@
 ---
 Type: Page
-Title: Acer Chromebook Spin 514 - Setup
-Location: /setup/acer-chromebook-spin-514
+Title: Acer Chromebook Spin 513 - Setup
+Location: /setup/acer-chromebook-spin-513
 ---
 
-## Acer Chromebook Spin 514
+## Acer Chromebook Spin 513
 
-<div class="img-container-wide"> <img alt="A picture of the Acer Chromebook Spin 514" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/acer-chromebook-spin-514.webp"> </div> 
+<div class="img-container-wide"> <img alt="A picture of the Acer Chromebook Spin 513" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/acer-chromebook-spin-514.webp"> </div> 
 
-I've been rocking some Chromebook or another for around seven years, and honestly, it's a game-changer. I do *have* a Windows laptop (the HP Envy 15) that I take with me if I KNOW I'll need the horsepower on the go, but 99% of the time, ChromeOS handles everything I need. I bought the 514 specifically because I felt my old PixelBook getting sluggish with age. The 3:2 display was an absolute must for me, along with a fanless design.
+I've been rocking some Chromebook or another for around seven years, and honestly, it's a game-changer. I do *have* a Windows laptop (the HP Envy 15) that I take with me if I KNOW I'll need the horsepower on the go, but 99% of the time, ChromeOS handles everything I need. I bought the 513 specifically because I felt my old PixelBook getting sluggish with age. The 3:2 display was an absolute must for me, along with a fanless design.
 
 I'd been hearing that the new Mediatek laptop chips were a massive improvement, and boy were they right. This Chromebook lasts forever, consistently over 10 hours of battery life, and is entirely silent whilst doing so!
 
