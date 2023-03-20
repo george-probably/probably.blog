@@ -82,7 +82,12 @@ body {
 }
 
 img {
-    max-width: 100%;
+    width: 100%;
+    border-radius: 30px;
+}
+
+img.setup-image {
+max-width: 100%;
     height: 100%;
     object-fit: contain;
     position: absolute;
@@ -273,6 +278,7 @@ aside {
     border-radius: 100px;
     background: var(--articleBorder);
     padding: 10px;
+    margin-bottom: 10px;
 }
 
 blockquote {
@@ -328,6 +334,12 @@ svg {
   padding: 10px;
 }
 
+del {
+    text-decoration-line: line-through;
+    opacity: 50%;
+    /* text-decoration-style: wavy;
+    text-decoration-color: #ff0000CC; */
+}
 </style>
 </head>
 

@@ -32,38 +32,24 @@
     }
 }
 
-img.setup-image {
-max-width: 100%;
-    height: 100%;
-    object-fit: contain;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.img-container-wide {
-    background: var(--background);
-    background-image: url(https://www.transparenttextures.com/patterns/inspiration-geometry.png);
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding-bottom: 50%;
-    border-radius: 30px;
+.table-wrapper{
+    display: block;
+    overflow-x: auto;
 }
 
 table {
     border-collapse: collapse;
     border-spacing: 0;
+    width: 100%;
+}
+
+table td:first-child {
+    background: var(--background);
+    background-image: url(https://www.transparenttextures.com/patterns/diagmonds.png);
 }
 
 table td, table th {
-    border: 5px solid #288cf0;
-    padding: 5px;
-}
-
-table td:first-child{
-    background: white;
+    border: 5px solid var(--articleBorder);
 }
 
 table th:first-of-type {
@@ -93,6 +79,23 @@ body {
 img {
     width: 100%;
     border-radius: 30px;
+}
+
+.img-container-wide {
+    background: var(--background);
+    background-image: url(https://www.transparenttextures.com/patterns/inspiration-geometry.png);
+    position: relative;
+    width: 100%;
+    height:0;
+    padding-bottom: 50%;
+    border-radius: 30px;
+}
+
+.img-container-square {
+    position: relative;
+    width: 100%;
+    height:0;
+    padding-bottom: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -322,15 +325,15 @@ del {
     /* text-decoration-style: wavy;
     text-decoration-color: #ff0000CC; */
 }
-
 </style>
 </head>
 
 <body>
 
 <header>
-<h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1></header>
+    <h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1></header>
 <main>
+
 <div class="flex-column">
 <div class="nav-box"> {navigation} </div>
 </div>
