@@ -22,8 +22,8 @@ Type: Template
 
 <body>
 
-<header>
-	<h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1></header>
+<header><h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1></header>
+
 <main>
 
 <div class="flex-column">
@@ -31,7 +31,10 @@ Type: Template
 </div>
 
 <div class="flex-column">
-<div class="box">{body}</div>
+
+<div class="box">
+{body}
+</div>
 </div>
 
 <div class="flex-column">

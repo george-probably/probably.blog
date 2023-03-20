@@ -22,9 +22,8 @@ Type: Template
 
 <body>
 
-<header>
-	<h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1>
-</header>
+<header><h1 class="weblog-title"><a style="text-decoration:none; border-bottom:0px" href="{base-path}">{weblog-title}</a></h1></header>
+
 <main>
 
 <div class="flex-column">
@@ -32,7 +31,10 @@ Type: Template
 </div>
 
 <div class="flex-column">
-<div class="box">{body}</div>
+
+<div class="box">
+{body}
+</div>
 </div>
 
 <div class="flex-column">
@@ -40,9 +42,10 @@ Type: Template
 <h2> <i class="fa-solid fa-search"></i> Looking for something?</h2>
 <form id="form"> 
 <input type="search" id="query" name="search" placeholder="Search...">
-<button><i class="fa-solid fa-search"></i></button>
+<button aria-label="Search site"><i class="fa-solid fa-search"></i></button>
 </form>
 </div>
+
 <div class="box">
 <h2> "Where'd these boxes go?" </h2>
 <p>You don't need them, silly! You're already on the archive page; the latest posts are just the top 5!</p>
