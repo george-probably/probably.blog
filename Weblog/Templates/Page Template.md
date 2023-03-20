@@ -17,6 +17,25 @@ Type: Template
 @import url('https://static.omg.lol/type/font-honey.css');
 @import url('https://static.omg.lol/type/fontawesome-free/css/all.css');
 @import url('https://fonts.bunny.net/css?family=open-sans:500,800&display=swap');
+:root {
+    --foreground: #eee;
+    --background: #288cf0;
+    --link: #eee;
+    --unimportant: #ebebeb;
+    --articleBG: #1c62a8;
+    --articleBorder: #083e73;
+}
+
+@media (prefers-color-scheme: dark){
+    :root {
+    --foreground: #eee;
+    --background: #083e73;
+    --link: #eee;
+    --unimportant: #ebebeb;
+    --articleBG: #1c62a8;
+    --articleBorder: #288cf0;
+    }
+}
 </style>
 </head>
 
