@@ -6,7 +6,7 @@ Location: /setup/microsoft-xbox-series-s
 
 ## Microsoft Xbox Series S
 
-<div class="img-container-wide"> <img alt="A picture of the Microsoft Xbox Series S" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/microsoft-xbox-series-s.webp"> </div> 
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Microsoft Xbox Series S" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/microsoft-xbox-series-s.webp"> </div> 
 
 Bought for use alongside the Mac Studio, there is no denying that the Xbox Series S is the single easiest console to recommend right now. Words can't describe just how exceptionally tiny it is, especially considering the graphics horsepower it has. Much like my [Sony ZV-1](/setup/sony-zv-1), I seem to have bought this off of someone on eBay who didn't quite know what they had, as I got it for nearly half of the standard retail price! (the listing even called it an "Xbox **One** S")
 

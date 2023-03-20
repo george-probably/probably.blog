@@ -6,7 +6,7 @@ Location: /setup/sony-zv-1
 
 ## Sony ZV-1
 
-<div class="img-container-wide"> <img src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/sony-zv-1.webp" alt="A picture of the Sony ZV-1"> </div>
+<div class="img-container-wide"> <img class="setup-image" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/sony-zv-1.webp" alt="A picture of the Sony ZV-1"> </div>
 
 Since selling my Panasonic Lumix G7 (for reasons not related to the camera itself), I expected to avoid jumping into the dedicated camera space for a while. To be fair, I haven't. This is the camera I use as my webcam.
 

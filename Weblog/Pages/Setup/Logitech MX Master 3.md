@@ -4,7 +4,7 @@ Title: Logitech MX Master 3 - Setup
 Location: /setup/logitech-mx-master-3
 ---
 
-<div class="img-container-wide"> <img alt="A picture of the Logitech MX Master 3" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/logitech-mx-master-3.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Logitech MX Master 3" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/logitech-mx-master-3.webp"> </div>
 
 ## Logitech MX Master 3
 

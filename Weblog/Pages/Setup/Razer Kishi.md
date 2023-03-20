@@ -6,7 +6,7 @@ Location: /setup/razer-kishi
 
 ## Razer Kishi
 
-<div class="img-container-wide"> <img alt="A picture of the Razer Kishi" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/razer-kishi.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Razer Kishi" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/razer-kishi.webp"> </div>
 
 Sometimes even the Switch is too big to take with you, or the Switch just feels like overkill for your plans, so what do you do? The Razer Kishi!
 

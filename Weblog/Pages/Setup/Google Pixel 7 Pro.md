@@ -6,7 +6,7 @@ Location: /setup/google-pixel-7-pro
 
 ## Google Pixel 7 Pro
 
-<div class="img-container-wide"> <img classs="setup-image" alt="A picture of the Google Pixel 7 Pro" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-pixel-7-pro.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Google Pixel 7 Pro" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-pixel-7-pro.webp"> </div>
 
 ### How we got here
 
@@ -22,7 +22,7 @@ There are a couple of factors that contribute to just how great this phone is to
 
 The surprise to me (considering both devices theoretically use a similar SoC) was the battery life. I'm not actually *that* heavy a phone user. If I have a bigger screen in front of my (and I normally do), I tend to use that instead. I'll get 2-3 hours of Screen on Time is a regular day. The S22 Ultra didn't seem to care how much I used it, I would get to the end of a day and it would **ALWAYS, WITHOUT FAIL** be nearly dead. Weirdly it was comforting, knowing that I would get to the end of a day no matter what I did, but it also meant that the idle battery consumption was insanely high. 
 
-The Pixel 7 Pro on the other hand barely sips power when idle.  Looking at my usage as I write this, I have had it unplugged for 14 hours, with 3 hours of SoT (and 90 minutes of Audible playing over Bluetooth), and the phone is at 54%. If this was the S22 Ultra I'd be at 15%. This has changed the way I charge my phone, not having to worry too much about plugging it in overnight because I know it won't die while I'm sleeping.
+The Pixel 7 Pro on the other hand barely sips power when idle. Looking at my usage as I write this, I have had it unplugged for 14 hours, with 3 hours of SoT (and 90 minutes of Audible playing over Bluetooth), and the phone is at 54%. If this was the S22 Ultra I'd be at 15%. This has changed the way I charge my phone, not having to worry too much about plugging it in overnight because I know it won't die while I'm sleeping.
 
 The rear-facing camera system is also just incredible. Many have gone on for years about the reliability of the Google Pixel camera systems, and finally using one myself I fully get it. Sure, I can start pixel peeping and see that the 12.5MP pictures just aren't as sharp as those coming from the S22 Ultra, but in 99% of scenarios, where you're just taking the picture for it to be ruined by compression down the line anyway, the Pixel captures an incredible rendition of any scene.
 

@@ -6,7 +6,7 @@ Location: /setup/anker-usb-c-hub
 
 ## Anker USB-C Hub
 
-<div class="img-container-wide"> <img alt="A picture of the Anker USB-C Hub" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/anker-usb-c-hub.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Anker USB-C Hub" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/anker-usb-c-hub.webp"> </div>
 
 Oops, someone's eager! Thoughts are coming soon.
 

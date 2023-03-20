@@ -6,7 +6,7 @@ Location: /setup/sony-dualsense
 
 ## Sony Dualsense
 
-<div class="img-container-wide"> <img alt="A picture of the Sony Dualsense" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/sony-dualsense.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Sony Dualsense" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/sony-dualsense.webp"> </div>
 
 Right about now you're probably thinking "George, your setup page clearly shows that you use an Xbox and don't own a Playstation... so why the Dualsense?" and that's a GREAT question! The truth this, this is currently my absolute favourite controller.
 

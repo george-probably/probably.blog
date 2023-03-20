@@ -6,7 +6,7 @@ Location: /setup/mobvoi-ticwatch-pro-3-gps
 
 ## Mobvoi Ticwatch Pro 3 GPS
 
-<div class="img-container-wide"> <img alt="A picture of the Mobvoi Ticwatch Pro 3 GPS" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/mobvoi-ticwatch-pro-3-gps.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Mobvoi Ticwatch Pro 3 GPS" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/mobvoi-ticwatch-pro-3-gps.webp"> </div>
 
 You may have noticed: this is the lowest-rated product on my entire list of gear. The first thing that multiple people have asked me was, "George, why are you using a watch that you hate?" and honestly, that's a fair question.
 

@@ -6,7 +6,7 @@ Date: 2022-12-31 23:59
 
 ![A Photograph showing the year "2023" as light art.](https://images.unsplash.com/photo-1668586556253-24f561a92712?w=1000)<div class="caption"><p>Photo by [Moritz Knöringer](https://unsplash.com/@mokngr) on [Unsplash](https://unsplash.com/)</p></div>
 
-Every year I make a small video that I send to those who impacted my life over the last 12 months. It’s a way for me to look back at the highlights of the year and always remind myself to be thankful.  I have some truly amazing friends who are all super talented, kind, and inspirational. They are all so wonderful, and I spend a lot of effort trying to be as incredible as they are. I like to think that sometimes when I try my hardest on a good day, I am worthy of them. 
+Every year I make a small video that I send to those who impacted my life over the last 12 months. It’s a way for me to look back at the highlights of the year and always remind myself to be thankful. I have some truly amazing friends who are all super talented, kind, and inspirational. They are all so wonderful, and I spend a lot of effort trying to be as incredible as they are. I like to think that sometimes when I try my hardest on a good day, I am worthy of them. 
 
 I want to do the same thing this year; I really do. However, the reality is I don’t have the energy. I try so hard to be a good person, but I don’t know if I can keep going. Maybe I’m just jaded; maybe I’m not good enough to be the great person I strive to be.
 
