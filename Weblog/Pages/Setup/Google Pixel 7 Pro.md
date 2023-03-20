@@ -6,7 +6,7 @@ Location: /setup/google-pixel-7-pro
 
 ## Google Pixel 7 Pro
 
-<div class="img-container-wide"> <img alt="A picture of the Google Pixel 7 Pro" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-pixel-7-pro.webp"> </div>
+<div class="img-container-wide"> <img classs="setup-image" alt="A picture of the Google Pixel 7 Pro" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-pixel-7-pro.webp"> </div>
 
 ### How we got here
 
