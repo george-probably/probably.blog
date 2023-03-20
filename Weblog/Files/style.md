@@ -6,10 +6,6 @@ Location: /style.css
 ---
 
 <style>
-@import url('https://static.omg.lol/type/font-honey.css');
-@import url('https://static.omg.lol/type/fontawesome-free/css/all.css');
-@import url('https://fonts.bunny.net/css?family=open-sans:500,800&display=swap');
-
 :root {
     --foreground: #eee;
     --background: #288cf0;
