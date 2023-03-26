@@ -22,3 +22,5 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #13: Daddy's Dim Sum](/reason/13)
 - [Reason #14: Vampire Survivors](/reason/14)
 - [Reason #15: Framework](/reason/15)
+- [Reason #16: Naps](/reason/16)
+- [Reason #17: #288CF0](/reason/17)
