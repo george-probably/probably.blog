@@ -26,3 +26,4 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #17: #288CF0](/reason/17)
 - [Reason #18: Music](/reason/18)
 - [Reason #19: Longevity](/reason/19)
+- [Reason #20: The Next Generation](/reason/20)
