@@ -14,7 +14,7 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #5: stay staying :)](/reason/5)
 - [Reason #6: The (lack of) Numbers](/reason/6)
 - [Reason #7: The Desire to Keep Going (and being forgetful)](/reason/7)
-- [Reason #8: momo)](/reason/8)
+- [Reason #8: momo](/reason/8)
 - [Reason #9: Red Nose Day](/reason/9)
 - [Reason #10: Surprise Family Visits](/reason/10)
 - [Reason #11: Subset Games](/reason/11)
@@ -27,3 +27,4 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #18: Music](/reason/18)
 - [Reason #19: Longevity](/reason/19)
 - [Reason #20: The Next Generation](/reason/20)
+- [Reason #21: Bubble Tea](/reason/21)
