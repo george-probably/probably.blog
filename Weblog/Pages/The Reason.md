@@ -28,3 +28,4 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #19: Longevity](/reason/19)
 - [Reason #20: The Next Generation](/reason/20)
 - [Reason #21: Bubble Tea](/reason/21)
+- [Reason #22: A Catch-Up Call](/reason/22)
