@@ -30,3 +30,4 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #21: Bubble Tea](/reason/21)
 - [Reason #22: A Catch-Up Call](/reason/22)
 - [Reason #23: An Act of Kindness (and chocolate)](/reason/23)
+- [Reason #24: The Parental Unit](/reason/24)
