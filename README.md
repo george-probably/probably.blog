@@ -1,9 +1,9 @@
 ![George, Probably Blogs](/Images/George%20Probably%20Blogs.png)
 
-# Chachanidze.com
+# Probably.Blog
 This is a repo for the [probably.blog](https://probably.blog) Weblog. Please note that you may see posts here that aren't quite ready for prime time! I am trusting you to be considerate of the work-in-progress.
 
-## Content Calendar - February
+<!-- ## Content Calendar - February
 |     **Date**     | **Name**                                                                                                                                                             |
 |:----------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  **01/02/2023**  | [Samsung Galaxy Unpacked Impressions](https://probably.blog/2023/02/samsung-galaxy-unpacked-impressions)                                                             |
@@ -14,7 +14,7 @@ This is a repo for the [probably.blog](https://probably.blog) Weblog. Please not
 
 \* This post hasn't been published yet. (link will 404)
 
-Note: This content calendar is subject to change and is not final.
+Note: This content calendar is subject to change and is not final. -->
 ## Layout
 
 | Folder            | Contents                                                                                                                                       |
