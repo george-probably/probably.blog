@@ -35,3 +35,4 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #26: The Desire For Numbers](/reason/26)
 - [Reason #27: Recovering Old Data](/reason/27)
 - [Reason #28: Unexpected Sleep](/reason/28)
+- [Reason #29: A Major Data Outage](/reason/29)
