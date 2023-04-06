@@ -34,3 +34,4 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #25: Lazy Days](/reason/25)
 - [Reason #26: The Desire For Numbers](/reason/26)
 - [Reason #27: Recovering Old Data](/reason/27)
+- [Reason #28: Unexpected Sleep](/reason/28)
