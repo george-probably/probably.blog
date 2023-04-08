@@ -37,3 +37,4 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #28: Unexpected Sleep](/reason/28)
 - [Reason #29: A Major Data Outage](/reason/29)
 - [Reason #30: End of an Era](/reason/30)
+- [Reason #31: Friendly Visits](/reason/31)
