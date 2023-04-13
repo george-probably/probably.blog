@@ -39,4 +39,4 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #30: End of an Era](/reason/30)
 - [Reason #31: Friendly Visits](/reason/31)
 - [Reason #32: Filming Days](/reason/32)
-- [Reason #33: Connections Re-Established](/reason/33)
+- [Reason #33: Connections Re-Established](/reason/33) 
