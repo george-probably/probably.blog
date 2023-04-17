@@ -40,4 +40,4 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #31: Friendly Visits](/reason/31)
 - [Reason #32: Filming Days](/reason/32)
 - [Reason #33: Connections Re-Established](/reason/33) 
-- [Reason #34: Early Starts](/reason/34) 
+- [Reason #34: Early Starts](/reason/34)
