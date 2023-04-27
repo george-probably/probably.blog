@@ -1,7 +1,7 @@
 ---
 Type: Page
 Title: Samsung Galaxy Watch5 Pro - Setup
-Location: /setup/samsung-galaxy-watch5-pro.webp
+Location: /setup/samsung-galaxy-watch5-pro
 ---
 
 ## Samsung Galaxy Watch5 Pro
@@ -22,7 +22,7 @@ Less perfect though is the feature-set. The truth is that some features require 
 
 To activate 4G on a Galaxy Watch5 Pro you NEED to use a Samsung phone. Sure, in theory you can borrow a mate's, link your number, then reset it and pair it back to yours (eSIMs survive a factory reset), but that's not the point.
 
-Those little niggles are what stops me from really LOVING this watch. Would I have ever used the 4G? Probably not. It would have been nice to have as an option though.
+Those little niggles are what stops me from really LOVING this watch. Would I have ever used the 4G? Probably not. It would have been nice to have as an option though!
 
 Want to know my thoughts on the Mobvoi Ticwatch Pro 3 GPS? [Click here!](/setup/mobvoi-ticwatch-pro-3-gps)
 ### Verdict: 8.5/10
