@@ -6,7 +6,7 @@ Location: /setup/samsung-galaxy-watch5-pro
 
 ## Samsung Galaxy Watch5 Pro
 
-<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Samsung Galaxy Watch5 Pro" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/samsung-galaxy-watch5-pro.webp.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Samsung Galaxy Watch5 Pro" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/samsung-galaxy-watch5-pro.webp"> </div>
 
 I tried to be patient with the Ticwatch Pro 3, I really did. I said in my setup page about it that the watch itself was alright, but it was being hamstrung by terrible software support. Unfortunately, it got to the point where I felt fed up, so I ended up backsliding to my old ex Samsung to take a look at their shiny new toy.
 
