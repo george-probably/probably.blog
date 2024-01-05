@@ -48,4 +48,7 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #39: Long Lost Podcasts](/reason/39)
 - [Reason #40: Raisin (a baby)](/reason/40)
 - [Reason #41: Honesty.](/reason/41)
-<!--- - [Reason #42: ](/reason/42) ---!>
+- [Reason #42: Fire Gun](/reason/42)
+- [Reason #43: The (lack of) Trains](/reason/43)
+- [Reason #44: 26](/reason/44)
+- [Reason #45: London Gatwick Airport](/reason/45)
