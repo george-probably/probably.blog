@@ -4,6 +4,9 @@ Date: 2024-01-10 18:30
 
 ## What I Want
 
+![The word "Want" on a shop window"](https://images.unsplash.com/photo-1605364850025-1c59327db3b1?q=80&w=1000&h=622&fit=crop)<div class="caption"><p>Photo by [Christian Lue](https://unsplash.com/@christianlue) on [Unsplash](https://unsplash.com/)</p></div>
+
+
 > Inspired by a conversation I had with [Adam](https://social.lol/@adam).
 
 I really want better tech habits.

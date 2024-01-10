@@ -4,7 +4,7 @@ Date: 2023-12-31 23:59
 
 ## New Year, New Tired
 
-![A Photograph showing the year "2023" as light art.](https://images.unsplash.com/photo-1702291449620-29cdce17c405?q=80&w=1000&h=622&fit=crop)<div class="caption"><p>Photo by [Eyestetix Studio](https://unsplash.com/@eyestetix) on [Unsplash](https://unsplash.com/)</p></div>
+![A Photograph showing the year "2024"](https://images.unsplash.com/photo-1702291449620-29cdce17c405?q=80&w=1000&h=622&fit=crop)<div class="caption"><p>Photo by [Eyestetix Studio](https://unsplash.com/@eyestetix) on [Unsplash](https://unsplash.com/)</p></div>
 
 Last year, I made a post titled ["New Year, Same Tired"](https://probably.blog/2022/12/new-year-same-tired). It was a post about how, even though we were going into a new year, I felt an amount of emotional tiredness, which has been lingering for the last few years.
 
