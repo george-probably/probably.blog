@@ -73,10 +73,10 @@ Type: Template
 <div class="box">
 <h2> <i class="fa-solid fa-star"></i> Favourite Posts</h2>
 <ul>
-<li><a href='/2022/04/why-is-modern-software-so-bad'>Why is Modern Software So Bad?</a></li>
-<li><a href='/2022/12/new-year-same-tired'>New Year, Same Tired</a></li>
+<li><a href='/2023/12/new-year-new-tired'>New Year, New Tired</a></li>
 <li><a href='/2023/01/who-are-you'>Who Are You?</a></li>
 <li><a href='/2023/01/adding-more-whimsy-to-your-life'>Adding More Whimsy To Your Life</a></li>
+<li><a href='/2022/04/why-is-modern-software-so-bad'>Why is Modern Software So Bad?</a></li>
 </ul>
 </div>
 
