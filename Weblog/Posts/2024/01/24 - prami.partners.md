@@ -8,7 +8,7 @@ This week, I launched a new site! At midnight on Monday, [Prami Partners](https:
 ### What is Prami Partners?
 Prami Partners is a community-run gift exchange, specifically for [omg.lol](https://home.omg.lol/referred-by/georgeprobably) users. Adam has done an incredible job of creating a community around the site, partially thanks to [social.lol](https://social.lol/), along with the Discord server.
 
-I speak with lots of super interesting people almost every day, and I thought it would be neat to give back to the community! There is a guide price of $30/€30 for any gifts, but that's the only major rule. If you have any questions, chances are it's [in the FAQ](https://prami.parters/faq), and if it's not, you're always welcome to [reach out directly](https://george.chachanidze.com)!
+I speak with lots of super interesting people almost every day, and I thought it would be neat to give back to the community! There is a guide price of $30/€30 for any gifts, but that's the only major rule. If you have any questions, chances are it's [in the FAQ](https://prami.partners/faq), and if it's not, you're always welcome to [reach out directly](https://george.chachanidze.com)!
 
 Unfortunately, it is only for those with an [omg.lol](https://home.omg.lol/referred-by/georgeprobably) account. This is partially because I wanted to give back to this specific community, but also because running an event like this requires a lot of trust. You're handing over your personal details to a stranger and trusting that they won't abuse that information.
 
