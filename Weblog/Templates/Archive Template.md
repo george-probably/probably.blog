@@ -87,7 +87,7 @@ Type: Template
 <li><a href='/2022/04/why-is-modern-software-so-bad'>Why is Modern Software So Bad?</a></li>
 </ul>
 </div>
-
+</div>
 </main>
 <footer>
 <p>Made with <a href="https://weblog.lol">weblog.lol</a>. <br>kindness binds us</p>
