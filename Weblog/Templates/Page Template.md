@@ -14,11 +14,11 @@ Type: Template
 <meta name="apple-mobile-web-app-status-bar-style" content="#288cf0">
 
 <!-- Website RSS feed -->
-<link rel="alternate" type="application/rss+xml" title="George, Probably Blogs" href="https://probably.blog/rss.xml" />
+<link rel="alternate" type="application/rss+xml" title="George, Probably Blogs" href="https://probably.blog/rss.xml">
 <!-- Website JSON feed -->
-<link rel="alternate" type="application/json" title="George, Probably Blogs" href="https://probably.blog/feed.json" />
+<link rel="alternate" type="application/json" title="George, Probably Blogs" href="https://probably.blog/feed.json">
 <!-- Website Atom feed -->
-<link rel="alternate" type="application/atom+xml" title="George, Probably Blogs" href="https://probably.blog/atom.xml" />
+<link rel="alternate" type="application/atom+xml" title="George, Probably Blogs" href="https://probably.blog/atom.xml">
 
 <link rel="stylesheet" type="text/css" href="/style.css">
 <style>
@@ -95,10 +95,8 @@ Type: Template
 </div>
 
 </main>
-
-</main>
 <footer>
-<p>Made with <a href="https://weblog.lol">weblog.lol</a>. </br>kindness binds us</p>
+<p>Made with <a href="https://weblog.lol">weblog.lol</a>. <br>kindness binds us</p>
 </footer>
 </body>
 </html>
