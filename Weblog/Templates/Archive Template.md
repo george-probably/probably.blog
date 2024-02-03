@@ -90,7 +90,7 @@ Type: Template
 
 </main>
 <footer>
-<p>Made with <a href="https://weblog.lol">weblog.lol</a>. </br>kindness binds us</p>
+<p>Made with <a href="https://weblog.lol">weblog.lol</a>. <br>kindness binds us</p>
 </footer>
 </body>
 </html>
