@@ -91,7 +91,7 @@ Type: Template
 <div class="box">
 <a href="/archive"><h2> <i class="fa-solid fa-archive"></i> Dig through the Archive</h2></a>
 </div>
-
+</div>
 </main>
 <footer>
 <p>Made with <a href="https://weblog.lol">weblog.lol</a>. <br>kindness binds us</p>
