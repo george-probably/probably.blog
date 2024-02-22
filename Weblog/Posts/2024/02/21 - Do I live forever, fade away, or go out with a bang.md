@@ -19,4 +19,11 @@ In that case, maybe the easiest course of action is to do nothing. One day, I st
 I'd be giving in to the churn of entropy, but that's fine. Lots of YouTube channels, or podcasts, or blogs just stop one day. After all, there was a day during your childhood when you were called home for dinner, said "see you tomorrow" to your friends, and that tomorrow never came.
 
 ### Go Out With a Bang!
-So why don't I embrace the chaos, go out on my own terms? Decide when enough is enough, and [ride off into the sunset strapped to a helicopter](https://www.youtube.com/watch?v=7DKv5H5Frt0). 
+So why don't I embrace the chaos, go out on my own terms? Decide when enough is enough, and [ride off into the sunset strapped to a helicopter](https://www.youtube.com/watch?v=7DKv5H5Frt0). The truth is, most people don't get that opportunity. Even if they did, would it feel... genuine? 
+
+The risk is that it comes across as me trying to get praise whilst still here.
+
+> "I just want my flowers while I'm here
+> So I can put them at the front of the grave
+> That I've been diggin' myself"
+> [We're All Alone](https://song.link/y/DrLuMZoAcN8) by [Dave](https://www.wikiwand.com/en/Dave_(rapper))
