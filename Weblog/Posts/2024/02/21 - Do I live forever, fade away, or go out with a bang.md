@@ -25,7 +25,7 @@ So why don't I embrace the chaos, go out on my own terms? Decide when enough is 
 
 The risk is that it comes across as me trying to get praise whilst still here. The idea of wanting to hear people say "Oh George, your writing is so perfect, you couldn't possible stop now!"
 
-> "I just want my flowers while I'm here so I can put them at the front of the grave that I've been diggin' myself"  
+> "I just want my flowers while I'm here so I can put them at the front of the grave that I've been digging myself."  
 > \- [We're All Alone](https://song.link/y/DrLuMZoAcN8) by [Dave](https://www.wikiwand.com/en/Dave_(rapper))
 
 If you're Tom Scott, you can somewhat get away with it. You're a widely loved content creator (I still hate that phrase) who has been seen as generally creating consistently high-quality content. I'm not Tom Scott though. Or MatPat. Or... you get the idea, lots of YouTubers have retired this year.
