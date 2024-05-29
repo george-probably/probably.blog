@@ -4,7 +4,7 @@ Date: 2024-01-05 16:40
 
 ## Convert a Spotify Account From Facebook to Email Login
 
-<blockquote style="background-color:red;font-style:normal;font-weight:bold;">
+<blockquote style="background-color:#aa0000;font-style:normal;font-weight:bold;">
 <p>This is a post ripped directly from <a href="https://rknight.me/blog/convert-spotify-facebook-to-email-login/">Robb Knight's Blog</a> with permission from Robb. This is because it was <a href="https://social.lol/@robb/111704215593992932">potentally maliciously reported as phishing.</a> Fuck Facebook.</p>
 </blockquote>
 
