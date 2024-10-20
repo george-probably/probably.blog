@@ -55,3 +55,4 @@ The Reason is a daily series of posts. I haven't committed to living forever, bu
 - [Reason #46: WeblogPoMo Fo Sho!](/reason/46)
 - [Reason #47: Chelsea 2 - 0 Tottenham Hotspur,  02/04/2024](/reason/47)
 - [Reason #48: Strangers on a Train](/reason/48)
+- [Reason #49: New, shiny tech](/reason/49)
