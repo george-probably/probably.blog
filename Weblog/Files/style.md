@@ -310,4 +310,15 @@ del {
     /* text-decoration-style: wavy;
     text-decoration-color: #ff0000CC; */
 }
+
+::selection {
+    background: var(--articleBorder);
+    color: var(--background);
+}
+
+:hover::selection {
+    background: #ffd43b;
+    color: var(--articleBG);
+}
+
 </style>
