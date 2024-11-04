@@ -14,7 +14,7 @@ I can't blame the person who listed it though, Microsoft seems entirely incapabl
 
 Dumb name aside, modern comforts like quick-resume and a lightning fast SSD means that it is an absolute joy to game on. I will however still complain about the fact that you can't connect regular Bluetooth headsets, and if you want a wireless headset which works, you need one certified by Microsoft.
 
-If you're intention is to get some light gaming done as you wait for videos to render out, you can't go wrong. Better still? Some games even support keyboard and mouse input!
+If your intention is to get some light gaming done as you wait for videos to render out, you can't go wrong. Better still? Some games even support keyboard and mouse input!
 
 ### Verdict: 9/10
 
