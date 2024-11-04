@@ -12,7 +12,7 @@ My loose thoughts on the Mac Studio are that it does the exact job I got it for,
 
 Apple, the company that knows what you want more than you do, *did* make this the very definition of "if you use it for what Apple wants you to use it for, it's second to none. " If you don't, it's worthless".
 
-Though you can get some games via the App Store, the selection is very hit-and-miss. If you want to do some proper gaming, you *could* install Parallels to get Windows, but performance varies wildly by game. Also: the fact you can't so much as upgrade the storage is the most Apple thing I've ever seen
+Though you can get some games via the App Store, the selection is very hit-and-miss. If you want to do some proper gaming, you *could* install Parallels to get Windows, but performance varies wildly by game. Also: the fact you can't so much as upgrade the storage is the most Apple thing I've ever seen!
 
 macOS is the most infuriating part of the device, though, and if it natively ran Windows, it'd probably be the perfect machine, but since it's not...
 
@@ -22,7 +22,7 @@ macOS is the most infuriating part of the device, though, and if it natively ran
 
 - [Magnet](https://magnet.crowdcafe.com/) - Window Management: Stage manager feels like an iPad feature, and I've yet to see someone use it on macOS. The fact that window management is so far behind... well... Windows is crazy to me.
 
-- [Shottr](https://shottr.cc/): Better Screenshots; it's like Cleanshot X, which everyone raves about, but has slightly fewer features and is free. I send screenshots often, but when I do, it's with the help of Shottr.
+- [Shottr](https://shottr.cc/): Better Screenshots: it's like Cleanshot X, which everyone raves about, but has slightly fewer features and is free. I don't send screenshots often, but when I do, it's with the help of Shottr.
 
 - [AltTab](https://alt-tab-macos.netlify.app/): Apple, seriously, what is your alt-tab experience? AltTab makes it 100x better, including previews and multiple windows of the same application.
 
