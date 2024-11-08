@@ -12,6 +12,8 @@ Location: /style.css
 }
 
 table {
+    display: block;
+    overflow-x: auto;
     border-collapse: collapse;
     border-spacing: 0;
     width: 100%;
