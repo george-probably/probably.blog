@@ -6,7 +6,7 @@ Location: /setup/steam-deck-oled
 
 ## Steam Deck OLED
 
-<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Steam Deck OLED" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/steam-deck-oled.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Steam Deck OLED" src="https://raw.githubusercontent.com/george-probably/probably.blog/main/Images/setup/steam-deck-oled.webp"> </div>
 
 I consider this an evolution of my Switch OLED. It's that device, but with much more gaming horsepower, and with controllers that don't give you hand cramps if you hold it for too long.
 

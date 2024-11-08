@@ -6,7 +6,7 @@ Location: /setup/bose-qc35-ii
 
 ## Bose QC35 II
 
-<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Bose QC35 II" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/bose-qc35-ii.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Bose QC35 II" src="https://raw.githubusercontent.com/george-probably/probably.blog/main/Images/setup/bose-qc35-ii.webp"> </div>
 
 The Bose QC35 II are my go-to headphones when it comes to either long-term listening, or listening on-the-go. The noise cancelling is incredible, and the headphones themselves are super comfortable for extended wearing.
 

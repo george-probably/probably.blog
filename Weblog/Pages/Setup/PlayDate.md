@@ -6,7 +6,7 @@ Location: /setup/playdate
 
 ## PlayDate
 
-<div class="img-container-wide"> <img class="setup-image" alt="A picture of the PlayDate" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/playdate.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the PlayDate" src="https://raw.githubusercontent.com/george-probably/probably.blog/main/Images/setup/playdate.webp"> </div>
 
 I only received my PlayDate a few weeks ago, but I already see it as an irreplaceable part of my gaming life. For those who don't know: The PlayDate is a $179 handheld gaming console released by Panic. You'll know them from Nova, an excellent code editor for macOS, or publishing games like Untitled Goose Game and the award-winning Firewatch.
 

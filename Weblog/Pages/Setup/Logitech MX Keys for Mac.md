@@ -6,7 +6,7 @@ Location: /setup/logitech-mx-keys
 
 ## Logitech MX Keys
 
-<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Logitech MX Keys" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/logitech-mx-keys-for-mac.webp" )> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Logitech MX Keys" src="https://raw.githubusercontent.com/george-probably/probably.blog/main/Images/setup/logitech-mx-keys-for-mac.webp" )> </div>
 
 I started my Logitech peripheral journey by buying a Logitech Craft back in 2017 (the one with the funky wheel). I absolutely loved the low-profile keys, and typing on it was an absolute joy.
 

@@ -6,7 +6,7 @@ Location: /setup/google-pixel-buds-pro
 
 ## Google Pixel Buds Pro
 
-<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Google Pixel Buds Pro" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-pixel-buds-pro.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Google Pixel Buds Pro" src="https://raw.githubusercontent.com/george-probably/probably.blog/main/Images/setup/google-pixel-buds-pro.webp"> </div>
 
 Part of my disappointment in the Google Pixel Buds Pro is that the phone did such an incredible job of replacing its Samsung counterpart, and I had kinda hoped that they could do the same here too. Unfortunately, though they have tried their hardest to compete, Google has come up just a couple of steps short of Samsung.
 

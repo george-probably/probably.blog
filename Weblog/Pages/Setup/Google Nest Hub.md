@@ -6,7 +6,7 @@ Location: /setup/google-nest-hub
 
 ## Google Nest Hub
 
-<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Google Nest Hub" src="https://raw.githubusercontent.com/george-probably/chachanidze.com/main/Images/setup/google-nest-hub.webp"> </div>
+<div class="img-container-wide"> <img class="setup-image" alt="A picture of the Google Nest Hub" src="https://raw.githubusercontent.com/george-probably/probably.blog/main/Images/setup/google-nest-hub.webp"> </div>
 
 The Google Nest Hub serves a mixed purpose for me. Sometimes, I use it as a second screen for playing Netflix / Twitch / YouTube. Sometimes I run music on it if I'm playing on my Xbox. Sometimes, if I'm feeling extra risqué, I'll even use it as an actual smart home device to control lights!
 
