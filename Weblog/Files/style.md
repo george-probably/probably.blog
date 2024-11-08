@@ -25,6 +25,7 @@ table td:first-child {
 table td, table th {
     border: 5px solid var(--articleBorder);
     text-align: center;
+    background: var(--articleBG);
 }
 
 table th:first-of-type {

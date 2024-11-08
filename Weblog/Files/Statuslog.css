@@ -1,0 +1,104 @@
+:root {
+    --foreground: #eee;
+    --background: #288cf0;
+    --link: #eee;
+    --unimportant: #ebebeb;
+    --articleBG: #1c62a8;
+    --articleBorder: #083e73;
+}
+
+@media (prefers-color-scheme: dark){
+    :root {
+    --foreground: #eee;
+    --background: #083e73;
+    --link: #eee;
+    --unimportant: #ebebeb;
+    --articleBG: #1c62a8;
+    --articleBorder: #288cf0;
+    }
+}
+/* default (dark) */
+.dark-mode, body {
+	background: var(--background) !important;
+	color: var(--foreground) !important;
+	
+	:root {
+		--border: var(--articleBorder);
+		--background-border: var(--articleBG);
+	}
+}
+
+/* light */
+.light-mode {
+	background: var(--background) !important;
+	color: var(---foreground) !important;
+	
+	:root {
+		--border: var(--articleBorder);
+		--background-border: var(--articleBG);
+	}
+}
+
+a:link { color: var(--link) !important; text-decoration: none !important; border-bottom: 1px dotted var(--link); }
+a:visited { color: var(--link !important); text-decoration: none !important; border-bottom: 1px dotted var(--link) }
+a:hover { color: var(--link) !important; text-decoration: none !important; border-bottom: 1px solid var(--link) }
+a:active { color: var(--link) !important; text-decoration: none !important; border-bottom: 1px solid var(--link) }
+
+
+a.card.flex.rounded.gray-9-fg {
+    background-color: var(--articleBG) !important;
+    color: var(--foreground) !important;
+	border: 5px solid var(--articleBorder);
+	padding: 5px;
+}
+
+.flex.gray-9-fg {
+    background-color: var(--articleBG) !important;
+    color: var(--foreground) !important;
+	border-radius: var(--radius);
+    border: 5px solid var(--articleBorder);
+    padding: 5px;
+}
+
+div#bio {
+    background: var(--articleBG) !important;
+    color: var(--foreground) !important;
+    box-shadow: none;
+    border: 5px solid var(--articleBorder);
+    border-radius: var(--radius);
+}
+
+a.card.container.rounded.teal-2-bg.gray-9-fg {
+    background-color: var(--articleBG) !important;
+    color: var(--foreground) !important;
+    border: 5px solid var(--articleBorder);
+    padding: 5px;
+}
+
+.gray-7-fg {
+    color: var(--link) !important;
+}
+
+#color_mode_button {
+    visibility: hidden;
+}
+
+a.inline.button.blue-8-bg {
+    visibility: hidden;
+}
+
+.footer {
+    text-align: center;
+    font-size: 80%;
+    color: var(--foreground);
+}
+
+::selection {
+    background: var(--articleBorder);
+    color: var(--background);
+}
+
+:hover::selection {
+    background: var(--yellow-3);
+    color: var(--articleBG);
+}
