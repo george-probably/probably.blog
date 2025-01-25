@@ -1,6 +1,5 @@
 ---
-Date: 2025-01-25 23:59
-Status: Draft
+Date: 2025-01-25 21:30
 social-image: https://images.unsplash.com/photo-1557148353-009729a39979?q=80&w=1000&h=622&fit=crop
 ---
 
@@ -38,7 +37,7 @@ I'm Tired. Tired of watching the world burn. In tv shows and movies being a vill
 
 The rich are getting richer, and the poor are getting poorer. A large part of that is the willingness of the rich to [make employees piss in bottles](https://www.forbes.com/sites/katherinehamilton/2023/05/24/delivery-drivers-sue-amazon-for-being-forced-to-pee-in-bottles/), or to operate with [Child Labour and Human Rights violations](https://www.culawreview.org/journal/child-labor-and-the-human-rights-violations-embedded-in-producing-technology).
 
-Companies with monopolistic business practises are given a slap on the wrist for stifiling competition, and the "bigger number = better person" mega-corporations, but to many social media influencers. 
+Companies with monopolistic business practises are given a slap on the wrist for stifiling competition, and the "bigger number = better person" mega-corporations, but to many social media influencers.
 
 ---
 
