@@ -9,14 +9,6 @@ social-image: https://images.unsplash.com/photo-1557148353-009729a39979?q=80&w=1
 
 > I have a few islands of thought that I can’t elegantly bridge right now, so I am offering them here in their raw form.
 
----
-
-I'm Tired. Tired of pretending I'm okay. It's not just that I'm unhappy, it's that I'm not sure if I even have the capacity for genuine long-term happiness. I have happy moments, but the higher the high, the deeper the crash.
-
-Do I deserve the friends I have? That's the question I ultimately find myself coming back to. Deep down, known only to themselves, is there a part of them which feels that they'd be even the slightest bit happier without me around?
-
----
-
 I'm Tired. Tired of caring. I often think about how much easier it would be to be less moral person, that I'd easily be rich. Let's be honest, scam call centers clearly aren't struggling financially. Maybe I'd pump-and-dump a cryptocurrency. Hell, I could go really far off the deep end and do some black-hat hacking.
 
 The reason I don't do any of these things is that I find it hard enough to sleep at night as it is. I don't need the added weight of knowing someone trusted me and I abused that trust.
@@ -35,9 +27,15 @@ It's no one's fault, it's just what happens when you're not forced to see people
 
 I'm Tired. Tired of watching the world burn. In tv shows and movies being a villain never pays, but it feels like in real life the "winners" (financially, if nothing else) are the ones who are the most evil. Willing to profit off the most in-need by releasing a crypto coin, or claiming climate change isn't real as an excuse to extract every last penny of oil from the Earth.
 
-The rich are getting richer, and the poor are getting poorer. A large part of that is the willingness of the rich to [make employees piss in bottles](https://www.forbes.com/sites/katherinehamilton/2023/05/24/delivery-drivers-sue-amazon-for-being-forced-to-pee-in-bottles/), or to operate with [Child Labour and Human Rights violations](https://www.culawreview.org/journal/child-labor-and-the-human-rights-violations-embedded-in-producing-technology).
+The rich are getting richer, and the poor are getting poorer. A large part of that is the willingness of the rich to [make employees urinate in bottles](https://www.forbes.com/sites/katherinehamilton/2023/05/24/delivery-drivers-sue-amazon-for-being-forced-to-pee-in-bottles/), or to operate with [Child Labour and Human Rights violations](https://www.culawreview.org/journal/child-labor-and-the-human-rights-violations-embedded-in-producing-technology).
 
 Companies with monopolistic business practises are given a slap on the wrist for stifiling competition, and the "bigger number = better person" mega-corporations, but to many social media influencers.
+
+---
+
+I'm Tired. Tired of pretending I'm okay. It's not just that I'm unhappy, it's that I'm not sure if I even have the capacity for genuine long-term happiness. I have happy moments, but the higher the high, the deeper the crash.
+
+Do I deserve the friends I have? That's the question I ultimately find myself coming back to. Deep down, known only to themselves, is there a part of them which feels that they'd be even the slightest bit happier without me around?
 
 ---
 
