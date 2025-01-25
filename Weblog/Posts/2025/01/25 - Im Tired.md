@@ -14,7 +14,7 @@ social-image: https://images.unsplash.com/photo-1557148353-009729a39979?q=80&w=1
 
 I'm Tired. Tired of pretending I'm okay. It's not just that I'm unhappy, it's that I'm not sure if I even have the capacity for genuine long-term happiness. I have happy moments, but the higher the high, the deeper the crash.
 
-Do I deserve the friends I have? 
+Do I deserve the friends I have? That's the question I ultimately find myself coming back to. Deep down, known only to themselves, is there a part of them which feels that they'd be even the slightest bit happier without me around?
 
 ---
 
@@ -28,11 +28,15 @@ I'm Tired. Tired of watching the world burn.
 
 ---
 
-I'm Tired. Tired of this fake meritocracy. Most men **HAVE** to believe in the world being a perfect meritocracy, because the alternative is that the system not only *is* biased, but they are the ones that benefitted from it, and therefore they have not earned everything they have. It becomes more pronouced the further up the chain you go, such as with the uber-wealthy. “I succeeded because I worked so much harder than everyone else”, failing to acknowledge the sheer luck of it all.
+I'm Tired. Tired of this fake meritocracy. Most men **HAVE** to believe in the world being a perfect meritocracy, because the alternative is that the system not only *is* biased, but they are the ones that benefitted from it, and therefore they have not earned everything they have.
+
+It becomes more pronouced the further up the chain you go, such as with the uber-wealthy. “I succeeded because I worked so much harder than everyone else”, failing to acknowledge the sheer luck of it all.
 
 It manifests in so many tiny ways. I've never had to worry about how my clothing would be percieved by others in the office. Or if the reason someone got a promotion over me was because he's "one of the lads". Or if my angry email at someone will mean that I am now labelled "emotional". 
 
-I get it, it's `#NotAllMen`, but it is a SHOCKINGLY large number of us. It's a deep-rooted fear that by giving rights to others will lead to less rights for themselves. A meritocracy doesn't mean equal outcomes, it means equal opportunities. The reaction of men when the roles are reversed often tellls you a lot about their character (think dads who do the school run, not part of the "in" crowd of mums).
+I get it, it's `#NotAllMen` , but it is a SHOCKINGLY large number of us. It's a deep-rooted fear that by giving rights to others will lead to less rights for themselves. A meritocracy doesn't mean equal outcomes, it means equal opportunities.
+
+The reaction of men when the roles are reversed often tells you a lot about their character (think dads who do the school run, not part of the "in" crowd of mums). Alternatively, Ghetts, who sings ["It's ironic boys havin' daughters made us real men"](https://song.link/gb/i/1711311769).
 
 ---
 
