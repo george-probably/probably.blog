@@ -32,7 +32,7 @@ I'm Tired. Tired of this fake meritocracy. Most men **HAVE** to believe in the w
 
 It manifests in so many tiny ways. I've never had to worry about how my clothing would be percieved by others in the office. Or if the reason someone got a promotion over me was because he's "one of the lads". Or if my angry email at someone will mean that I am now labelled "emotional". 
 
-I get it, it's #NotAllMen, but it is a SHOCKINGLY large number of us. It's a deep-rooted fear that by giving rights to others will lead to less rights for themselves. A meritocracy doesn't mean equal outcomes, it means equal opportunities. The reaction of men when the roles are reversed often tellls you a lot about their character (think dads who do the school run, not part of the "in" crowd of mums).
+I get it, it's `#NotAllMen`, but it is a SHOCKINGLY large number of us. It's a deep-rooted fear that by giving rights to others will lead to less rights for themselves. A meritocracy doesn't mean equal outcomes, it means equal opportunities. The reaction of men when the roles are reversed often tellls you a lot about their character (think dads who do the school run, not part of the "in" crowd of mums).
 
 ---
 
