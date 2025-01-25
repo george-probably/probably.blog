@@ -22,6 +22,10 @@ I'm Tired. Tired of caring. I often say that all it would take is for me to be a
 
 The reason I don't do any of these things is that I find it hard enough to sleep at night as it is. I don't need the added weight of knowing someone trusted me and I abused that trust.
 
+People who know me will know that I *feel* a lot. I don't mean that in a bi-polar highs-and-lows sort of way (though that is also true). I mean that in a "I would travel two hours to see you because you messaged me saying you need a hug" kind of way. In a "I will sit on a call with you for hours as you try to fall asleep, because you don't want to do it on your own" kind of way. 
+
+I would never change that about myself. I give all of myself to everyone in my life, without hesitation, but it can be exhausting. I don't so much wear my heart on my sleeve as I throw it willingly at anyone who asks.
+
 ---
 
 I'm Tired. Tired of watching the world burn. In tv shows and movies being a villain never pays, but it feels like in real life the "winners" (financially, if nothing else) are the ones who are the most evil. Willing to profit off the most in-need by releasing a crypto coin, or claiming climate change isn't real as an excuse to extract every last penny of oil from the Earth.
