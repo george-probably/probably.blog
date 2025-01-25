@@ -18,13 +18,13 @@ Do I deserve the friends I have? That's the question I ultimately find myself co
 
 ---
 
-I'm Tired. Tired of caring. I often say that all it would take is for me to be a significantly less moral person, and I'd easily be rich. Let's be honest, scam call centers clearly aren't struggling financially. Maybe I'd pump-and-dump a crypto currency. Hell, I could go really far off the deep end and do some black-hat hacking.
+I'm Tired. Tired of caring. I often say that all it would take is for me to be a significantly less moral person, and I'd easily be rich. Let's be honest, scam call centers clearly aren't struggling financially. Maybe I'd pump-and-dump a cryptocurrency. Hell, I could go really far off the deep end and do some black-hat hacking.
 
 The reason I don't do any of these things is that I find it hard enough to sleep at night as it is. I don't need the added weight of knowing someone trusted me and I abused that trust.
 
 ---
 
-I'm Tired. Tired of watching the world burn. In tv shows and movies being a villain never pays, but it feels like in real life the "winners" (financially, if nothing else) are the ones who are the most evil. Willing to profit off the poor by either 
+I'm Tired. Tired of watching the world burn. In tv shows and movies being a villain never pays, but it feels like in real life the "winners" (financially, if nothing else) are the ones who are the most evil. Willing to profit off the most in-need by releasing a crypto coin, or claiming climate change isn't real as an excuse to extract every last penny of oil from the Earth.
 
 ---
 
