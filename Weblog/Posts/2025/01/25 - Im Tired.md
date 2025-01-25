@@ -9,6 +9,8 @@ social-image: https://images.unsplash.com/photo-1557148353-009729a39979?q=80&w=1
 
 > I have a few islands of thought that I can’t elegantly bridge right now, so I am offering them here in their raw form.
 
+---
+
 I'm Tired. Tired of caring. I often think about how much easier it would be to be less moral person, that I'd easily be rich. Let's be honest, scam call centers clearly aren't struggling financially. Maybe I'd pump-and-dump a cryptocurrency. Hell, I could go really far off the deep end and do some black-hat hacking.
 
 The reason I don't do any of these things is that I find it hard enough to sleep at night as it is. I don't need the added weight of knowing someone trusted me and I abused that trust.
@@ -61,4 +63,4 @@ I generally consider myself a fairly open book, if you ask me a direct question 
 
 ---
 
-I can't make **THE** world a better place, but I can try to make **MY** world a better place.
+I can't make **THE** world a better place, but I can try to make **MY** world a better place. One step at a time. Always forward.
