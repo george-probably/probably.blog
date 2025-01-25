@@ -18,7 +18,7 @@ Do I deserve the friends I have? That's the question I ultimately find myself co
 
 ---
 
-I'm Tired. Tired of caring. I often say that all it would take is for me to be a significantly less moral person, and I'd easily be rich. Let's be honest, scam call centers clearly aren't struggling financially. Maybe I'd pump-and-dump a cryptocurrency. Hell, I could go really far off the deep end and do some black-hat hacking.
+I'm Tired. Tired of caring. I often think about how much easier it would be to be less moral person, that I'd easily be rich. Let's be honest, scam call centers clearly aren't struggling financially. Maybe I'd pump-and-dump a cryptocurrency. Hell, I could go really far off the deep end and do some black-hat hacking.
 
 The reason I don't do any of these things is that I find it hard enough to sleep at night as it is. I don't need the added weight of knowing someone trusted me and I abused that trust.
 
@@ -28,7 +28,17 @@ I would never change that about myself. I give all of myself to everyone in my l
 
 ---
 
+I'm Tired. Tired of not knowing who I am. It would be so much simpler to just be British, or just be Georgian. Instead it feels like I'm not enough of either of those, and I'm instead stuck in the middle. My previous lives, meeting so many amazing people, making so many incredible friends. It doesn't feel like I've made more friends than most, it feels like I've lost more. I have a long list of people I've slowly lost touch with, the waves of life pushing us apart.
+
+It's no one's fault, it's just what happens when you're not forced to see people every day. Like when you leave a job, and everyone tells you "Stay in touch!", knowing full well that you will likely never talk to most of those people ever again. It's a white lie we tell ourselves to mask the painful truth.
+
+---
+
 I'm Tired. Tired of watching the world burn. In tv shows and movies being a villain never pays, but it feels like in real life the "winners" (financially, if nothing else) are the ones who are the most evil. Willing to profit off the most in-need by releasing a crypto coin, or claiming climate change isn't real as an excuse to extract every last penny of oil from the Earth.
+
+The rich are getting richer, and the poor are getting poorer. A large part of that is the willingness of the rich to [make employees piss in bottles](https://www.forbes.com/sites/katherinehamilton/2023/05/24/delivery-drivers-sue-amazon-for-being-forced-to-pee-in-bottles/), or to operate with [Child Labour and Human Rights violations](https://www.culawreview.org/journal/child-labor-and-the-human-rights-violations-embedded-in-producing-technology).
+
+Companies with monopolistic business practises are given a slap on the wrist for stifiling competition, and the "bigger number = better person" mega-corporations, but to many social media influencers. 
 
 ---
 
@@ -41,12 +51,6 @@ It manifests in so many tiny ways. I've never had to worry about how my clothing
 I get it, it's `#NotAllMen` , but it is a SHOCKINGLY large number of us. It's a deep-rooted fear that by giving rights to others will lead to less rights for themselves. A meritocracy doesn't mean equal outcomes, it means equal opportunities.
 
 The reaction of men when the roles are reversed often tells you a lot about their character (think dads who do the school run, and are not part of the "in" crowd of mums). Alternatively, Ghetts, who raps ["It's ironic boys havin' daughters made us real men"](https://song.link/gb/i/1711311769).
-
----
-
-I'm Tired. Tired of not knowing who I am. It would be so much simpler to just be British, or just be Georgian. Instead it feels like I'm not enough of either of those, and I'm instead stuck in the middle. My previous lives, meeting so many amazing people, making so many incredible friends. It doesn't feel like I've made more friends than most, it feels like I've lost more. I have a long list of people I've slowly lost touch with, the waves of life pushing us apart.
-
-It's no one's fault, it's just what happens when you're not forced to see people every day. Like when you leave a job, and everyone tells you "Stay in touch!", knowing full well that you will likely never talk to most of those people ever again. It's a white lie we tell ourselves to mask the painful truth.
 
 ---
 
