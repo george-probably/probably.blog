@@ -24,7 +24,7 @@ The reason I don't do any of these things is that I find it hard enough to sleep
 
 ---
 
-I'm Tired. Tired of watching the world burn.
+I'm Tired. Tired of watching the world burn. In tv shows and movies being a villain never pays, but it feels like in real life the "winners" (financially, if nothing else) are the ones who are the most evil. Willing to profit off the poor by either 
 
 ---
 
@@ -36,11 +36,13 @@ It manifests in so many tiny ways. I've never had to worry about how my clothing
 
 I get it, it's `#NotAllMen` , but it is a SHOCKINGLY large number of us. It's a deep-rooted fear that by giving rights to others will lead to less rights for themselves. A meritocracy doesn't mean equal outcomes, it means equal opportunities.
 
-The reaction of men when the roles are reversed often tells you a lot about their character (think dads who do the school run, not part of the "in" crowd of mums). Alternatively, Ghetts, who sings ["It's ironic boys havin' daughters made us real men"](https://song.link/gb/i/1711311769).
+The reaction of men when the roles are reversed often tells you a lot about their character (think dads who do the school run, and are not part of the "in" crowd of mums). Alternatively, Ghetts, who raps ["It's ironic boys havin' daughters made us real men"](https://song.link/gb/i/1711311769).
 
 ---
 
-I'm Tired. Tired of not knowing who I am. It would be so much simpler to just be British, or just be Georgian. Instead it feels like I'm not enough of either of those, and I'm instead stuck in the middle. My previous lives, meeting so many amazing people, making so many incredible friends. It doesn't feel like I've made more friends than most, it feels like I've lost more
+I'm Tired. Tired of not knowing who I am. It would be so much simpler to just be British, or just be Georgian. Instead it feels like I'm not enough of either of those, and I'm instead stuck in the middle. My previous lives, meeting so many amazing people, making so many incredible friends. It doesn't feel like I've made more friends than most, it feels like I've lost more. I have a long list of people I've slowly lost touch with, the waves of life pushing us apart.
+
+It's no one's fault, it's just what happens when you're not forced to see people every day. Like when you leave a job, and everyone tells you "Stay in touch!", knowing full well that you will likely never talk to most of those people ever again. It's a white lie we tell ourselves to mask the painful truth.
 
 ---
 
@@ -49,5 +51,9 @@ I'm Tired. Tired of being tired. I feel wary calling it a "New Year's Resolution
 Most of my bad habits aren't conscious choices. When I bite my nails it's because I've got nothing else to do with my hands. When I overeat it's because I put a full bowl of M&Ms on my desk, and by the time I've consciously clocked that I've had any, it turns out I've eaten them all.
 
 Because of that, getting myself together is less about changing who or what I am, and more about being aware of my actions. If I want some chocolate, it's about being conscious of the fact I'm eating it, and enjoying the amount I have. Not having as much as I can before it's either all gone or I feel sick. I mentally call myself out when I notice I'm about to start biting my nails. I've started seeing a therapist to get my mind straight.
+
+I generally consider myself a fairly open book, if you ask me a direct question (even if a little awkward) I'll give a direct answer. I don't usually go shouting it all from the rooftops (unless you look at [my lyrics page](https://listening.probably.blog/)), but I'm always willing to talk about it.
+
+---
 
 I can't make **THE** world a better place, but I can try to make **MY** world a better place.
