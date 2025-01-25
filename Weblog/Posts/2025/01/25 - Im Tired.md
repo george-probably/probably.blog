@@ -36,7 +36,7 @@ I get it, it's #NotAllMen, but it is a SHOCKINGLY large number of us. It's a dee
 
 ---
 
-I'm Tired. Tired of not knowing who I am. It would be so much simpler to just be British, or just be Georgian. Instead it feels like I'm not enough of either of those, and I'm instead stuck in the middle.
+I'm Tired. Tired of not knowing who I am. It would be so much simpler to just be British, or just be Georgian. Instead it feels like I'm not enough of either of those, and I'm instead stuck in the middle. My previous lives, meeting so many amazing people, making so many incredible friends. It doesn't feel like I've made more friends than most, it feels like I've lost more
 
 ---
 
