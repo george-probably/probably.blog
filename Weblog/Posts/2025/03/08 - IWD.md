@@ -7,7 +7,6 @@ Location: /2025/03/iwd
 ## International Women's Day 2025
 
 ![Tired man with hands covering face](https://raw.githubusercontent.com/george-probably/probably.blog/main/Images/iwd/Social.webp)
-
 Women exist and spend on average 2.8 hours more per dadoing unpaid care and domestic work. 🚨HOT TAKE ALERT🚨That is not okay. I am  lucky to have a lot of inspirational women in my life, so let’s take a moment to celebrate some of my favourites!
 
 ![Euge cuddling her dog, Sephy](https://raw.githubusercontent.com/george-probably/probably.blog/main/Images/iwd/Genie.webp)
