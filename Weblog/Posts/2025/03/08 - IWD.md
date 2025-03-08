@@ -1,6 +1,6 @@
 ---
 Date: 2025-03-08 18:00
-social-image: https://images.unsplash.com/photo-1557148353-009729a39979?q=80&w=1000&h=622&fit=crop
+social-image: https://raw.githubusercontent.com/george-probably/probably.blog/main/Images/iwd/Social.webp
 Location: /2025/03/iwd
 ---
 
